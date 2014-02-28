@@ -1,33 +1,31 @@
-# Agile Development Processes - lp4, vt2013
+# Agile Development Processes - lp4, vt2014
 
-Exam review 2 will be held on Oct 8, 12:00-13:00 in Jupiter 400 (where you had the customer proxy meetings).
+First meeting is on March-18, 13:15, Room J121. Looking forward to meet you there!
+
+Last update: 2014-02-28
 
 ## Course Description
-Software remains malleable, often illogical, and incomplete forever. *Sequential approaches* to software development, such as the *waterfall model*, assumes that it is possible to take every single variable that could affect a project into account beforehand. Considerable effort is spent to identify risks, plan mitigation, and what consequences these may have. From a traditional product perspective, this can be compared to creating an assembly line to produce software.
+Agile software development aims at setting up an environment to develop software based on the following principles from the agile manifesto:
 
-Given the nature of software, is it really feasible to identify all variables beforehand? *Iterative and incremental approaches* accepts that changes are inevitable and integrates change management into the development process. *Agile approaches* promotes iterative and incremental development by using a very tight *design-code-test* cycle. If we again use a traditional product perspective, this can be compared to new product development.
+- Individuals and interactions is valued more than processes and tools
+- Working software is valued more than comprehensive documentation
+- Customer collaboration is valued more than contract negotiation
+- Responding to change is valued more than following a plan
 
-In this course you will teach you how to design and develop software, and to manage projects, using these agile principles:
+At the core of these principles it the realization that changes are inevitable and the conclusion that change management needs to be integrated into the development process. *Agile approaches* promotes iterative and incremental development by using a very tight *design-code-test* cycle. 
 
-- The customer is a part of the development team Incremental development 
-- The developer should not be hindered by the process 
-- Embrace changes 
-- Continues refactoring (restructuring) of the design
+In this interactive course we will explore together how to apply these agile principles to develop software and manage projects.
  
-After passing the course, you will be able to lead agile projects, work without a detail schedule, use test driven development, refactor programs, be part of a programming pair, and much more. 
+After passing the course, you will be able to lead agile projects, use test driven development, refactor programs, be part of a programming pair, and much more. 
 
 ## Teachers
 
-- Morgan Ericsson (ME), ext 6075, room J423, morgan.ericsson@chalmers.se (examiner and lecturer)
+- Eric Knauss (EK), ext 1080, room J480, eric.knauss@cse.gu.se (examiner and lecturer)
 - Emil Alégroth (EA), emil.alegroth@chalmers.se, (teaching assistant)
 
 ## Student representatives
 
-- Luis Arce González, arce@student.chalmers.se
-- Magaly Anjom, magaly@student.chalmers.se
-- Andreas Andersson, andander@student.chalmers.se
-- Fredrik Axelsson, freaxel@student.chalmers.se
-- Maciej Krzysztof Makarewicz, maciejk@student.chalmers.se
+To be announced.
 
 ## Course Litteratur
 
@@ -36,43 +34,62 @@ After passing the course, you will be able to lead agile projects, work without 
 
 ## Lectures and Workshops (In progress…)
 
+This lecture is organized in three sprints. 
+
+- **Sprint 1 (Fundamentals):** We will focus on getting you started and discuss agile principles, actionable practices, and help with setting up the project work.
+- **Sprint 2 (Getting work done):** We will focus on getting you working in the teams, applying agile practices, and collecting experience. Teaching will focus on industrial practice.
+- **Sprint 3 (Understanding agile):** Based on your experience in the project work, we will explore more theoretical and advanced topics of agile software development. 
+
 Below you can see the date, time, room and themes for the lectures and workshops. There is also a detailed schedule in [TimeEdit]. NOTE! We have booked extra time in the project rooms where you should work on the project but when there will not always be assistants on site for support.
 
 See [wiki](https://github.com/morganericsson/EDA397/wiki/Reading-Instructions) for reading instructions.
 
 Acceptance tests will *always* be on Fridays at 13:00-15:00. 
 
+Sprint 1: Focus on getting started
+
 | Date & Time | Room(s) | Theme |Who | Slides | Videos | Readings | 
 |  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
-| 19/3 *13:15-16:00* | J121 | Course Introduction, overview of Agile | ME | [1][L1]| [1][V11], [2][V12], [3][V13] | |  
-| 19/3 *16:15-17:00* | J024, J025,  J321, J322, J317 | Agile and Course Q&A |  ME, EA | | | |      
-| 21/3 *13:15-15:00* | J243 |Developing for Android|  ME |[2][L2] | [1][V21], [2][V22] | [Android](https://github.com/morganericsson/EDA397/wiki/Getting-Started:-Android) |  
-| 21/3 *15:15-17:00* | J024, J025,  J321, J322, J317 |Getting started and Tech Q&A **(bring computer!)**|  ME, EA | | | |
-| 9/4 *13:15-16:00* | J121 | Agile Software Development Crash Course|  ME | [3][L3] | [1][V31], [2][V32] |  |
-| 9/4 *16:15-17:00* | J024, J025,  J321, J322, J317 | Final preparation (Q&A) before project | ME, EA | | | |
-| 11/4 *13:15-13:30* | J243 | Project Startup | ME, EA | | [Presentation][PV]| [Project Description][PD] |
-| 11/4 *13:30-14:30* | J243 | Groups 1,2, and 3 | ME, EA | | [Interview][QA1]| |
-| 11/4 *14:30-15:30* | J243 | Groups 1,2, and 3 | ME, EA | | [Interview][QA2]| |
-| 11/4 *15:30-16:30* | J243 | Groups 1,2, and 3 | ME, EA | | [Interview][QA3]| |
-| 12/4 *13:15-15:00* | J243 | Automated testing and pair programming | EA | | [1][V41] | |
-| 16/4 *13:15-17:00* | J121 | Second meeting with customer (proxy) | EA/ME | | | |
-| 18/4 *13:15-17:00* | J243 | Fault Classification Follow-up | ME | | | |
-| 19/4 *13:15-15:00* | J243 | Acceptance Tests | EA | | | |
-| 23/4 *13:15-17:00* | J024, J025,  J321, J322, J317 | No lecture, available for Q/A (my office) | ME | | | |
-| 25/4 *13:15-17:00* | J243 | Guest Lecture: Spotify (Mario Jelica) | ME | | [1][G11][2][G12] | |
-| 26/4 *13:15-15:00* | J243 | Acceptance Tests | EA | | | |
-| 2/5 *13:15-15:00* | J243 | Guest Lecture: OmegaPoint (Nicklas Åkerman) | ME | | | |
-| 3/5 *13:15-15:00* | J243 | Acceptance Tests | EA | | | |
-| 7/5 *13:15-15:00* | *J243* | Guest Lecture: Ericsson (Thomas Luvö) | ME | | | |
-| 13/5 *9:00-11:00* | J243 | Acceptance Tests | EA | | | |
-| 14/5 *13:15-17:00* | J121 | Connecting the Dots | ME | [4][L4] | | |
-| 16/5 *13:15-17:00* | J243 | Discussion | ME/EA | [5][L5] |  | |
-| 17/5 *13:15-15:00* | J243 | Acceptance Tests | EA | | | |
-| 21/5 *13:15-15:00* | J121 | Q/A Exam | ME/EA | |  |  |
-| 23/5 *13:15-17:00* | J024, J025,  J321, J322, J317 | **Final hand-off to customer** | ME/EA | | | | 
-| 27/5 8:30-12:30 | Lindholmen, Hall L | **Written Exam** | ME | | | |
-| 31/5 *24:00* | | **Post-mortem report due** | | | | |
-| 29/8 | Lindholmen, Hall L | August Exam | ME | | | |
+| 18/3 *13:15-16:00* | J121 | Course Introduction, overview of Agile | EK | | | |  
+| 18/3 *16:15-17:00* | J024, J025,  J321, J322, J317 | Agile and Course Q&A |  EK, EA | | | |      
+| 20/3 *13:15-15:00* | J243 | Developing for Android | EK |  | [1][V21], [2][V22] | [Android](https://github.com/morganericsson/EDA397/wiki/Getting-Started:-Android) |  
+| 20/3 *15:15-17:00* | J024, J025,  J321, J322, J317 | Getting started and Tech Q&A **(bring computer!)** | EK, EA | | | |
+| 25/3 *13:15-16:00* | J121 | Agile Software Development Crash Course | EK |  | |  |
+| 25/3 *16:15-17:00* | J024, J025,  J321, J322, J317 | Final preparation (Q&A) before project | EK, EA | | | |
+| 27/3 *13:15-13:30* | J243 | Project Startup | EK, EA | | |  |
+| 27/3 *13:30-14:30* | J243 | Groups 1,2, and 3 | EK, EA | | | |
+| 27/3 *14:30-15:30* | J243 | Groups 1,2, and 3 | EK, EA | | | |
+| 27/3 *15:30-16:30* | J243 | Groups 1,2, and 3 | EK, EA | | | |
+| 28/3 *13:15-15:00* | J243 | Automated testing and pair programming | EA | | | |
+| 1/4 *13:15-17:00* | J121 | Second meeting with customer (proxy) | EA/EK | | | |
+| 3/4 *13:15-17:00* | J243 | Fault Classification Follow-up | EK | | | |
+| 4/4 *13:15-15:00* | J243 | Acceptance Tests | EA | | | |
+
+Sprint 2: Focus on getting work done
+
+| Date & Time | Room(s) | Theme |Who | Slides | Videos | Readings | 
+|  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
+| 8/4 *13:15-17:00* | J024, J025,  J321, J322, J317 | No lecture, available for Q/A | EK | | | |
+| 10/4 *13:15-17:00* | J243 | No lecture, available for Q/A | EK | | | |
+| 11/4 *13:15-15:00* | J243 | Acceptance Tests | EA | | | |
+| 29/4 *13:15-15:00* | J243 | Slot for guest lecture or tutorial | EK | | | |
+| 1/5 *13:15-15:00* | J243 | Slot for guest lecture or tutorial | EK | | | |
+| 2/5 *13:15-15:00* | J243 | Acceptance Tests | EA | | | |
+| 6/5 *13:15-17:00* | J243 | Slot for guest lecture or tutorial  | EA | | | |
+| 8/5 *13:15-17:00* | J121 | Slot for guest lecture or tutorial  | EK | | | |
+| 9/5 *13:15-15:00* | J243 | Acceptance test | EA |  | |
+
+Sprint 3: Focus on theory and advanced concepts of agile
+
+| Date & Time | Room(s) | Theme |Who | Slides | Videos | Readings | 
+|  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
+| 13/5 *13:15-17:00* | J243 | Advanced concepts: Communication, information flow, and knowledge management | EK | | | |
+| 15/5 *13:15-17:00* | J121 | Advanced concepts: Distributed agile, large-scale agile | EK | |  |  |
+| 16/5 *13:15-15:00* | J024, J025,  J321, J322, J317 | **Final hand-off to customer** | EK/EA | | | | 
+| 20/5 *13:15-17:00* | | Research day: Various presentations | EK | | | |
+| 22/5 *13:15-17:00* | | Q/A Exam | EK | | | |
+| 23/5 *24:00* | | **Post-mortem report due** | | | | |
+| 26/5 | |  **Written Exam** | EK | | | |
 
 *Note that JXXX refers to Jupiter XXX*
  
