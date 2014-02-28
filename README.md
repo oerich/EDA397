@@ -36,9 +36,9 @@ To be announced.
 
 This lecture is organized in three sprints. 
 
-- **Sprint 1 (Fundamentals):** We will focus on getting you started and discuss agile principles, actionable practices, and help with setting up the project work.
-- **Sprint 2 (Getting work done):** We will focus on getting you working in the teams, applying agile practices, and collecting experience. Teaching will focus on industrial practice.
-- **Sprint 3 (Understanding agile):** Based on your experience in the project work, we will explore more theoretical and advanced topics of agile software development. 
+- **Sprint 1 (focus on getting started):** We will focus on getting you started and discuss agile principles, actionable practices, and help with setting up the project work.
+- **Sprint 2 (focus on getting work done):** We will focus on getting you working in the teams, applying agile practices, and collecting experience. Teaching will focus on industrial practice.
+- **Sprint 3 (focus on theory and advanced concepts):** Based on your experience in the project work, we will explore more theoretical and advanced topics of agile software development. 
 
 Below you can see the date, time, room and themes for the lectures and workshops. There is also a detailed schedule in [TimeEdit]. NOTE! We have booked extra time in the project rooms where you should work on the project but when there will not always be assistants on site for support.
 
@@ -46,7 +46,7 @@ See [wiki](https://github.com/morganericsson/EDA397/wiki/Reading-Instructions) f
 
 Acceptance tests will *always* be on Fridays at 13:00-15:00. 
 
-Sprint 1: Focus on getting started
+### Sprint 1: Focus on getting started
 
 | Date & Time | Room(s) | Theme |Who | Slides | Videos | Readings | 
 |  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
@@ -65,7 +65,7 @@ Sprint 1: Focus on getting started
 | 3/4 *13:15-17:00* | J243 | Fault Classification Follow-up | EK | | | |
 | 4/4 *13:15-15:00* | J243 | Acceptance Tests | EA | | | |
 
-Sprint 2: Focus on getting work done
+### Sprint 2: Focus on getting work done
 
 | Date & Time | Room(s) | Theme |Who | Slides | Videos | Readings | 
 |  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
@@ -79,7 +79,7 @@ Sprint 2: Focus on getting work done
 | 8/5 *13:15-17:00* | J121 | Slot for guest lecture or tutorial  | EK | | | |
 | 9/5 *13:15-15:00* | J243 | Acceptance test | EA |  | |
 
-Sprint 3: Focus on theory and advanced concepts of agile
+### Sprint 3: Focus on theory and advanced concepts of agile
 
 | Date & Time | Room(s) | Theme |Who | Slides | Videos | Readings | 
 |  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
