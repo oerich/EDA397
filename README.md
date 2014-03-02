@@ -36,9 +36,9 @@ To be announced.
 
 This lecture is organized in three sprints. 
 
-- **Sprint 1 (focus on getting started):** We will focus on getting you started and discuss agile principles, actionable practices, and help with setting up the project work.
-- **Sprint 2 (focus on getting work done):** We will focus on getting you working in the teams, applying agile practices, and collecting experience. Teaching will focus on industrial practice.
-- **Sprint 3 (focus on theory and advanced concepts):** Based on your experience in the project work, we will explore more theoretical and advanced topics of agile software development. 
+- **Sprint 1 (focus on getting started):** We will focus on getting you started and discuss agile principles and actionable practices. Also, we will set up the project work.
+- **Sprint 2 (focus on getting work done):** We will focus on working in teams, applying agile practices, and collecting experience. Teaching will focus on industrial practice.
+- **Sprint 3 (focus on theory and advanced concepts):** Based on your experience in project work, we will explore more theoretical and advanced topics of agile software development. 
 
 Below you can see the date, time, room and themes for the lectures and workshops. There is also a detailed schedule in [TimeEdit]. NOTE! We have booked extra time in the project rooms where you should work on the project but when there will not always be assistants on site for support.
 
@@ -51,43 +51,40 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 | Date & Time | Room(s) | Theme |Who | Slides | Videos | Readings | 
 |  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
 | 18/3 *13:15-16:00* | J121 | Course Introduction, overview of Agile | EK | | | |  
-| 18/3 *16:15-17:00* | J024, J025,  J321, J322, J317 | Agile and Course Q&A |  EK, EA | | | |      
-| 20/3 *13:15-15:00* | J243 | Developing for Android | EK |  | [1][V21], [2][V22] | [Android](https://github.com/morganericsson/EDA397/wiki/Getting-Started:-Android) |  
-| 20/3 *15:15-17:00* | J024, J025,  J321, J322, J317 | Getting started and Tech Q&A **(bring computer!)** | EK, EA | | | |
-| 25/3 *13:15-16:00* | J121 | Agile Software Development Crash Course | EK |  | |  |
-| 25/3 *16:15-17:00* | J024, J025,  J321, J322, J317 | Final preparation (Q&A) before project | EK, EA | | | |
-| 27/3 *13:15-13:30* | J243 | Project Startup | EK, EA | | |  |
-| 27/3 *13:30-14:30* | J243 | Groups 1,2, and 3 | EK, EA | | | |
-| 27/3 *14:30-15:30* | J243 | Groups 1,2, and 3 | EK, EA | | | |
-| 27/3 *15:30-16:30* | J243 | Groups 1,2, and 3 | EK, EA | | | |
-| 28/3 *13:15-15:00* | J243 | Automated testing and pair programming | EA | | | |
+| 18/3 *16:15-17:00* | tbd | Agile and Course Q&A |  EK, EA | | | |      
+| 20/3 *13:15-15:00* | tbd | Developing for Android | EK |  | [1][V21], [2][V22] | [Android](https://github.com/morganericsson/EDA397/wiki/Getting-Started:-Android) |  
+| 20/3 *15:15-17:00* | tbd | Getting started and Tech Q&A **(bring computer!)** | EK, EA | | | |
+| 25/3 *13:15-16:00* | J121 | Agile Software Development Crash Course (part 1) | EK |  | |  |
+| 25/3 *16:15-17:00* | tbd | Final preparation (Q&A) before project | EK, EA | | | |
+| 27/3 *13:15-17:00* | tbd | Project Startup, incl. 1st customer meeting | EK, EA | | |  |
+| 28/3 *13:15-15:00* | tbd | Automated testing and pair programming | EA, EK | | | |
 | 1/4 *13:15-17:00* | J121 | Second meeting with customer (proxy) | EA/EK | | | |
-| 3/4 *13:15-17:00* | J243 | Fault Classification Follow-up | EK | | | |
-| 4/4 *13:15-15:00* | J243 | Acceptance Tests | EA | | | |
+| 3/4 *13:15-17:00* | tbd | Agile Software Development Crash Course (part 2) | EK | | | |
+| 4/4 *13:15-15:00* | tbd | Acceptance Tests | EA | | | |
 
 ### Sprint 2: Focus on getting work done
 
 | Date & Time | Room(s) | Theme |Who | Slides | Videos | Readings | 
 |  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
-| 8/4 *13:15-17:00* | J024, J025,  J321, J322, J317 | No lecture, available for Q/A | EK | | | |
-| 10/4 *13:15-17:00* | J243 | No lecture, available for Q/A | EK | | | |
-| 11/4 *13:15-15:00* | J243 | Acceptance Tests | EA | | | |
-| 29/4 *13:15-15:00* | J243 | Slot for guest lecture or tutorial | EK | | | |
-| 1/5 *13:15-15:00* | J243 | Slot for guest lecture or tutorial | EK | | | |
-| 2/5 *13:15-15:00* | J243 | Acceptance Tests | EA | | | |
-| 6/5 *13:15-17:00* | J243 | Slot for guest lecture or tutorial  | EA | | | |
-| 8/5 *13:15-17:00* | J121 | Slot for guest lecture or tutorial  | EK | | | |
-| 9/5 *13:15-15:00* | J243 | Acceptance test | EA |  | |
+| 8/4 *13:15-17:00* | tbd | No lecture, available for Q/A | EK | | | |
+| 10/4 *13:15-17:00* | tbd | No lecture, available for Q/A | EK | | | |
+| 11/4 *13:15-15:00* | tbd | Acceptance Tests | EA | | | |
+| 29/4 *13:15-15:00* | tbd | Slot for guest lecture or tutorial | EK | | | |
+| 1/5 *13:15-15:00* | tbd | Slot for guest lecture or tutorial | EK | | | |
+| 2/5 *13:15-15:00* | tbd | Acceptance Tests | EA | | | |
+| 6/5 *13:15-17:00* | tbd | Slot for guest lecture or tutorial  | EA | | | |
+| 8/5 *13:15-17:00* | tbd | Slot for guest lecture or tutorial  | EK | | | |
+| 9/5 *13:15-15:00* | tbd | Acceptance test | EA |  | |
 
 ### Sprint 3: Focus on theory and advanced concepts of agile
 
 | Date & Time | Room(s) | Theme |Who | Slides | Videos | Readings | 
 |  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
-| 13/5 *13:15-17:00* | J243 | Advanced concepts: Communication, information flow, and knowledge management | EK | | | |
-| 15/5 *13:15-17:00* | J121 | Advanced concepts: Distributed agile, large-scale agile | EK | |  |  |
-| 16/5 *13:15-15:00* | J024, J025,  J321, J322, J317 | **Final hand-off to customer** | EK/EA | | | | 
-| 20/5 *13:15-17:00* | | Research day: Various presentations | EK | | | |
-| 22/5 *13:15-17:00* | | Q/A Exam | EK | | | |
+| 13/5 *13:15-17:00* | tbd | Advanced concepts: Communication, information flow, and knowledge management | EK | | | |
+| 15/5 *13:15-17:00* | tbd | Advanced concepts: Distributed agile, large-scale agile | EK | |  |  |
+| 16/5 *13:15-15:00* | tbd | **Final hand-off to customer** | EK/EA | | | | 
+| 20/5 *13:15-17:00* | tbd | Research day: Various presentations | EK | | | |
+| 22/5 *13:15-17:00* | tbd | Q/A Exam | EK | | | |
 | 23/5 *24:00* | | **Post-mortem report due** | | | | |
 | 26/5 | |  **Written Exam** | EK | | | |
 
