@@ -2,7 +2,7 @@
 
 First meeting is on March-18, 13:15, Room J121. Looking forward to meet you there!
 
-Last update: 2014-02-28
+Last update: 2014-03-03
 
 ## Course Description
 Agile software development aims at setting up an environment to develop software based on the following principles from the agile manifesto:
@@ -50,7 +50,7 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 
 | Date & Time | Room(s) | Theme |Who | Slides | Videos | Readings | 
 |  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
-| 18/3 *13:15-16:00* | J121 | Course Introduction, overview of Agile | EK | | | [Cockburn2009, Ch. 4] |  
+| 18/3 *13:15-16:00* | J121 | Course Introduction, overview of Agile | EK | | | [Cockburn2009, Ch. 4], [Cohen] |  
 | 18/3 *16:15-17:00* | tbd | Agile and Course Q&A |  EK, EA | | | |      
 | 20/3 *13:15-15:00* | tbd | Developing for Android | EK |  | [1][V21], [2][V22] | [Android](https://github.com/morganericsson/EDA397/wiki/Getting-Started:-Android) |  
 | 20/3 *15:15-17:00* | tbd | Getting started and Tech Q&A **(bring computer!)** | EK, EA | | | |
@@ -91,7 +91,7 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 *Note that JXXX refers to Jupiter XXX*
  
 [TimeEdit]: https://web.timeedit.se/chalmers_se/db1/public/r.html?sid=3&h=t&p=0.days%2C20130607.x&objects=201083.182&ox=0&types=0&fe=0
-[Cohen04]: https://github.com/morganericsson/EDA397/blob/master/Papers/cohen_2004_intro_to_agile_methods.pdf?raw=true
+[Cohen04]: https://github.com/oerich/EDA397/blob/master/Papers/cohen_2004_intro_to_agile_methods.pdf?raw=true
 [Schwaber95]: https://github.com/morganericsson/EDA397/blob/master/Papers/schwaber_1995_scrum_dev_process.pdf?raw=true
 
 [L1]: https://github.com/morganericsson/EDA397/blob/master/Slides/l1.pdf?raw=true
