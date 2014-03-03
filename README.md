@@ -50,7 +50,7 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 
 | Date & Time | Room(s) | Theme |Who | Slides | Videos | Readings | 
 |  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
-| 18/3 *13:15-16:00* | J121 | Course Introduction, overview of Agile | EK | | | [Cockburn2009, Ch. 4], [Cohen] |  
+| 18/3 *13:15-16:00* | J121 | Course Introduction, overview of Agile | EK | | | [Cockburn2009, Ch. 4], [Cohen04] |  
 | 18/3 *16:15-17:00* | tbd | Agile and Course Q&A |  EK, EA | | | |      
 | 20/3 *13:15-15:00* | tbd | Developing for Android | EK |  | [1][V21], [2][V22] | [Android](https://github.com/morganericsson/EDA397/wiki/Getting-Started:-Android) |  
 | 20/3 *15:15-17:00* | tbd | Getting started and Tech Q&A **(bring computer!)** | EK, EA | | | |
