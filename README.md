@@ -54,7 +54,7 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 | 18/3 *16:15-17:00* | tbd | Agile and Course Q&A |  EK, EA | | | |      
 | 20/3 *13:15-15:00* | tbd | Developing for Android | EK |  | [1][V21], [2][V22] | [Android](https://github.com/morganericsson/EDA397/wiki/Getting-Started:-Android) |  
 | 20/3 *15:15-17:00* | tbd | Getting started and Tech Q&A **(bring computer!)** | EK, EA | | | |
-| 25/3 *13:15-16:00* | J121 | Agile Software Development Crash Course (part 1) | EK |  | |  |
+| 25/3 *13:15-16:00* | J121 | Agile Software Development Crash Course (part 1) | EK |  | | [Schwaber95] |
 | 25/3 *16:15-17:00* | tbd | Final preparation (Q&A) before project | EK, EA | | | |
 | 27/3 *13:15-17:00* | tbd | Project Startup, incl. 1st customer meeting | EK, EA | | |  |
 | 28/3 *13:15-15:00* | tbd | Automated testing and pair programming | EA, EK | | | |
@@ -92,7 +92,7 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
  
 [TimeEdit]: https://web.timeedit.se/chalmers_se/db1/public/r.html?sid=3&h=t&p=0.days%2C20130607.x&objects=201083.182&ox=0&types=0&fe=0
 [Cohen04]: https://github.com/oerich/EDA397/blob/master/Papers/cohen_2004_intro_to_agile_methods.pdf?raw=true
-[Schwaber95]: https://github.com/morganericsson/EDA397/blob/master/Papers/schwaber_1995_scrum_dev_process.pdf?raw=true
+[Schwaber95]: https://github.com/oerich/EDA397/blob/master/Papers/schwaber_1995_scrum_dev_process.pdf?raw=true
 
 [L1]: https://github.com/morganericsson/EDA397/blob/master/Slides/l1.pdf?raw=true
 [L2]: https://github.com/morganericsson/EDA397/blob/master/Slides/l2.pdf?raw=true
