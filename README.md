@@ -52,12 +52,12 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 |  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
 | 18/3 *13:15-16:00* | J121 | Course Introduction, overview of Agile | EK | | | [Cockburn2009, Ch. 4], [Cohen04] |  
 | 18/3 *16:15-17:00* | tbd | Agile and Course Q&A |  EK, EA | | | |      
-| 20/3 *13:15-15:00* | tbd | Developing for Android | EK |  | [1][V21], [2][V22] | [Android](https://github.com/morganericsson/EDA397/wiki/Getting-Started:-Android) |  
-| 20/3 *15:15-17:00* | tbd | Getting started and Tech Q&A **(bring computer!)** | EK, EA | | | |
+| 20/3 *13:15-15:00* | J243 | Developing for Android | EK |  | [1][V21], [2][V22] | [Android](https://github.com/morganericsson/EDA397/wiki/Getting-Started:-Android) |  
+| 20/3 *15:15-17:00* | J243 | Getting started and Tech Q&A **(bring computer!)** | EK, EA | | | |
 | 25/3 *13:15-16:00* | J121 | Agile Software Development Crash Course (part 1) | EK |  | | [Schwaber95] |
-| 25/3 *16:15-17:00* | tbd | Final preparation (Q&A) before project | EK, EA | | | |
-| 27/3 *13:15-17:00* | tbd | Project Startup, incl. 1st customer meeting | EK, EA | | |  |
-| 28/3 *13:15-15:00* | tbd | Automated testing and pair programming | EA, EK | | | |
+| 25/3 *16:15-17:00* | J121 | Final preparation (Q&A) before project | EK, EA | | | |
+| 27/3 *13:15-17:00* | J243 | Project Startup, incl. 1st customer meeting | EK, EA | | |  |
+| 28/3 *13:15-15:00* | J243 | Automated testing and pair programming | EA, EK | | | |
 | 1/4 *13:15-17:00* | J121 | Second meeting with customer (proxy) | EA/EK | | | |
 | 3/4 *13:15-17:00* | tbd | Agile Software Development Crash Course (part 2) | EK | | | |
 | 4/4 *13:15-15:00* | tbd | Acceptance Tests | EA | | | |
