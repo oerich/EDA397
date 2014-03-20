@@ -1,8 +1,6 @@
 # Agile Development Processes - lp4, vt2014
 
-First meeting is on March-18, 13:15, Room J121. Looking forward to meet you there!
-
-Last update: 2014-03-03
+Last update: 2014-03-20
 
 ## Course Description
 Agile software development aims at setting up an environment to develop software based on the following principles from the agile manifesto:
@@ -50,7 +48,7 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 
 | Date & Time | Room(s) | Theme |Who | Slides | Videos | Readings | 
 |  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
-| 18/3 *13:15-16:00* | J121 | Course Introduction, overview of Agile | EK | | | [Cockburn2009, Ch. 4], [Cohen04] |  
+| 18/3 *13:15-16:00* | J121 | Course Introduction, overview of Agile | EK | [l1] | | [Cockburn2009, Ch. 4], [Cohen04] |  
 | 18/3 *16:15-17:00* | tbd | Agile and Course Q&A |  EK, EA | | | |      
 | 20/3 *13:15-15:00* | J243 | Developing for Android | EK |  | [1][V21], [2][V22] | [Android](https://github.com/morganericsson/EDA397/wiki/Getting-Started:-Android) |  
 | 20/3 *15:15-17:00* | J243 | Getting started and Tech Q&A **(bring computer!)** | EK, EA | | | |
@@ -94,7 +92,7 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 [Cohen04]: https://github.com/oerich/EDA397/blob/master/Papers/cohen_2004_intro_to_agile_methods.pdf?raw=true
 [Schwaber95]: https://github.com/oerich/EDA397/blob/master/Papers/schwaber_1995_scrum_dev_process.pdf?raw=true
 
-[L1]: https://github.com/morganericsson/EDA397/blob/master/Slides/l1.pdf?raw=true
+[L1]: https://github.com/oerich/EDA397/blob/master/Slides/l1.pdf?raw=true
 [L2]: https://github.com/morganericsson/EDA397/blob/master/Slides/l2.pdf?raw=true
 [L3]: https://github.com/morganericsson/EDA397/blob/master/Slides/l3.pdf?raw=true
 [L4]: https://github.com/morganericsson/EDA397/blob/master/Slides/l4.pdf?raw=true
