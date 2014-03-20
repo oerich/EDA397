@@ -1,5 +1,7 @@
 # Agile Development Processes - lp4, vt2014
 
+[Please answer the questions in this questionnaire to help us forming good and balanced teams.](https://docs.google.com/forms/d/1VJi5aYhgyILXaSAcG4bvEWfBmu08U1OwdghwKroK-a0/viewform)
+
 Last update: 2014-03-20
 
 ## Course Description
