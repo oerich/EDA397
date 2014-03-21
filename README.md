@@ -25,7 +25,11 @@ After passing the course, you will be able to lead agile projects, use test driv
 
 ## Student representatives
 
-To be announced.
+- Oscar Blomqvist <boscar@student.chalmers.se> (Chalmers)
+- Emma Dirnberger <emmad@student.chalmers.se> (Chalmers)
+- Poornima Joshi <poornim.joshi@gmail.com> (Chalmers)
+- Jacob Larsson <jacobla@student.chalmers.se> (Chalmers)
+- Nelson Sekitoleko <nellysek@gmail.com> (GU)
 
 ## Course Literature
 
