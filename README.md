@@ -52,7 +52,7 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 |  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
 | 18/3 *13:15-17:00* | J121 | Course Introduction, overview of Agile, course Q&A | EK | [l1] | | [Cockburn2009, Ch. 4], [Cohen04] |  
 | 20/3 *13:15-15:00* | J243 | Developing for Android | EK | [l2]  | [1][V21], [2][V22] | [Android](https://github.com/morganericsson/EDA397/wiki/Getting-Started:-Android) |  
-| 20/3 *15:15-17:00* | J243 | Getting started and Tech Q&A **(bring computer!)** | EK, EA | | | |
+| 20/3 *15:15-17:00* | J243 | Getting started and Tech Q&A **(bring computer!)** | EK, EA | | | [AndroidExamples] |
 | 25/3 *13:15-16:00* | J121 | Agile Software Development Crash Course (part 1) | EK |  | | [Schwaber95] |
 | 25/3 *16:15-17:00* | J121 | Final preparation (Q&A) before project | EK, EA | | | |
 | 27/3 *13:15-17:00* | J243 | Project Startup, incl. 1st customer meeting | EK, EA | | |  |
@@ -90,6 +90,7 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 *Note that JXXX refers to Jupiter XXX*
  
 [TimeEdit]: https://se.timeedit.net/web/chalmers/db1/public/ri15YXQ2708Z59Qv3X0036Q6y6Y000965Y61Y5gQ7075763Z7.html
+[AndroidExamples]: https://github.com/oerich/AndroidExamples
 [Cohen04]: https://github.com/oerich/EDA397/blob/master/Papers/cohen_2004_intro_to_agile_methods.pdf?raw=true
 [Schwaber95]: https://github.com/oerich/EDA397/blob/master/Papers/schwaber_1995_scrum_dev_process.pdf?raw=true
 
