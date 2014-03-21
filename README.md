@@ -2,7 +2,7 @@
 
 [Please answer the questions in this questionnaire to help us forming good and balanced teams.](https://docs.google.com/forms/d/1VJi5aYhgyILXaSAcG4bvEWfBmu08U1OwdghwKroK-a0/viewform)
 
-Last update: 2014-03-20
+Last update: 2014-03-21
 
 ## Course Description
 Agile software development aims at setting up an environment to develop software based on the following principles from the agile manifesto:
@@ -58,8 +58,8 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 | 27/3 *13:15-17:00* | J243 | Project Startup, incl. 1st customer meeting | EK, EA | | |  |
 | 28/3 *13:15-15:00* | J243 | Automated testing and pair programming | EA, EK | | | |
 | 1/4 *13:15-17:00* | J121 | Second meeting with customer (proxy) | EA/EK | | | |
-| 3/4 *13:15-17:00* | tbd | Agile Software Development Crash Course (part 2) | EK | | | |
-| 4/4 *13:15-15:00* | tbd | Acceptance Tests | EA | | | |
+| 3/4 *13:15-17:00* | J243 | Agile Software Development Crash Course (part 2) | EK | | | |
+| 4/4 *13:15-15:00* | J243 | Acceptance Tests | EA | | | |
 
 ### Sprint 2: Focus on getting work done
 
