@@ -50,8 +50,7 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 
 | Date & Time | Room(s) | Theme |Who | Slides | Videos | Readings | 
 |  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
-| 18/3 *13:15-16:00* | J121 | Course Introduction, overview of Agile | EK | [l1] | | [Cockburn2009, Ch. 4], [Cohen04] |  
-| 18/3 *16:15-17:00* | tbd | Agile and Course Q&A |  EK, EA | | | |      
+| 18/3 *13:15-17:00* | J121 | Course Introduction, overview of Agile, course Q&A | EK | [l1] | | [Cockburn2009, Ch. 4], [Cohen04] |  
 | 20/3 *13:15-15:00* | J243 | Developing for Android | EK | [l2]  | [1][V21], [2][V22] | [Android](https://github.com/morganericsson/EDA397/wiki/Getting-Started:-Android) |  
 | 20/3 *15:15-17:00* | J243 | Getting started and Tech Q&A **(bring computer!)** | EK, EA | | | |
 | 25/3 *13:15-16:00* | J121 | Agile Software Development Crash Course (part 1) | EK |  | | [Schwaber95] |
@@ -90,7 +89,7 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 
 *Note that JXXX refers to Jupiter XXX*
  
-[TimeEdit]: https://web.timeedit.se/chalmers_se/db1/public/r.html?sid=3&h=t&p=0.days%2C20130607.x&objects=201083.182&ox=0&types=0&fe=0
+[TimeEdit]: https://se.timeedit.net/web/chalmers/db1/public/ri15YXQ2708Z59Qv3X0036Q6y6Y000965Y61Y5gQ7075763Z7.html
 [Cohen04]: https://github.com/oerich/EDA397/blob/master/Papers/cohen_2004_intro_to_agile_methods.pdf?raw=true
 [Schwaber95]: https://github.com/oerich/EDA397/blob/master/Papers/schwaber_1995_scrum_dev_process.pdf?raw=true
 
