@@ -2,7 +2,7 @@
 
 [Please answer the questions in this questionnaire to help us forming good and balanced teams.](https://docs.google.com/forms/d/1VJi5aYhgyILXaSAcG4bvEWfBmu08U1OwdghwKroK-a0/viewform)
 
-Last update: 2014-03-21
+Last update: 2014-03-24
 
 ## Course Description
 Agile software development aims at setting up an environment to develop software based on the following principles from the agile manifesto:
@@ -46,7 +46,7 @@ This lecture is organized in three sprints.
 
 Below you can see the date, time, room and themes for the lectures and workshops. There is also a detailed schedule in [TimeEdit]. NOTE! We have booked extra time in the project rooms where you should work on the project but when there will not always be assistants on site for support.
 
-See [wiki](https://github.com/morganericsson/EDA397/wiki/Reading-Instructions) for reading instructions.
+See [wiki](https://github.com/oerich/EDA397/wiki/Reading-Instructions) for reading instructions.
 
 Acceptance tests will *always* be on Fridays at 13:00-15:00. 
 
@@ -147,5 +147,5 @@ To pass the course it is extremely important that you read all the course materi
 
 Your final grade will be set according to the [Grading Policy][GP]
 
-[GP]: https://github.com/morganericsson/EDA397/wiki/Grading-Policy]
-[PMR]: https://github.com/morganericsson/EDA397/wiki/Post-mortem-Report
+[GP]: https://github.com/oerich/EDA397/wiki/Grading-Policy]
+[PMR]: https://github.com/oerich/EDA397/wiki/Post-mortem-Report
