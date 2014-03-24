@@ -70,7 +70,7 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 | Date & Time | Room(s) | Theme |Who | Slides | Videos | Readings | 
 |  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
 | 8/4 *13:15-17:00* | tbd | No lecture, available for Q/A | EK | | | |
-| 10/4 *13:15-17:00* | tbd | No lecture, available for Q/A | EK | | | |
+| 10/4 *13:15-17:00* | J243 | Scaling agile (Guest lecture: Thomas Lüvo) | EA | | | |
 | 11/4 *13:15-15:00* | tbd | Acceptance Tests | EA | | | |
 | 29/4 *13:15-15:00* | tbd | Slot for guest lecture or tutorial | EK | | | |
 | 1/5 *13:15-15:00* | tbd | Slot for guest lecture or tutorial | EK | | | |
