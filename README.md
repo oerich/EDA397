@@ -1,6 +1,7 @@
 # Agile Development Processes - lp4, vt2014
 
-[Please answer the questions in this questionnaire to help us forming good and balanced teams.](https://docs.google.com/forms/d/1VJi5aYhgyILXaSAcG4bvEWfBmu08U1OwdghwKroK-a0/viewform)
+- [Teams have been assigned, see wiki](https://github.com/oerich/EDA397/wiki/Teams)
+- If you are not in a team yet, [please answer the questions in this questionnaire to help us forming good and balanced teams.](https://docs.google.com/forms/d/1VJi5aYhgyILXaSAcG4bvEWfBmu08U1OwdghwKroK-a0/viewform) and write an email to Eric
 
 Last update: 2014-03-25
 
