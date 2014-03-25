@@ -2,7 +2,7 @@
 
 [Please answer the questions in this questionnaire to help us forming good and balanced teams.](https://docs.google.com/forms/d/1VJi5aYhgyILXaSAcG4bvEWfBmu08U1OwdghwKroK-a0/viewform)
 
-Last update: 2014-03-24
+Last update: 2014-03-25
 
 ## Course Description
 Agile software development aims at setting up an environment to develop software based on the following principles from the agile manifesto:
@@ -57,7 +57,7 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 | 18/3 *13:15-17:00* | J121 | Course Introduction, overview of Agile, course Q&A | EK | [l1] | | [Cockburn2009, Ch. 4], [Cohen04] |  
 | 20/3 *13:15-15:00* | J243 | Developing for Android | EK | [l2]  | [1][V21], [2][V22] | [Android](https://github.com/morganericsson/EDA397/wiki/Getting-Started:-Android) |  
 | 20/3 *15:15-17:00* | J243 | Getting started and Tech Q&A **(bring computer!)** | EK, EA | | | [AndroidExamples] |
-| 25/3 *13:15-16:00* | J121 | Agile Software Development Crash Course (part 1) | EK |  | | [Schwaber95] |
+| 25/3 *13:15-16:00* | J121 | Agile Software Development Crash Course (part 1) | EK | [l3] | | [Schwaber95] |
 | 25/3 *16:15-17:00* | J121 | Final preparation (Q&A) before project | EK, EA | | | |
 | 27/3 *13:15-17:00* | J243 | Project Startup, incl. 1st customer meeting | EK, EA | | |  |
 | 28/3 *13:15-15:00* | J243 | Automated testing and pair programming | EA, EK | | | |
@@ -100,7 +100,7 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 
 [L1]: https://github.com/oerich/EDA397/blob/master/Slides/l1.pdf?raw=true
 [L2]: https://github.com/oerich/EDA397/blob/master/Slides/l2.pdf?raw=true
-[L3]: https://github.com/morganericsson/EDA397/blob/master/Slides/l3.pdf?raw=true
+[L3]: https://github.com/oerich/EDA397/blob/master/Slides/l3.pdf?raw=true
 [L4]: https://github.com/morganericsson/EDA397/blob/master/Slides/l4.pdf?raw=true
 [L5]: https://github.com/morganericsson/EDA397/blob/master/Slides/l5.pdf?raw=true
 
