@@ -61,7 +61,7 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 | 25/3 *13:15-16:00* | J121 | Agile Software Development Crash Course (part 1) | EK | [l3] | | [Schwaber95] |
 | 25/3 *16:15-17:00* | J121 | Final preparation (Q&A) before project | EK, EA | | | |
 | 27/3 *13:15-17:00* | J243 | Project Startup, incl. 1st customer meeting | EK, EA | [product-vision] | |  |
-| 28/3 *13:15-15:00* | J243 | Automated testing and pair programming | EA, EK | | | |
+| 28/3 *13:15-15:00* | J243 | Automated testing and pair programming | EA, EK | [l5] | | |
 | 1/4 *13:15-17:00* | J121 | Second meeting with customer (proxy) | EA/EK | | | |
 | 3/4 *13:15-17:00* | J243 | Agile Software Development Crash Course (part 2) | EK | | | |
 | 4/4 *13:15-15:00* | J243 | Acceptance Tests | EA | | | |
@@ -103,7 +103,7 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 [L2]: https://github.com/oerich/EDA397/blob/master/Slides/l2.pdf?raw=true
 [L3]: https://github.com/oerich/EDA397/blob/master/Slides/l3.pdf?raw=true
 [L4]: https://github.com/morganericsson/EDA397/blob/master/Slides/l4.pdf?raw=true
-[L5]: https://github.com/morganericsson/EDA397/blob/master/Slides/l5.pdf?raw=true
+[L5]: https://github.com/oerich/EDA397/blob/master/Slides/l5.pdf?raw=true
 [product-vision]: https://github.com/oerich/EDA397/blob/master/Slides/product-vision.pdf?raw=true
 
 [V11]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/eda397_1_1.mp4
