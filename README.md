@@ -3,7 +3,7 @@
 - [Teams have been assigned, see wiki](https://github.com/oerich/EDA397/wiki/Teams)
 - If you are not in a team yet, [please answer the questions in this questionnaire to help us forming good and balanced teams.](https://docs.google.com/forms/d/1VJi5aYhgyILXaSAcG4bvEWfBmu08U1OwdghwKroK-a0/viewform) and write an email to Eric
 
-Last update: 2014-03-25
+Last update: 2014-03-31
 
 ## Course Description
 Agile software development aims at setting up an environment to develop software based on the following principles from the agile manifesto:
@@ -62,7 +62,7 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 | 25/3 *16:15-17:00* | J121 | Final preparation (Q&A) before project | EK, EA | | | |
 | 27/3 *13:15-17:00* | J243 | Project Startup, incl. 1st customer meeting | EK, EA | [product-vision] | |  |
 | 28/3 *13:15-15:00* | J243 | Automated testing and pair programming | EA, EK | [l5] | | |
-| 1/4 *13:15-17:00* | J121 | Second meeting with customer (proxy) | EA/EK | | | |
+| 1/4 *13:15-17:00* | J243 | Second meeting with customer (proxy) | EA/EK | | | |
 | 3/4 *13:15-17:00* | J243 | Agile Software Development Crash Course (part 2) | EK | | | |
 | 4/4 *13:15-15:00* | J243 | Acceptance Tests | EA | | | |
 
@@ -70,7 +70,7 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 
 | Date & Time | Room(s) | Theme |Who | Slides | Videos | Readings | 
 |  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
-| 8/4 *13:15-17:00* | tbd | No lecture, available for Q/A | EK | | | |
+| 8/4 *13:15-17:00* | n/a | No lecture, available for Q/A | EA | | | |
 | 10/4 *13:15-17:00* | J243 | Scaling agile (Guest lecture: Thomas Lüvo) | EA | | | |
 | 11/4 *13:15-15:00* | tbd | Acceptance Tests | EA | | | |
 | 29/4 *13:15-15:00* | tbd | Slot for guest lecture or tutorial | EK | | | |
