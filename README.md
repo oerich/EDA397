@@ -61,10 +61,10 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 | 25/3 *13:15-16:00* | J121 | Agile Software Development Crash Course (part 1) | EK | [l3] | | [Schwaber95] |
 | 25/3 *16:15-17:00* | J121 | Final preparation (Q&A) before project | EK, EA | | | |
 | 27/3 *13:15-17:00* | J243 | Project Startup, incl. 1st customer meeting | EK, EA | [product-vision] | |  |
-| 28/3 *13:15-15:00* | J243 | Automated testing and pair programming | EA, EK | [l5] | | |
+| 28/3 *13:15-15:00* | J243 | Automated testing and pair programming | EA, EK | [l5] | | [Visual GUI Testing](https://github.com/oerich/EDA397/wiki/Visual-GUI-Testing) |
 | 1/4 *13:15-17:00* | J243 | Second meeting with customer (proxy) | EA/EK | | | |
 | 3/4 *13:15-17:00* | J243 | Agile Software Development Crash Course (part 2) | EK | | | |
-| 4/4 *13:15-15:00* | J243 | Acceptance Tests | EA | | | |
+| 4/4 *13:15-15:00* | J243 | [Acceptance Tests](https://github.com/oerich/EDA397/wiki/Acceptance-Tests) | EA | | | |
 
 ### Sprint 2: Focus on getting work done
 
