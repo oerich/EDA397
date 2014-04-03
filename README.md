@@ -3,7 +3,7 @@
 - [Teams have been assigned, see wiki](https://github.com/oerich/EDA397/wiki/Teams)
 - If you are not in a team yet, [please answer the questions in this questionnaire to help us forming good and balanced teams.](https://docs.google.com/forms/d/1VJi5aYhgyILXaSAcG4bvEWfBmu08U1OwdghwKroK-a0/viewform) and write an email to Eric
 
-Last update: 2014-03-31
+Last update: 2014-04-03
 
 ## Course Description
 Agile software development aims at setting up an environment to develop software based on the following principles from the agile manifesto:
@@ -63,7 +63,7 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 | 27/3 *13:15-17:00* | J243 | Project Startup, incl. 1st customer meeting | EK, EA | [product-vision] | |  |
 | 28/3 *13:15-15:00* | J243 | Automated testing and pair programming | EA, EK | [l5] | | [Visual GUI Testing](https://github.com/oerich/EDA397/wiki/Visual-GUI-Testing) |
 | 1/4 *13:15-17:00* | J243 | Second meeting with customer (proxy) | EA/EK | | | |
-| 3/4 *13:15-17:00* | J243 | Agile Software Development Crash Course (part 2) | EK | | | |
+| 3/4 *13:15-17:00* | J243 | Agile Software Development Crash Course (part 2) | EK | [l6] | | |
 | 4/4 *13:15-15:00* | J243 | [Acceptance Tests](https://github.com/oerich/EDA397/wiki/Acceptance-Tests) | EA | | | |
 
 ### Sprint 2: Focus on getting work done
@@ -102,8 +102,9 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 [L1]: https://github.com/oerich/EDA397/blob/master/Slides/l1.pdf?raw=true
 [L2]: https://github.com/oerich/EDA397/blob/master/Slides/l2.pdf?raw=true
 [L3]: https://github.com/oerich/EDA397/blob/master/Slides/l3.pdf?raw=true
-[L4]: https://github.com/morganericsson/EDA397/blob/master/Slides/l4.pdf?raw=true
+[L4]: https://github.com/oerich/EDA397/blob/master/Slides/l4.pdf?raw=true
 [L5]: https://github.com/oerich/EDA397/blob/master/Slides/l5.pdf?raw=true
+[L6]: https://github.com/oerich/EDA397/blob/master/Slides/l6.pdf?raw=true
 [product-vision]: https://github.com/oerich/EDA397/blob/master/Slides/product-vision.pdf?raw=true
 
 [V11]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/eda397_1_1.mp4
