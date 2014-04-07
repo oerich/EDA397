@@ -1,8 +1,9 @@
 # Agile Development Processes - lp4, vt2014
 
-[Please answer the questions in this questionnaire to help us forming good and balanced teams.](https://docs.google.com/forms/d/1VJi5aYhgyILXaSAcG4bvEWfBmu08U1OwdghwKroK-a0/viewform)
+- [Teams have been assigned, see wiki](https://github.com/oerich/EDA397/wiki/Teams)
+- If you are not in a team yet, [please answer the questions in this questionnaire to help us forming good and balanced teams.](https://docs.google.com/forms/d/1VJi5aYhgyILXaSAcG4bvEWfBmu08U1OwdghwKroK-a0/viewform) and write an email to Eric
 
-Last update: 2014-03-21
+Last update: 2014-04-03
 
 ## Course Description
 Agile software development aims at setting up an environment to develop software based on the following principles from the agile manifesto:
@@ -46,7 +47,7 @@ This lecture is organized in three sprints.
 
 Below you can see the date, time, room and themes for the lectures and workshops. There is also a detailed schedule in [TimeEdit]. NOTE! We have booked extra time in the project rooms where you should work on the project but when there will not always be assistants on site for support.
 
-See [wiki](https://github.com/morganericsson/EDA397/wiki/Reading-Instructions) for reading instructions.
+See [wiki](https://github.com/oerich/EDA397/wiki/Reading-Instructions) for reading instructions.
 
 Acceptance tests will *always* be on Fridays at 13:00-15:00. 
 
@@ -57,20 +58,20 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 | 18/3 *13:15-17:00* | J121 | Course Introduction, overview of Agile, course Q&A | EK | [l1] | | [Cockburn2009, Ch. 4], [Cohen04] |  
 | 20/3 *13:15-15:00* | J243 | Developing for Android | EK | [l2]  | [1][V21], [2][V22] | [Android](https://github.com/morganericsson/EDA397/wiki/Getting-Started:-Android) |  
 | 20/3 *15:15-17:00* | J243 | Getting started and Tech Q&A **(bring computer!)** | EK, EA | | | [AndroidExamples] |
-| 25/3 *13:15-16:00* | J121 | Agile Software Development Crash Course (part 1) | EK |  | | [Schwaber95] |
+| 25/3 *13:15-16:00* | J121 | Agile Software Development Crash Course (part 1) | EK | [l3] | | [Schwaber95] |
 | 25/3 *16:15-17:00* | J121 | Final preparation (Q&A) before project | EK, EA | | | |
-| 27/3 *13:15-17:00* | J243 | Project Startup, incl. 1st customer meeting | EK, EA | | |  |
-| 28/3 *13:15-15:00* | J243 | Automated testing and pair programming | EA, EK | | | |
-| 1/4 *13:15-17:00* | J121 | Second meeting with customer (proxy) | EA/EK | | | |
-| 3/4 *13:15-17:00* | J243 | Agile Software Development Crash Course (part 2) | EK | | | |
-| 4/4 *13:15-15:00* | J243 | Acceptance Tests | EA | | | |
+| 27/3 *13:15-17:00* | J243 | Project Startup, incl. 1st customer meeting | EK, EA | [product-vision] | |  |
+| 28/3 *13:15-15:00* | J243 | Automated testing and pair programming | EA, EK | [l5] | | [Visual GUI Testing](https://github.com/oerich/EDA397/wiki/Visual-GUI-Testing) |
+| 1/4 *13:15-17:00* | J243 | Second meeting with customer (proxy) | EA/EK | | | |
+| 3/4 *13:15-17:00* | J243 | Agile Software Development Crash Course (part 2) | EK | [l6] | | |
+| 4/4 *13:15-15:00* | J243 | [Acceptance Tests](https://github.com/oerich/EDA397/wiki/Acceptance-Tests) | EA | | | |
 
 ### Sprint 2: Focus on getting work done
 
 | Date & Time | Room(s) | Theme |Who | Slides | Videos | Readings | 
 |  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
-| 8/4 *13:15-17:00* | tbd | No lecture, available for Q/A | EK | | | |
-| 10/4 *13:15-17:00* | tbd | No lecture, available for Q/A | EK | | | |
+| 8/4 *13:15-17:00* | n/a | No lecture, available for Q/A | EA | | | |
+| 10/4 *13:15-17:00* | J243 | Scaling agile (Guest lecture: Thomas Lüvo) | EA | | | |
 | 11/4 *13:15-15:00* | tbd | Acceptance Tests | EA | | | |
 | 29/4 *13:15-15:00* | tbd | Slot for guest lecture or tutorial | EK | | | |
 | 1/5 *13:15-15:00* | tbd | Slot for guest lecture or tutorial | EK | | | |
@@ -100,9 +101,11 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 
 [L1]: https://github.com/oerich/EDA397/blob/master/Slides/l1.pdf?raw=true
 [L2]: https://github.com/oerich/EDA397/blob/master/Slides/l2.pdf?raw=true
-[L3]: https://github.com/morganericsson/EDA397/blob/master/Slides/l3.pdf?raw=true
-[L4]: https://github.com/morganericsson/EDA397/blob/master/Slides/l4.pdf?raw=true
-[L5]: https://github.com/morganericsson/EDA397/blob/master/Slides/l5.pdf?raw=true
+[L3]: https://github.com/oerich/EDA397/blob/master/Slides/l3.pdf?raw=true
+[L4]: https://github.com/oerich/EDA397/blob/master/Slides/l4.pdf?raw=true
+[L5]: https://github.com/oerich/EDA397/blob/master/Slides/l5.pdf?raw=true
+[L6]: https://github.com/oerich/EDA397/blob/master/Slides/l6.pdf?raw=true
+[product-vision]: https://github.com/oerich/EDA397/blob/master/Slides/product-vision.pdf?raw=true
 
 [V11]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/eda397_1_1.mp4
 [V12]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/eda397_1_2.mp4
@@ -147,5 +150,5 @@ To pass the course it is extremely important that you read all the course materi
 
 Your final grade will be set according to the [Grading Policy][GP]
 
-[GP]: https://github.com/morganericsson/EDA397/wiki/Grading-Policy]
-[PMR]: https://github.com/morganericsson/EDA397/wiki/Post-mortem-Report
+[GP]: https://github.com/oerich/EDA397/wiki/Grading-Policy]
+[PMR]: https://github.com/oerich/EDA397/wiki/Post-mortem-Report
