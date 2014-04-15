@@ -106,7 +106,7 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 [L5]: https://github.com/oerich/EDA397/blob/master/Slides/l5.pdf?raw=true
 [L6]: https://github.com/oerich/EDA397/blob/master/Slides/l6.pdf?raw=true
 [product-vision]: https://github.com/oerich/EDA397/blob/master/Slides/product-vision.pdf?raw=true
-[ScalingAgile]: https://github.com/oerich/EDA397/blob/master/Slides/Luvoe - Scaling Agile.pdf
+[ScalingAgile]: https://github.com/oerich/EDA397/blob/master/Slides/Luvoe-ScalingAgile.pdf
 
 [V11]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/eda397_1_1.mp4
 [V12]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/eda397_1_2.mp4
