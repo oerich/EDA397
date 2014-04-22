@@ -1,9 +1,6 @@
 # Agile Development Processes - lp4, vt2014
 
-- [Teams have been assigned, see wiki](https://github.com/oerich/EDA397/wiki/Teams)
-- If you are not in a team yet, [please answer the questions in this questionnaire to help us forming good and balanced teams.](https://docs.google.com/forms/d/1VJi5aYhgyILXaSAcG4bvEWfBmu08U1OwdghwKroK-a0/viewform) and write an email to Eric
-
-Last update: 2014-04-07
+Last update: 2014-04-22
 
 ## Course Description
 Agile software development aims at setting up an environment to develop software based on the following principles from the agile manifesto:
@@ -73,22 +70,22 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 | 8/4 *13:15-17:00* | n/a | No lecture, available for Q/A, project rooms available, see [TimeEdit]. | EA | | | |
 | 10/4 *13:15-17:00* | J243 | Scaling agile (Guest lecture: Thomas Lüvo) | EA | [ScalingAgile] | | |
 | 11/4 *13:15-15:00* | J243 | Acceptance Tests | EA | | | |
-| 29/4 *13:15-15:00* | tbd | Slot for guest lecture or tutorial | EK | | | |
-| 1/5 *13:15-15:00* | tbd | Slot for guest lecture or tutorial | EK | | | |
+| 29/4 *13:15-15:00* | J243 | Lean Software Development | EK | | | |
+| 1/5 *13:15-15:00* | n/a | Group work and individual coaching, project rooms available, see [TimeEdit]. | EK/EA | | | |
 | 2/5 *13:15-15:00* | J243 | [Acceptance Tests](https://github.com/oerich/EDA397/wiki/Acceptance-Tests) | EA | | | |
-| 6/5 *13:15-17:00* | tbd | Slot for guest lecture or tutorial  | EA | | | |
-| 8/5 *13:15-17:00* | tbd | Slot for guest lecture or tutorial  | EK | | | |
+| 6/5 *13:15-17:00* | J243 | Agile vs. Plan-Driven  | EK | | | |
+| 8/5 *13:15-17:00* | n/a | Group work and individual coaching, project rooms available, see [TimeEdit].  | EK/EA | | | |
 | 9/5 *13:15-15:00* | J243 | [Acceptance Tests](https://github.com/oerich/EDA397/wiki/Acceptance-Tests) | EA |  | |
 
 ### Sprint 3: Focus on theory and advanced concepts of agile
 
 | Date & Time | Room(s) | Theme |Who | Slides | Videos | Readings | 
 |  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
-| 13/5 *13:15-17:00* | tbd | Advanced concepts: Communication, information flow, and knowledge management | EK | | | |
-| 15/5 *13:15-17:00* | tbd | Advanced concepts: Distributed agile, large-scale agile | EK | |  |  |
-| 16/5 *13:15-15:00* | tbd | **Final hand-off to customer** | EK/EA | | | | 
-| 20/5 *13:15-17:00* | tbd | Research day: Various presentations | EK | | | |
-| 22/5 *13:15-17:00* | tbd | Q/A Exam | EK | | | |
+| 13/5 *13:15-17:00* | J243 | Advanced concepts: Communication, information flow, and knowledge management | EK | | | |
+| 15/5 *13:15-17:00* | J243 | Advanced concepts: Distributed agile, large-scale agile | EK | |  |  |
+| 16/5 *13:15-15:00* | J243 | **Final hand-off to customer** | EK/EA | | | | 
+| 20/5 *13:15-17:00* | J243 | Research day: Various presentations | EK | | | |
+| 22/5 *13:15-17:00* | J243 | Q/A Exam | EK | | | |
 | 23/5 *24:00* | | **Post-mortem report due** | | | | |
 | 26/5 | |  **Written Exam** | EK | | | |
 
