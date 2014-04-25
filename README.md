@@ -73,8 +73,8 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 | 8/4 *13:15-17:00* | n/a | No lecture, available for Q/A, project rooms available, see [TimeEdit]. | EA | | | |
 | 10/4 *13:15-17:00* | J243 | Scaling agile (Guest lecture: Thomas Lüvo) | EA | [ScalingAgile] | | |
 | 11/4 *13:15-15:00* | J243 | Acceptance Tests | EA | | | |
-| 29/4 *13:15-15:00* | tbd | Slot for guest lecture or tutorial | EK | | | |
-| 1/5 *13:15-15:00* | tbd | Slot for guest lecture or tutorial | EK | | | |
+| 29/4 *13:15-15:00* | J243 | Introduction to Lean Software Development | EK | | | |
+| 1/5 *13:15-15:00* | tbd | Time for supervised group work, project rooms available, see [TimeEdit].  | EK/EA | | | |
 | 2/5 *13:15-15:00* | J243 | [Acceptance Tests](https://github.com/oerich/EDA397/wiki/Acceptance-Tests) | EA | | | |
 | 6/5 *13:15-17:00* | J243 | Agile vs. Plan-Driven  | EK | | | |
 | 8/5 *13:15-17:00* | J243 | Advanced concepts: Communication, information flow, and knowledge management | EK/EA | | | |
