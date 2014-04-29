@@ -1,5 +1,6 @@
 # Agile Development Processes - lp4, vt2014
 
+- No acceptance test this Friday!
 - Schedule for Sprint 2 updated
 - Meeting with course representatives on 2014-05-06, 3pm
 
@@ -75,7 +76,6 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 | 11/4 *13:15-15:00* | J243 | Acceptance Tests | EA | | | |
 | 29/4 *13:15-15:00* | J243 | Introduction to Lean Software Development | EK | [l7] | | |
 | 1/5 | n/a | Holiday.  | | | | |
-| 2/5 *13:15-15:00* | J243 | [Acceptance Tests](https://github.com/oerich/EDA397/wiki/Acceptance-Tests) | EA | | | |
 | 6/5 *13:15-17:00* | J243 | Agile vs. Plan-Driven  | EK | | | |
 | 8/5 *13:15-17:00* | J243 | Advanced concepts: Communication, information flow, and knowledge management | EK/EA | | | |
 | 9/5 *13:15-15:00* | J243 | [Acceptance Tests](https://github.com/oerich/EDA397/wiki/Acceptance-Tests) | EA |  | |
