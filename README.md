@@ -3,7 +3,7 @@
 - Schedule for Sprint 2 updated
 - Meeting with course representatives on 2014-05-06, 3pm
 
-Last update: 2014-04-25
+Last update: 2014-04-29
 
 ## Course Description
 Agile software development aims at setting up an environment to develop software based on the following principles from the agile manifesto:
@@ -73,8 +73,8 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 | 8/4 *13:15-17:00* | n/a | No lecture, available for Q/A, project rooms available, see [TimeEdit]. | EA | | | |
 | 10/4 *13:15-17:00* | J243 | Scaling agile (Guest lecture: Thomas Lüvo) | EA | [ScalingAgile] | | |
 | 11/4 *13:15-15:00* | J243 | Acceptance Tests | EA | | | |
-| 29/4 *13:15-15:00* | J243 | Introduction to Lean Software Development | EK | | | |
-| 1/5 *13:15-15:00* | n/a | Holiday.  | | | | |
+| 29/4 *13:15-15:00* | J243 | Introduction to Lean Software Development | EK | [l7] | | |
+| 1/5 | n/a | Holiday.  | | | | |
 | 2/5 *13:15-15:00* | J243 | [Acceptance Tests](https://github.com/oerich/EDA397/wiki/Acceptance-Tests) | EA | | | |
 | 6/5 *13:15-17:00* | J243 | Agile vs. Plan-Driven  | EK | | | |
 | 8/5 *13:15-17:00* | J243 | Advanced concepts: Communication, information flow, and knowledge management | EK/EA | | | |
@@ -105,6 +105,7 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 [L4]: https://github.com/oerich/EDA397/blob/master/Slides/l4.pdf?raw=true
 [L5]: https://github.com/oerich/EDA397/blob/master/Slides/l5.pdf?raw=true
 [L6]: https://github.com/oerich/EDA397/blob/master/Slides/l6.pdf?raw=true
+[L7]: https://github.com/oerich/EDA397/blob/master/Slides/l7.pdf?raw=true
 [product-vision]: https://github.com/oerich/EDA397/blob/master/Slides/product-vision.pdf?raw=true
 [ScalingAgile]: https://github.com/oerich/EDA397/blob/master/Slides/Luvoe-ScalingAgile.pdf
 
