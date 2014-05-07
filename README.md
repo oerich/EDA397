@@ -84,8 +84,8 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 
 | Date & Time | Room(s) | Theme |Who | Slides | Videos | Readings | 
 |  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
-| 13/5 *13:15-17:00* | J243 | Guest lecture: Lean at scale | EK | | | |
-| 15/5 *13:15-17:00* | J243 | Advanced concepts: Distributed agile, large-scale agile | EK | |  |  |
+| 13/5 *13:15-17:00* | J243 | Lean and Agile at Ericsson (Guest lecture: Mats Eriksson and Jonas Jaconelli) | EK | | | |
+| 15/5 *13:15-17:00* | J243 | Discuss example exam | EK | |  |  |
 | 16/5 *13:15-15:00* | J243 | **Final hand-off to customer** | EK/EA | | | | 
 | 20/5 *13:15-17:00* | J243 | Research day: Various presentations | EK | | | |
 | 22/5 *13:15-17:00* | J243 | Q/A Exam | EK | | | |
