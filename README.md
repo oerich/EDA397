@@ -1,10 +1,8 @@
 # Agile Development Processes - lp4, vt2014
 
-- Acceptance test in Room J243
-- Slides about exam uploaded
-- Leaning towards granting extension on experience report, let me know if you anticipate any trouble as soon as possible.
+- New deadline: Experience report due at Monday, June 2nd, 9am.
 
-Last update: 2014-05-16
+Last update: 2014-05-18
 
 ## Course Description
 Agile software development aims at setting up an environment to develop software based on the following principles from the agile manifesto:
