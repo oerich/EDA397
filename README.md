@@ -1,10 +1,14 @@
 # Agile Development Processes - lp4, vt2014
 
-- Acceptance test in Room J243
-- Slides about exam uploaded
-- Leaning towards granting extension on experience report, let me know if you anticipate any trouble as soon as possible.
+- Exam and Post-Mortem reports have been marked. Unfortunately, it will not be
+possible to have an exam review before the summer. If you want to do an exam
+review after Aug-11, please register by mail to Eric
+- You can of course access your exam during opening hours of the student office.
+- Thanks for a very active course, I really enjoyed working with you and learned
+a lot! Have a great summer!
+--Eric
 
-Last update: 2014-05-16
+Last update: 2014-06-12
 
 ## Course Description
 Agile software development aims at setting up an environment to develop software based on the following principles from the agile manifesto:
@@ -87,7 +91,7 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 | 13/5 *13:15-17:00* | J243 | Lean and Agile at Ericsson (Guest lecture: Mats Eriksson and Jonas Jaconelli) | EK | | | |
 | 15/5 *13:15-17:00* | J243 | Discuss example exam | EK | [exam-discussion] |  |  |
 | 16/5 *13:15-15:00* | J243 | **Final hand-off to customer** | EK/EA | | | |
-| 20/5 *13:15-17:00* | J243 | Research day: Various presentations | EK | | | |
+| 20/5 *13:15-17:00* | J243 | Research day: Various presentations | EK | [l10] | | |
 | 22/5 | n/a | Q/A Exam: Ask by mail before 2014-05-23, 23:59 | EK/EA | | | |
 | 23/5 *24:00* | | **Post-mortem report due** | | | | |
 | 26/5 | |  **Written Exam** | EK | | | |
@@ -108,6 +112,7 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 [L7]: https://github.com/oerich/EDA397/blob/master/Slides/l7.pdf?raw=true
 [L8]: https://github.com/oerich/EDA397/blob/master/Slides/l8.pdf?raw=true
 [L9]: https://github.com/oerich/EDA397/blob/master/Slides/l9.pdf?raw=true
+[L10]: https://github.com/oerich/EDA397/blob/master/Slides/l10.pdf?raw=true
 [product-vision]: https://github.com/oerich/EDA397/blob/master/Slides/product-vision.pdf?raw=true
 [ScalingAgile]: https://github.com/oerich/EDA397/blob/master/Slides/Luvoe-ScalingAgile.pdf
 [exam-discussion]: https://github.com/oerich/EDA397/blob/master/Exams/exam-examples-2014.pdf?raw=true
