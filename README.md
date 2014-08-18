@@ -1,9 +1,10 @@
 # Agile Development Processes - lp4, vt2014
 
-- Exam and Post-Mortem reports have been marked. Unfortunately, it will not be
-possible to have an exam review before the summer. If you want to do an exam
-review after Aug-11, please register by mail to Eric
-- You can of course access your exam during opening hours of the student office.
+- If you need a re-exam of your post-mortem report, please hand in a revised
+version by 1st of Sept. 2014. Contact Emil or Eric on information what needs to
+be improved!
+- Exam and Post-Mortem reports have been marked. If you want to do an exam
+review, please register by mail to Eric
 - Thanks for a very active course, I really enjoyed working with you and learned
 a lot! Have a great summer!
 --Eric
