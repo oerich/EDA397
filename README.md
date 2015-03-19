@@ -1,6 +1,6 @@
 # Agile Development Processes - lp4, vt2015
 
-- This page is currently under construction, please stay tuned and expect changes in schedule and locations. Due to a large number of registrations, we need to identify better rooms and external lectures need to be fixed. --Eric
+- Please note changes of room and time of first lecture
 
 Last update: 2015-03-19
 
@@ -53,12 +53,13 @@ Acceptance tests will *always* be on Thursday at 13:00-17:00.
 
 | Date & Time | Room(s) | Theme |Who | Slides | Videos | Readings |
 |  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
-| Mar-24 *13:15-17:00* | J121 | Course Introduction, overview of Agile, course Q&A, assigning groups | EA | | | [Cockburn2009, Ch. 4], [Cohen04] |  
-| Mar-26 *13:15-17:00* | J243 | Developing for Android, Getting started, and Tech Q&A **(bring computer!)** | EA |  | [1][V21], [2][V22] | [Android](https://github.com/morganericsson/EDA397/wiki/Getting-Started:-Android), [AndroidExamples]|  
-| Mar-31 *13:15-16:00* | J121 | Agile Software Development: Principles and Practices | EK |  | | [Schwaber95] |
-| Mar-31 *16:15-17:00* | J121 | Final preparation (Q&A) before project | EK, EA | | | |
-| Apr-2 *13:15-17:00* | J243 | Project Startup, incl. 1st customer meeting | EK, EA |  | |  |
-| Easter Break | |  | | | | |
+| Mar-24 *15:15-17:00* | Alfa | Course Introduction, overview of Agile, course Q&A, assigning groups | EA | | | [Cockburn2009, Ch. 4], [Cohen04] |  
+| Mar-26 *13:15-17:00* | J243 |  Agile Software Development: Principles and Practices | EA |  | | [Schwaber95]|  
+| Mar-27 *13:15-15:00* | Omega | Get started with groups; working environment | EA |  | | |  
+| Mar-31 *13:15-15:00* | J321 | Developing for Android, Getting started, and Tech Q&A **(bring computer!)** | EK |  | [1][V21], [2][V22] | [Android](https://github.com/morganericsson/EDA397/wiki/Getting-Started:-Android), [AndroidExamples]
+| Mar-31 *15:15-17:00* | Beta | Miniature on Agile Software Development Principles | EK | | | |
+| Apr-2 *13:15-17:00* | J321, J317, J322 | Project Startup, incl. 1st customer meeting | EK, EA |  | |  |
+| Easter Break | |  | | | | | |
 
 More detailed planning to follow.
 
