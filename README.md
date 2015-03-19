@@ -1,15 +1,8 @@
-# Agile Development Processes - lp4, vt2014
+# Agile Development Processes - lp4, vt2015
 
-- If you need a re-exam of your post-mortem report, please hand in a revised
-version by 1st of Sept. 2014. Contact Emil or Eric on information what needs to
-be improved!
-- Exam and Post-Mortem reports have been marked. If you want to do an exam
-review, please register by mail to Eric
-- Thanks for a very active course, I really enjoyed working with you and learned
-a lot! Have a great summer!
---Eric
+- This page is currently under construction, please stay tuned and expect changes in schedule and locations. Due to a large number of registrations, we need to identify better rooms and external lectures need to be fixed. --Eric
 
-Last update: 2014-06-12
+Last update: 2015-03-19
 
 ## Course Description
 Agile software development aims at setting up an environment to develop software based on the following principles from the agile manifesto:
@@ -32,11 +25,8 @@ After passing the course, you will be able to lead agile projects, use test driv
 
 ## Student representatives
 
-- Oscar Blomqvist <boscar@student.chalmers.se> (Chalmers)
-- Emma Dirnberger <emmad@student.chalmers.se> (Chalmers)
-- Poornima Joshi <poornim.joshi@gmail.com> (Chalmers)
-- Jacob Larsson <jacobla@student.chalmers.se> (Chalmers)
-- Nelson Sekitoleko <nellysek@gmail.com> (GU)
+Please consider volunteering as course representative.
+Your help in assuring the quality of the course and in further improving it will be highly appreciated!
 
 ## Course Literature
 
@@ -51,51 +41,40 @@ This lecture is organized in three sprints.
 - **Sprint 2 (focus on getting work done):** We will focus on working in teams, applying agile practices, and collecting experience. Teaching will focus on industrial practice.
 - **Sprint 3 (focus on theory and advanced concepts):** Based on your experience in project work, we will explore more theoretical and advanced topics of agile software development.
 
-Below you can see the date, time, room and themes for the lectures and workshops. There is also a detailed schedule in [TimeEdit]. NOTE! We have booked extra time in the project rooms where you should work on the project but when there will not always be assistants on site for support.
+Below you can see the date, time, room and themes for the lectures and workshops. There is also a detailed schedule in [TimeEdit].
+
+**NOTE!** We have booked extra time in the project rooms where you should work on the project but when there will not always be assistants on site for support.
 
 See [wiki](https://github.com/oerich/EDA397/wiki/Reading-Instructions) for reading instructions.
 
-Acceptance tests will *always* be on Fridays at 13:00-15:00.
+Acceptance tests will *always* be on Thursday at 13:00-17:00.
 
 ### Sprint 1: Focus on getting started
 
 | Date & Time | Room(s) | Theme |Who | Slides | Videos | Readings |
 |  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
-| 18/3 *13:15-17:00* | J121 | Course Introduction, overview of Agile, course Q&A | EK | [l1] | | [Cockburn2009, Ch. 4], [Cohen04] |  
-| 20/3 *13:15-15:00* | J243 | Developing for Android | EK | [l2]  | [1][V21], [2][V22] | [Android](https://github.com/morganericsson/EDA397/wiki/Getting-Started:-Android) |  
-| 20/3 *15:15-17:00* | J243 | Getting started and Tech Q&A **(bring computer!)** | EK, EA | | | [AndroidExamples] |
-| 25/3 *13:15-16:00* | J121 | Agile Software Development Crash Course (part 1) | EK | [l3] | | [Schwaber95] |
-| 25/3 *16:15-17:00* | J121 | Final preparation (Q&A) before project | EK, EA | | | |
-| 27/3 *13:15-17:00* | J243 | Project Startup, incl. 1st customer meeting | EK, EA | [product-vision] | |  |
-| 28/3 *13:15-15:00* | J243 | Automated testing and pair programming | EA, EK | [l5] | | [Visual GUI Testing](https://github.com/oerich/EDA397/wiki/Visual-GUI-Testing) |
-| 1/4 *13:15-17:00* | J243 | Second meeting with customer (proxy) | EA/EK | | | |
-| 3/4 *13:15-17:00* | J243 | Agile Software Development Crash Course (part 2) | EK | [l6] | | |
-| 4/4 *13:15-15:00* | J243 | [Acceptance Tests](https://github.com/oerich/EDA397/wiki/Acceptance-Tests) | EA | | | |
+| Mar-24 *13:15-17:00* | J121 | Course Introduction, overview of Agile, course Q&A, assigning groups | EA | | | [Cockburn2009, Ch. 4], [Cohen04] |  
+| Mar-26 *13:15-17:00* | J243 | Developing for Android, Getting started, and Tech Q&A **(bring computer!)** | EA |  | [1][V21], [2][V22] | [Android](https://github.com/morganericsson/EDA397/wiki/Getting-Started:-Android), [AndroidExamples]|  
+| Mar-31 *13:15-16:00* | J121 | Agile Software Development: Principles and Practices | EK |  | | [Schwaber95] |
+| Mar-31 *16:15-17:00* | J121 | Final preparation (Q&A) before project | EK, EA | | | |
+| Apr-2 *13:15-17:00* | J243 | Project Startup, incl. 1st customer meeting | EK, EA |  | |  |
+| Easter Break | |  | | | | |
+
+More detailed planning to follow.
 
 ### Sprint 2: Focus on getting work done
 
-| Date & Time | Room(s) | Theme |Who | Slides | Videos | Readings |
+| Date & Time | Room(s) | Theme | Who | Slides | Videos | Readings |
 |  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
-| 8/4 *13:15-17:00* | n/a | No lecture, available for Q/A, project rooms available, see [TimeEdit]. | EA | | | |
-| 10/4 *13:15-17:00* | J243 | Scaling agile (Guest lecture: Thomas Lüvo) | EA | [ScalingAgile] | | |
-| 11/4 *13:15-15:00* | J243 | Acceptance Tests | EA | | | |
-| 29/4 *13:15-15:00* | J243 | Introduction to Lean Software Development | EK | [l7] | | |
-| 1/5 | n/a | Holiday.  | | | | |
-| 6/5 *13:15-17:00* | J243 | Agile vs. Plan-Driven  | EK | [l8] | | |
-| 8/5 *13:15-17:00* | J243 | Advanced concepts: Communication, information flow, and knowledge management | EK | [l9] | | |
-| 9/5 *13:15-15:00* | J243 | [Acceptance Tests](https://github.com/oerich/EDA397/wiki/Acceptance-Tests) | EA |  |  | |
+
+More detailed planning to follow.
 
 ### Sprint 3: Focus on theory and advanced concepts of agile
 
 | Date & Time | Room(s) | Theme |Who | Slides | Videos | Readings |
 |  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
-| 13/5 *13:15-17:00* | J243 | Lean and Agile at Ericsson (Guest lecture: Mats Eriksson and Jonas Jaconelli) | EK | | | |
-| 15/5 *13:15-17:00* | J243 | Discuss example exam | EK | [exam-discussion] |  |  |
-| 16/5 *13:15-15:00* | J243 | **Final hand-off to customer** | EK/EA | | | |
-| 20/5 *13:15-17:00* | J243 | Research day: Various presentations | EK | [l10] | | |
-| 22/5 | n/a | Q/A Exam: Ask by mail before 2014-05-23, 23:59 | EK/EA | | | |
-| 23/5 *24:00* | | **Post-mortem report due** | | | | |
-| 26/5 | |  **Written Exam** | EK | | | |
+
+More detailed planning to follow.
 
 *Note that JXXX refers to Jupiter XXX*
 
