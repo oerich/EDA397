@@ -141,5 +141,5 @@ To pass the course it is extremely important that you read all the course materi
 
 Your final grade will be set according to the [Grading Policy][GP]
 
-[GP]: https://github.com/oerich/EDA397/wiki/Grading-Policy]
+[GP]: https://github.com/oerich/EDA397/wiki/Grading-Policy
 [PMR]: https://github.com/oerich/EDA397/wiki/Post-mortem-Report
