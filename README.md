@@ -58,7 +58,7 @@ Acceptance tests will *always* be on Thursday at 13:00-17:00.
 | Mar-24 *15:15-17:00* | Alfa | Course Introduction, overview of Agile, course Q&A, assigning groups | EA | [L1] | | [Cockburn2009, Ch. 4], [Cohen04] |  
 | Mar-26 *13:15-17:00* | Gamma |  Agile Software Development: Principles and Practices | EA | [L2] | | [Schwaber95]|  
 | Mar-27 *13:15-15:00* | Omega | Get started with groups; working environment | EA | | | |  
-| Mar-31 *13:15-15:00* | J321 | **Optional:** Developing for Android, Getting started, and Tech Q&A **(bring computer!)** | EK |  | [1][V21], [2][V22] | [Android](https://github.com/morganericsson/EDA397/wiki/Getting-Started:-Android), [AndroidExamples]
+| Mar-31 *13:15-15:00* | J321 | **Optional:** Developing for Android, Getting started, and Tech Q&A **(bring computer!)** | EK | [L3t] | [1][V21], [2][V22] | [Android](https://github.com/morganericsson/EDA397/wiki/Getting-Started:-Android), [AndroidExamples]
 | Mar-31 *15:15-17:00* | Beta | Miniature on Agile Software Development Principles | EK | | | |
 | Apr-2 *13:15-17:00* | J321, J317, J322 | Project Startup, incl. 1st customer meeting | EK, EA |  | |  |
 | Easter Break | |  | | | | | |
@@ -89,6 +89,7 @@ More detailed planning to follow.
 [L1]: https://github.com/oerich/EDA397/blob/master/Slides/l1.pdf?raw=true
 [L2]: https://github.com/oerich/EDA397/blob/master/Slides/l2.pdf?raw=true
 [L3]: https://github.com/oerich/EDA397/blob/master/Slides/l3.pdf?raw=true
+[L3t]: https://github.com/oerich/EDA397/blob/master/Slides/l3t.pdf?raw=true
 [L4]: https://github.com/oerich/EDA397/blob/master/Slides/l4.pdf?raw=true
 [L5]: https://github.com/oerich/EDA397/blob/master/Slides/l5.pdf?raw=true
 [L6]: https://github.com/oerich/EDA397/blob/master/Slides/l6.pdf?raw=true
