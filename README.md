@@ -1,8 +1,10 @@
 # Agile Development Processes - lp4, vt2015
 
-- Please note changes of room and time of first lecture
 
-Last update: 2015-03-19
+- Please note that Android Tutorial is optional
+- Lecture slides from last week linked
+
+Last update: 2015-03-30
 
 ## Course Description
 Agile software development aims at setting up an environment to develop software based on the following principles from the agile manifesto:
