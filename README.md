@@ -1,9 +1,9 @@
 # Agile Development Processes - lp4, vt2015
 
 
-- Linked slides for Lecture 3
+- Linked slides for Lecture 4
 
-Last update: 2015-03-31
+Last update: 2015-04-02
 
 ## Course Description
 Agile software development aims at setting up an environment to develop software based on the following principles from the agile manifesto:
@@ -59,7 +59,7 @@ Acceptance tests will *always* be on Thursday at 13:00-17:00.
 | Mar-27 *13:15-15:00* | Omega | Get started with groups; working environment | EA | | | |  
 | Mar-31 *13:15-15:00* | J321 | **Optional:** Developing for Android, Getting started, and Tech Q&A **(bring computer!)** | EK | [L3t] | [1][V21], [2][V22] | [Android](https://github.com/morganericsson/EDA397/wiki/Getting-Started:-Android), [AndroidExamples]
 | Mar-31 *15:15-17:00* | Beta | Miniature on Agile Software Development Principles | EK | [L3] | | |
-| Apr-2 *13:15-17:00* | J321, J317, J322 | Project Startup, incl. 1st customer meeting | EK, EA |  | |  |
+| Apr-2 *13:15-17:00* | J321, J317, J322 | Project Startup, incl. 1st customer meeting | EK, EA | [L4] | |  |
 | Easter Break | |  | | | | | |
 
 More detailed planning to follow.
