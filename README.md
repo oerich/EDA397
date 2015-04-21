@@ -76,14 +76,23 @@ More detailed planning to follow.
 | Apr-28 15:00 - 17:00 | Alfa | Agile vs. Plan-driven | EK | | | |
 
 
-More detailed planning to follow.
-
 ### Sprint 3: Focus on theory and advanced concepts of agile
+
+Current state of planning, changes might happen.
 
 | Date & Time | Room(s) | Theme |Who | Slides | Videos | Readings |
 |  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
+| May-5 13:15 - 15:00 | Omega | Information Flow in Agile Development | EK | | | |
+| May-7 13:15 - 17:00 | indiv. announcement | Acceptance testing | EA | | | |
+| May-8 13:15 - 17:00 | Beta | Slot for guest lecture | tbd | | | |
+| May-12 13:15 - 15:00 | Babord (Äran) | Mats Eriksson (Ericsson AB): Large-Scale Agile  | Guest Lecture | | | |
+| May-19 13:15 - 15:00 | Omega | Margareta Löfvenholm (Jeppesen): User Experience and Agile | Guest Lecture | | | |
+| May-21 13:15 - 17:00 | indiv. announcement | **final** Acceptance testing | EA | | | |
+| May-22 13:15 - 15:00 | Beta|  Large-scale agile | EK | | | |
+| May-26 13:15 - 15:00 | Gamma | Hot Research Topics around Agile | EK | | | |
+| May-28 13:15 - 17:00 | J243 | Presentation of Results| Project teams | | | |
+| May-29 13:15 - 15:00 | Beta | Exam Q/A | EK | | | |
 
-More detailed planning to follow.
 
 *Note that JXXX refers to Jupiter XXX*
 
