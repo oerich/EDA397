@@ -1,9 +1,9 @@
 # Agile Development Processes - lp4, vt2015
 
 
-- Added schedule for Sprint 2, note that we will have two-week iterations between acceptance tests.
+- Added slides for lecture on lean software development.
 
-Last update: 2015-04-17
+Last update: 2015-04-21
 
 ## Course Description
 Agile software development aims at setting up an environment to develop software based on the following principles from the agile manifesto:
@@ -68,7 +68,7 @@ More detailed planning to follow.
 
 | Date & Time | Room(s) | Theme | Who | Slides | Readings |
 |  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
-| Apr-21 13:15 - 15:00 | Omega | Lean and Kanban | EK | | | |
+| Apr-21 13:15 - 15:00 | Omega | Lean and Kanban | EK | [L5] | | |
 | Apr-21 15:15 - 17:00 | J321, J317, J322 | Open Q/A and Coaching | EK,EA | | | |
 | Apr-23 13:15 - 17:00 | indiv. announcement | Acceptance testing | EA | | | |
 | Apr-24 13:15 - 15:00 | Beta | Test-driven Development | EK | | | |
