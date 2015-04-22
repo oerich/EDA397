@@ -1,9 +1,10 @@
 # Agile Development Processes - lp4, vt2015
 
+- [Updated schedule for acceptance tests](https://github.com/oerich/EDA397/wiki/Acceptance-Tests)
+- Added schedule for rest of course
 
-- Added slides for lecture on lean software development.
 
-Last update: 2015-04-21
+Last update: 2015-04-22
 
 ## Course Description
 Agile software development aims at setting up an environment to develop software based on the following principles from the agile manifesto:
@@ -161,3 +162,4 @@ Your final grade will be set according to the [Grading Policy][GP]
 
 [GP]: https://github.com/oerich/EDA397/wiki/Grading-Policy
 [PMR]: https://github.com/oerich/EDA397/wiki/Post-mortem-Report
+[AT]: https://github.com/oerich/EDA397/wiki/Acceptance-Tests
