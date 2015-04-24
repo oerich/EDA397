@@ -1,10 +1,11 @@
 # Agile Development Processes - lp4, vt2015
 
-- [Updated schedule for acceptance tests](https://github.com/oerich/EDA397/wiki/Acceptance-Tests)
-- Added schedule for rest of course
+- [Updated schedule for acceptance tests](https://github.com/oerich/EDA397/wiki/Acceptance-Tests): Emil's Pivotal Tracker account
+- [Added report for first meeting with course representatives](https://github.com/oerich/EDA397/wiki/course-representatives)
+- Added slides on Testing in agile
 
 
-Last update: 2015-04-22
+Last update: 2015-04-24
 
 ## Course Description
 Agile software development aims at setting up an environment to develop software based on the following principles from the agile manifesto:
@@ -72,7 +73,7 @@ More detailed planning to follow.
 | Apr-21 13:15 - 15:00 | Omega | Lean and Kanban | EK | [L5] | | |
 | Apr-21 15:15 - 17:00 | J321, J317, J322 | Open Q/A and Coaching | EK,EA | | | |
 | Apr-23 13:15 - 17:00 | indiv. announcement | Acceptance testing | EA | | | |
-| Apr-24 13:15 - 15:00 | Beta | Test-driven Development | EK | | | |
+| Apr-24 13:15 - 15:00 | Beta | Test-driven Development | EK | [L6] | | |
 | Apr-28 13:15 - 14:45 | J321, J317, J322 | Open Q/A and Coaching | EK,EA | | | |
 | Apr-28 15:00 - 17:00 | Alfa | Agile vs. Plan-driven | EK | | | |
 
