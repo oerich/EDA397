@@ -4,7 +4,7 @@
 - Added readings (interpret as: knowing this chapter would be most useful before this lecture)
 
 
-Last update: 2015-04-24
+Last update: 2015-04-28
 
 ## Course Description
 Agile software development aims at setting up an environment to develop software based on the following principles from the agile manifesto:
