@@ -1,8 +1,7 @@
 # Agile Development Processes - lp4, vt2015
 
-- [Updated schedule for acceptance tests](https://github.com/oerich/EDA397/wiki/Acceptance-Tests): Emil's Pivotal Tracker account
-- [Added report for first meeting with course representatives](https://github.com/oerich/EDA397/wiki/course-representatives)
-- Added slides on Testing in agile
+- Added slides on Agile vs. Plan-Driven
+- Added readings (interpret as: knowing this chapter would be most useful before this lecture)
 
 
 Last update: 2015-04-24
@@ -60,7 +59,7 @@ Acceptance tests will *always* be on Thursday at 13:00-17:00.
 | Mar-26 *13:15-17:00* | Gamma |  Agile Software Development: Principles and Practices | EA | [L2] | | [Schwaber95]|  
 | Mar-27 *13:15-15:00* | Omega | Get started with groups; working environment | EA | | | |  
 | Mar-31 *13:15-15:00* | J321 | **Optional:** Developing for Android, Getting started, and Tech Q&A **(bring computer!)** | EK | [L3t] | [1][V21], [2][V22] | [Android](https://github.com/morganericsson/EDA397/wiki/Getting-Started:-Android), [AndroidExamples]
-| Mar-31 *15:15-17:00* | Beta | Miniature on Agile Software Development Principles | EK | [L3] | | |
+| Mar-31 *15:15-17:00* | Beta | Miniature on Agile Software Development Principles | EK | [L3] | | [Cockburn 2009, Appendix A] |
 | Apr-2 *13:15-17:00* | J321, J317, J322 | Project Startup, incl. 1st customer meeting | EK, EA | [L4] | |  |
 | Easter Break | |  | | | | | |
 
@@ -70,30 +69,30 @@ More detailed planning to follow.
 
 | Date & Time | Room(s) | Theme | Who | Slides | Readings |
 |  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
-| Apr-21 13:15 - 15:00 | Omega | Lean and Kanban | EK | [L5] | | |
-| Apr-21 15:15 - 17:00 | J321, J317, J322 | Open Q/A and Coaching | EK,EA | | | |
-| Apr-23 13:15 - 17:00 | indiv. announcement | Acceptance testing | EA | | | |
-| Apr-24 13:15 - 15:00 | Beta | Test-driven Development | EK | [L6] | | |
-| Apr-28 13:15 - 14:45 | J321, J317, J322 | Open Q/A and Coaching | EK,EA | | | |
-| Apr-28 15:00 - 17:00 | Alfa | Agile vs. Plan-driven | EK | | | |
+| Apr-21 13:15 - 15:00 | Omega | Lean and Kanban | EK | [L5] | |
+| Apr-21 15:15 - 17:00 | J321, J317, J322 | Open Q/A and Coaching | EK,EA | | |
+| Apr-23 13:15 - 17:00 | indiv. announcement | Acceptance testing | EA | | |
+| Apr-24 13:15 - 15:00 | Beta | Test-driven Development | EK | [L6] | |
+| Apr-28 13:15 - 14:45 | J321, J317, J322 | Open Q/A and Coaching | EK,EA | | |
+| Apr-28 15:00 - 17:00 | Alfa | Agile vs. Plan-driven | EK | [L7] | Optional reading: [Cockburn 2009, Ch. 0 & 1] |
 
 
 ### Sprint 3: Focus on theory and advanced concepts of agile
 
 Current state of planning, changes might happen.
 
-| Date & Time | Room(s) | Theme |Who | Slides | Videos | Readings |
+| Date & Time | Room(s) | Theme |Who | Slides | Readings |
 |  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
-| May-5 13:15 - 15:00 | Omega | Information Flow in Agile Development | EK | | | |
-| May-7 13:15 - 17:00 | indiv. announcement | Acceptance testing | EA | | | |
-| May-8 13:15 - 17:00 | Beta | Slot for guest lecture | tbd | | | |
-| May-12 13:15 - 15:00 | Babord (Äran) | Mats Eriksson (Ericsson AB): Large-Scale Agile  | Guest Lecture | | | |
-| May-19 13:15 - 15:00 | Omega | Margareta Löfvenholm (Jeppesen): User Experience and Agile | Guest Lecture | | | |
-| May-21 13:15 - 17:00 | indiv. announcement | **final** Acceptance testing | EA | | | |
-| May-22 13:15 - 15:00 | Beta|  Large-scale agile | EK | | | |
-| May-26 13:15 - 15:00 | Gamma | Hot Research Topics around Agile | EK | | | |
-| May-28 13:15 - 17:00 | J243 | Presentation of Results| Project teams | | | |
-| May-29 13:15 - 15:00 | Beta | Exam Q/A | EK | | | |
+| May-5 13:15 - 15:00 | Omega | Information Flow in Agile Development | EK | | [Cockburn 2009, Ch. 3]|
+| May-7 13:15 - 17:00 | indiv. announcement | Acceptance testing | EA | |  |
+| May-8 13:15 - 17:00 | Beta | Slot for guest lecture | tbd | | [Cockburn 2009, Ch. 5]|
+| May-12 13:15 - 15:00 | Babord (Äran) | Mats Eriksson (Ericsson AB): Large-Scale Agile  | Guest Lecture | | [Cockburn 2009, Ch. 5] |
+| May-19 13:15 - 15:00 | Omega | Margareta Löfvenholm (Jeppesen): User Experience and Agile | Guest Lecture | | [Cockburn 2009, Ch. 2] |
+| May-21 13:15 - 17:00 | indiv. announcement | **final** Acceptance testing | EA | | |
+| May-22 13:15 - 15:00 | Beta|  Large-scale agile | EK | | [Cockburn 2009, Ch. 6] |
+| May-26 13:15 - 15:00 | Gamma | Hot Research Topics around Agile | EK | | |
+| May-28 13:15 - 17:00 | J243 | Presentation of Results| Project teams | | |
+| May-29 13:15 - 15:00 | Beta | Exam Q/A | EK | | |
 
 
 *Note that JXXX refers to Jupiter XXX*
