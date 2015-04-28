@@ -27,8 +27,8 @@ After passing the course, you will be able to lead agile projects, use test driv
 
 ## Student representatives
 
-Please consider volunteering as course representative.
-Your help in assuring the quality of the course and in further improving it will be highly appreciated!
+Please find information about student representatives and our meetings on the following wiki page:
+https://github.com/oerich/EDA397/wiki/course-representatives
 
 ## Course Literature
 
