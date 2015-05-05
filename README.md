@@ -1,10 +1,9 @@
 # Agile Development Processes - lp4, vt2015
 
-- Added slides on Agile vs. Plan-Driven
-- Added readings (interpret as: knowing this chapter would be most useful before this lecture)
+- Added slides on Information Flows
 
 
-Last update: 2015-04-28
+Last update: 2015-05-05
 
 ## Course Description
 Agile software development aims at setting up an environment to develop software based on the following principles from the agile manifesto:
@@ -83,7 +82,7 @@ Current state of planning, changes might happen.
 
 | Date & Time | Room(s) | Theme |Who | Slides | Readings |
 |  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
-| May-5 13:15 - 15:00 | Omega | Information Flow in Agile Development | EK | | [Cockburn 2009, Ch. 3]|
+| May-5 13:15 - 15:00 | Omega | Information Flow in Agile Development | EK | [L8] | [Cockburn 2009, Ch. 3]|
 | May-7 13:15 - 17:00 | indiv. announcement | Acceptance testing | EA | |  |
 | May-8 13:15 - 17:00 | Beta | Slot for guest lecture | tbd | | [Cockburn 2009, Ch. 5]|
 | May-12 13:15 - 15:00 | Babord (Äran) | Mats Eriksson (Ericsson AB): Large-Scale Agile  | Guest Lecture | | [Cockburn 2009, Ch. 5] |
