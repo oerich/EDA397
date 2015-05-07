@@ -1,6 +1,6 @@
 # Agile Development Processes - lp4, vt2015
 
-- Added slides on Information Flows
+- Updated schedule (No lecture on Friday May-8 and May-22)
 
 
 Last update: 2015-05-05
@@ -84,14 +84,12 @@ Current state of planning, changes might happen.
 |  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
 | May-5 13:15 - 15:00 | Omega | Information Flow in Agile Development | EK | [L8] | [Cockburn 2009, Ch. 3]|
 | May-7 13:15 - 17:00 | indiv. announcement | Acceptance testing | EA | |  |
-| May-8 13:15 - 17:00 | Beta | Slot for guest lecture | tbd | | [Cockburn 2009, Ch. 5]|
 | May-12 13:15 - 15:00 | Babord (Äran) | Mats Eriksson (Ericsson AB): Large-Scale Agile  | Guest Lecture | | [Cockburn 2009, Ch. 5] |
 | May-19 13:15 - 15:00 | Omega | Margareta Löfvenholm (Jeppesen): User Experience and Agile | Guest Lecture | | [Cockburn 2009, Ch. 2] |
 | May-21 13:15 - 17:00 | indiv. announcement | **final** Acceptance testing | EA | | |
-| May-22 13:15 - 15:00 | Beta|  Large-scale agile | EK | | [Cockburn 2009, Ch. 6] |
 | May-26 13:15 - 15:00 | Gamma | Hot Research Topics around Agile | EK | | |
 | May-28 13:15 - 17:00 | J243 | Presentation of Results| Project teams | | |
-| May-29 13:15 - 15:00 | Beta | Exam Q/A | EK | | |
+| May-29 13:15 - 15:00 | Beta | Exam Q/A | EK | | [Cockburn 2009, Ch. 6] |
 
 
 *Note that JXXX refers to Jupiter XXX*
