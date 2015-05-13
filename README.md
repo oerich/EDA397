@@ -1,10 +1,9 @@
 # Agile Development Processes - lp4, vt2015
 
-- Updated information on guest lecture
-- Updated schedule (No lecture on Friday May-8 and May-22)
+- Updated [information on Post-Mortem report](https://github.com/oerich/EDA397/wiki/Post-mortem-Report): Individual reports are due at Jun-5, 24:00.
 
 
-Last update: 2015-05-12
+Last update: 2015-05-13
 
 ## Course Description
 Agile software development aims at setting up an environment to develop software based on the following principles from the agile manifesto:
