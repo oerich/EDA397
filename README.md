@@ -1,7 +1,6 @@
 # Agile Development Processes - lp4, vt2015
 
-- Updated [information on Post-Mortem report](https://github.com/oerich/EDA397/wiki/Post-mortem-Report): Individual reports are due at Jun-5, 24:00.
-
+- Linked to Margareta's Slides
 
 Last update: 2015-05-13
 
@@ -85,7 +84,7 @@ Current state of planning, changes might happen.
 | May-5 13:15 - 15:00 | Omega | Information Flow in Agile Development | EK | [L8] | [Cockburn 2009, Ch. 3]|
 | May-7 13:15 - 17:00 | indiv. announcement | Acceptance testing | EA | |  |
 | May-12 13:15 - 15:00 | Babord (Äran) | Agile in a large company working with a large product  | *Guest Lecture:* Mats Eriksson and Jimmy Nilsson (Ericsson AB)  | | [Cockburn 2009, Ch. 5] |
-| May-19 13:15 - 15:00 | Omega | Margareta Löfvenholm (Jeppesen): User Experience and Agile | Guest Lecture | | [Cockburn 2009, Ch. 2] |
+| May-19 13:15 - 15:00 | Omega | User Experience and Agile | *Guest Lecture:* Margareta Löfvenholm (Jeppesen) | [Slides]( http://www.slideshare.net/MargaretaLfvenholm/user-experience-and-agile-a-guest-lecture-at-agile-development-processes) | [Cockburn 2009, Ch. 2] |
 | May-21 13:15 - 17:00 | indiv. announcement | **final** Acceptance testing | EA | | |
 | May-26 13:15 - 15:00 | Gamma | Hot Research Topics around Agile | EK | | |
 | May-28 13:15 - 17:00 | J243 | Presentation of Results| Project teams | | |
