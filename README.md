@@ -1,8 +1,8 @@
 # Agile Development Processes - lp4, vt2015
 
-- Linked to Margareta's Slides
+- Added slides on hot topics in agile.
 
-Last update: 2015-05-13
+Last update: 2015-05-28
 
 ## Course Description
 Agile software development aims at setting up an environment to develop software based on the following principles from the agile manifesto:
@@ -86,7 +86,7 @@ Current state of planning, changes might happen.
 | May-12 13:15 - 15:00 | Babord (Äran) | Agile in a large company working with a large product  | *Guest Lecture:* Mats Eriksson and Jimmy Nilsson (Ericsson AB)  | | [Cockburn 2009, Ch. 5] |
 | May-19 13:15 - 15:00 | Omega | User Experience and Agile | *Guest Lecture:* Margareta Löfvenholm (Jeppesen) | [Slides]( http://www.slideshare.net/MargaretaLfvenholm/user-experience-and-agile-a-guest-lecture-at-agile-development-processes) | [Cockburn 2009, Ch. 2] |
 | May-21 13:15 - 17:00 | indiv. announcement | **final** Acceptance testing | EA | | |
-| May-26 13:15 - 15:00 | Gamma | Hot Research Topics around Agile | EK | | |
+| May-26 13:15 - 15:00 | Gamma | Hot Research Topics around Agile | EK | [L9], [Lucas](https://github.com/oerich/EDA397/blob/master/Slides/Gren-Agile-hot-topics.pdf?raw=true), [Antonio](https://github.com/oerich/EDA397/blob/master/Slides/Martini-Managing-Architectural-Debt.pdf?raw=true) | |
 | May-28 13:15 - 17:00 | J243 | Presentation of Results| Project teams | | |
 | May-29 13:15 - 15:00 | Beta | Exam Q/A | EK | | [Cockburn 2009, Ch. 6] |
 
