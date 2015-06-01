@@ -1,6 +1,8 @@
 # Agile Development Processes - lp4, vt2015
 
-- Added slides on hot topics in agile.
+- Jun-2nd: Exam. Good luck to everybody!
+- Exam review will be Aug-18, 13:00-15:00, Room J473, as discussed in last lecture. 
+- Thanks for a great course! I really enjoyed working with you!
 
 Last update: 2015-05-28
 
