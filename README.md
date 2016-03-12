@@ -1,10 +1,10 @@
-# Agile Development Processes - lp4, vt2015
+# Agile Development Processes - lp4, vt2016
 
-- Jun-2nd: Exam. Good luck to everybody!
-- Exam review will be Aug-18, 13:00-15:00, Room J473, as discussed in last lecture. 
-- Thanks for a great course! I really enjoyed working with you!
+- Currently updating this webpage.
+- First lecture: 2016-Mar-22, 15:15, Room Alfa
 
-Last update: 2015-05-28
+
+Last update: 2016-03-12
 
 ## Course Description
 Agile software development aims at setting up an environment to develop software based on the following principles from the agile manifesto:
@@ -23,11 +23,12 @@ After passing the course, you will be able to lead agile projects, use test driv
 ## Teachers
 
 - Eric Knauss (EK), ext 1080, room J480, eric.knauss@cse.gu.se (examiner and lecturer)
-- Emil Alégroth (EA), emil.alegroth@chalmers.se, (teaching assistant)
+- Terese Besker (TB), besker@chalmers.se (teaching assistant)
+- Magnus Ågren (MA), magnus.agren@chalmers.se (teaching assistant)
 
 ## Student representatives
 
-Please find information about student representatives and our meetings on the following wiki page:
+We will select student representatives when the course starts. Please consider volunteering. We will share information about student representatives and our meetings on the following wiki page:
 https://github.com/oerich/EDA397/wiki/course-representatives
 
 ## Course Literature
@@ -40,7 +41,7 @@ https://github.com/oerich/EDA397/wiki/course-representatives
 This lecture is organized in three sprints.
 
 - **Sprint 1 (focus on getting started):** We will focus on getting you started and discuss agile principles and actionable practices. Also, we will set up the project work.
-- **Sprint 2 (focus on getting work done):** We will focus on working in teams, applying agile practices, and collecting experience. Teaching will focus on industrial practice.
+- **Sprint 2 (focus on getting work done):** We will focus on working in teams, applying agile practices, and collecting experience.
 - **Sprint 3 (focus on theory and advanced concepts):** Based on your experience in project work, we will explore more theoretical and advanced topics of agile software development.
 
 Below you can see the date, time, room and themes for the lectures and workshops. There is also a detailed schedule in [TimeEdit].
@@ -49,33 +50,37 @@ Below you can see the date, time, room and themes for the lectures and workshops
 
 See [wiki](https://github.com/oerich/EDA397/wiki/Reading-Instructions) for reading instructions.
 
-Acceptance tests will *always* be on Thursday at 13:00-17:00.
+Acceptance tests will generally be on Thursdays, 13:00-17:00. We aim for two week sprints and will share a schedule, once project groups are established.
+
+**NOTE!** We plan one sprint ahead in detail and will add information as we go. The reason is that some of the planning depends on availability of (industry) guest speakers, and their lectures are to be confirmed.
 
 ### Sprint 1: Focus on getting started
 
 | Date & Time | Room(s) | Theme |Who | Slides | Videos | Readings |
 |  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
-| Mar-24 *15:15-17:00* | Alfa | Course Introduction, overview of Agile, course Q&A, assigning groups | EA | [L1] | | [Cockburn2009, Ch. 4], [Cohen04] |  
-| Mar-26 *13:15-17:00* | Gamma |  Agile Software Development: Principles and Practices | EA | [L2] | | [Schwaber95]|  
-| Mar-27 *13:15-15:00* | Omega | Get started with groups; working environment | EA | | | |  
-| Mar-31 *13:15-15:00* | J321 | **Optional:** Developing for Android, Getting started, and Tech Q&A **(bring computer!)** | EK | [L3t] | [1][V21], [2][V22] | [Android](https://github.com/morganericsson/EDA397/wiki/Getting-Started:-Android), [AndroidExamples]
-| Mar-31 *15:15-17:00* | Beta | Miniature on Agile Software Development Principles | EK | [L3] | | [Cockburn 2009, Appendix A] |
-| Apr-2 *13:15-17:00* | J321, J317, J322 | Project Startup, incl. 1st customer meeting | EK, EA | [L4] | |  |
+| Mar-22 *15:15-17:00* | Alfa | Course Introduction, overview of Agile, course Q&A, assigning groups | EK | [L1] | | [Cockburn2009, Ch. 4], [Cohen04] |  
+| Mar-24 *13:15-15:00* | Beta | Get started with groups; working environment; Project Startup, incl. 1st customer meeting | TB, MA, EK | | | |  
+| Mar-24 *15:15-17:00* | Beta | **Optional:** Developing for Android, Github, Getting started, and Tech Q&A **(bring computer!)** | MA, EK | [L3t] | [1][V21], [2][V22] | [Android](https://github.com/morganericsson/EDA397/wiki/Getting-Started:-Android), [AndroidExamples]
 | Easter Break | |  | | | | | |
+| Apr-12 *13:15-15:00* | Styrbord (near Äran) | Miniature on Agile Software Development Principles | EK |  | | [Cockburn 2009, Appendix A] |
+| Apr-14 *13:15-17:00* | indiv. announcement | Acceptance test, Sprint retrospective, Sprint planning | TB, MA |  | | |
+| Apr-15 *13:15-15:00* | Gamma |  Agile Software Development: Principles and Practices | EK |  | | [Schwaber95]|  
 
-More detailed planning to follow.
 
 ### Sprint 2: Focus on getting work done
 
+Careful, these times still refer to 2015!
+
 | Date & Time | Room(s) | Theme | Who | Slides | Readings |
 |  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
-| Apr-21 13:15 - 15:00 | Omega | Lean and Kanban | EK | [L5] | |
-| Apr-21 15:15 - 17:00 | J321, J317, J322 | Open Q/A and Coaching | EK,EA | | |
-| Apr-23 13:15 - 17:00 | indiv. announcement | Acceptance testing | EA | | |
-| Apr-24 13:15 - 15:00 | Beta | Test-driven Development | EK | [L6] | |
-| Apr-28 13:15 - 14:45 | J321, J317, J322 | Open Q/A and Coaching | EK,EA | | |
-| Apr-28 15:00 - 17:00 | Alfa | Agile vs. Plan-driven | EK | [L7] | Optional reading: [Cockburn 2009, Ch. 0 & 1] |
-
+| Apr-19 13:15 - 15:00 | Delta | Lean and Kanban | EK | | |
+| Apr-19 15:15 - 17:00 | J321, J317, J322 | Open Q/A and Coaching | TB, MA, EK | | |
+| Apr-21 13:15 - 17:00 | J321, J317, J322 | Open Q/A and Coaching | TB, MA, EK | | |
+| Apr-22 13:15 - 15:00 | Alfa | Test-driven Development | EK | | |
+| Apr-26 13:15 - 15:00 | Alfa | Agile vs. Plan-driven | EK | | Optional reading: [Cockburn 2009, Ch. 0 & 1] |
+| Apr-26 15:15 - 17:00 | J321, J317, J322 | Open Q/A and Coaching | TB, MA, EK | | |
+| Apr-28 15:15 - 17:00 | indiv. announcement | Acceptance test, Sprint retrospective, Sprint planning | TB, MA | | |
+| Apr-29 13:15 - 15:00 | J321, J317, J322 | Open Q/A and Coaching | TB, MA, EK | | |
 
 ### Sprint 3: Focus on theory and advanced concepts of agile
 
@@ -83,14 +88,18 @@ Current state of planning, changes might happen.
 
 | Date & Time | Room(s) | Theme |Who | Slides | Readings |
 |  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
-| May-5 13:15 - 15:00 | Omega | Information Flow in Agile Development | EK | [L8] | [Cockburn 2009, Ch. 3]|
-| May-7 13:15 - 17:00 | indiv. announcement | Acceptance testing | EA | |  |
-| May-12 13:15 - 15:00 | Babord (Äran) | Agile in a large company working with a large product  | *Guest Lecture:* Mats Eriksson and Jimmy Nilsson (Ericsson AB)  | | [Cockburn 2009, Ch. 5] |
-| May-19 13:15 - 15:00 | Omega | User Experience and Agile | *Guest Lecture:* Margareta Löfvenholm (Jeppesen) | [Slides]( http://www.slideshare.net/MargaretaLfvenholm/user-experience-and-agile-a-guest-lecture-at-agile-development-processes) | [Cockburn 2009, Ch. 2] |
+| May-3 13:15 - 15:00 | Beta | Information Flow in Agile Development | EK | | [Cockburn 2009, Ch. 3]|
+| May-3 15:15 - 17:00 | J321, J317, J322 | Open Q/A and Coaching | TB, MA, EK | | |
+| May-10 13:15 - 15:00 | Babord (Äran) | RE and Architecture in Agile Software Development | EK  | | [Cockburn 2009, Ch. 5] |
+| May-10 15:15 - 17:00 | J321, J317, J322 | Open Q/A and Coaching | TB, MA, EK | | |
+| May-12 13:15 - 17:00 | indiv. announcement | Acceptance test, Sprint retrospective, Sprint planning | TB, MA | |  |
+| May-17 13:15 - 15:00 | Omega | Slot for guest lecture | *Guest Lecture:*  |  | [Cockburn 2009, Ch. 2] |
+| May-19 13:15 - 17:00 | J321, J317, J322 | Open Q/A and Coaching | TB, MA | | |
+| May-20 13:15 - 15:00 | Alfa | Alternative slot for guest lecture |  | | |
 | May-21 13:15 - 17:00 | indiv. announcement | **final** Acceptance testing | EA | | |
-| May-26 13:15 - 15:00 | Gamma | Hot Research Topics around Agile | EK | [L9], [Lucas](https://github.com/oerich/EDA397/blob/master/Slides/Gren-Agile-hot-topics.pdf?raw=true), [Antonio](https://github.com/oerich/EDA397/blob/master/Slides/Martini-Managing-Architectural-Debt.pdf?raw=true) | |
-| May-28 13:15 - 17:00 | J243 | Presentation of Results| Project teams | | |
-| May-29 13:15 - 15:00 | Beta | Exam Q/A | EK | | [Cockburn 2009, Ch. 6] |
+| May-24 13:15 - 15:00 | Delta | Omega | Slot for guest lecture | |  |
+| May-26 13:15 - 17:00 | Alfa | Presentation of Results| Project teams | | |
+| May-27 13:15 - 15:00 | Alfa | Alternative slot for guest lecture |  | [Cockburn 2009, Ch. 6] |
 
 
 *Note that JXXX refers to Jupiter XXX*
