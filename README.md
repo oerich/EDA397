@@ -2,9 +2,10 @@
 
 - Currently updating this webpage.
 - First lecture: 2016-Mar-22, 15:15, Room Alfa
+- Ericsson confirmed guest lecture
 
 
-Last update: 2016-03-12
+Last update: 2016-03-14
 
 ## Course Description
 Agile software development aims at setting up an environment to develop software based on the following principles from the agile manifesto:
@@ -93,8 +94,8 @@ Current state of planning, changes might happen.
 | May-10 13:15 - 15:00 | Delta | RE and Architecture in Agile Software Development | EK  | | [Cockburn 2009, Ch. 5] |
 | May-10 15:15 - 17:00 | J321, J317, J322 | Open Q/A and Coaching | TB, MA, EK | | |
 | May-12 13:15 - 17:00 | indiv. announcement | Acceptance test, Sprint retrospective, Sprint planning | TB, MA | |  |
-| May-17 13:15 - 15:00 | Omega | Slot for guest lecture | *Guest Lecture:*  |  | [Cockburn 2009, Ch. 2] |
-| May-19 13:15 - 17:00 | J321, J317, J322 | Open Q/A and Coaching | TB, MA | | |
+| May-17 13:15 - 15:00 | Omega | Slot for guest lecture or Open Q/A and Coaching |   |  | [Cockburn 2009, Ch. 2] |
+| May-19 13:15 - 17:00 | J321, J317, J322 | Guest lecture (Ericsson) | *Guest Lecture:* | | |
 | May-20 13:15 - 15:00 | Alfa | Alternative slot for guest lecture |  | | |
 | May-21 13:15 - 17:00 | indiv. announcement | **final** Acceptance testing | EA | | |
 | May-24 13:15 - 15:00 | Delta | Slot for guest lecture | |  |
