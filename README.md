@@ -5,7 +5,7 @@
 - Ericsson confirmed guest lecture
 
 
-Last update: 2016-03-23
+Last update: 2016-03-24
 
 ## Course Description
 Agile software development aims at setting up an environment to develop software based on the following principles from the agile manifesto:
@@ -60,8 +60,7 @@ Acceptance tests will generally be on Thursdays, 13:00-17:00. We aim for two wee
 | Date & Time | Room(s) | Theme |Who | Slides | Videos | Readings |
 |  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
 | Mar-22 *15:15-17:00* | Alfa | Course Introduction, overview of Agile, course Q&A, assigning groups | EK | [L1] | | [Cockburn2009, Ch. 4], [Cohen04] |  
-| Mar-24 *13:15-15:00* | Beta | Get started with groups; working environment; Project Startup, incl. 1st customer meeting | TB, MA, EK | | | |  
-| Mar-24 *15:15-17:00* | Beta | **Optional:** Developing for Android, Github, Getting started, and Tech Q&A **(bring computer!)** | MA, EK | [L3t] | [1][V21], [2][V22] | [Android](https://github.com/oerich/EDA397/wiki/Getting-Started:-Android), [AndroidExamples]
+| Mar-24 *13:15-17:00* | Beta | Get started with groups; working environment; Project Startup, incl. 1st customer meeting | TB, MA, | [L2] | | [Android](https://github.com/oerich/EDA397/wiki/Getting-Started:-Android), [AndroidExamples] |  
 | Easter Break | |  | | | | | |
 | Apr-12 *13:15-15:00* | Styrbord (near Äran) | Miniature on Agile Software Development Principles | EK |  | | [Cockburn 2009, Appendix A] |
 | Apr-14 *13:15-17:00* | indiv. announcement | Acceptance test, Sprint retrospective, Sprint planning | TB, MA |  | | |
