@@ -1,6 +1,6 @@
 # Agile Development Processes - lp4, vt2016
 
-- Currently updating this webpage.
+- Currently updating this webpage
 - First lecture: 2016-Mar-22, 15:15, Room Alfa
 - Ericsson confirmed guest lecture
 
