@@ -1,11 +1,9 @@
 # Agile Development Processes - lp4, vt2016
 
-- Currently updating this webpage
-- First lecture: 2016-Mar-22, 15:15, Room Alfa
-- Ericsson confirmed guest lecture
+- Lecture 3 with Miniature and Acceptance Test schedule online
 
 
-Last update: 2016-03-24
+Last update: 2016-04-13
 
 ## Course Description
 Agile software development aims at setting up an environment to develop software based on the following principles from the agile manifesto:
@@ -62,7 +60,7 @@ Acceptance tests will generally be on Thursdays, 13:00-17:00. We aim for two wee
 | Mar-22 *15:15-17:00* | Alfa | Course Introduction, overview of Agile, course Q&A, assigning groups | EK | [L1] | | [Cockburn2009, Ch. 4], [Cohen04] |  
 | Mar-24 *13:15-17:00* | Beta | Get started with groups; working environment; Project Startup, incl. 1st customer meeting | TB, MA, | [L2] | | [Android](https://github.com/oerich/EDA397/wiki/Getting-Started:-Android), [AndroidExamples] |  
 | Easter Break | |  | | | | | |
-| Apr-12 *13:15-15:00* | Styrbord (near Äran) | Miniature on Agile Software Development Principles | EK |  | | [Cockburn 2009, Appendix A] |
+| Apr-12 *13:15-15:00* | Styrbord (near Äran) | Miniature on Agile Software Development Principles | EK | [L3] | | [Cockburn 2009, Appendix A] |
 | Apr-14 *13:15-17:00* | indiv. announcement | Acceptance test, Sprint retrospective, Sprint planning | TB, MA |  | | |
 | Apr-15 *13:15-15:00* | Gamma |  Agile Software Development: Principles and Practices | EK |  | | [Schwaber95]|  
 
