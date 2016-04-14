@@ -62,7 +62,7 @@ Acceptance tests will generally be on Thursdays, 13:00-17:00. We aim for two wee
 | Easter Break | |  | | | | | |
 | Apr-12 *13:15-15:00* | Styrbord (near Äran) | Miniature on Agile Software Development Principles | EK | [L3] | | [Cockburn 2009, Appendix A] |
 | Apr-14 *13:15-17:00* | indiv. announcement | Acceptance test, Sprint retrospective, Sprint planning | TB, MA |  | | |
-| Apr-15 *13:15-15:00* | Gamma |  Agile Software Development: Principles and Practices | EK |  | | [Schwaber95]|  
+| Apr-15 *13:15-15:00* | Gamma |  Agile Software Development: Principles and Practices | EK | [L4] | | [Schwaber95]|  
 
 
 ### Sprint 2: Focus on getting work done
