@@ -92,9 +92,8 @@ Current state of planning, changes might happen.
 | May-10 15:15 - 17:00 | J321, J317, J322 | Open Q/A and Coaching | TB, MA, EK | | |
 | May-12 13:15 - 17:00 | indiv. announcement | Acceptance test, Sprint retrospective, Sprint planning | TB, MA | |  |
 | May-17 13:15 - 15:00 | Omega | Slot for guest lecture or Open Q/A and Coaching |   |  | [Cockburn 2009, Ch. 2] |
-| May-19 13:15 - 17:00 | J321, J317, J322 | Guest lecture (Ericsson) | *Guest Lecture:* | | |
-| May-20 13:15 - 15:00 | Alfa | Alternative slot for guest lecture |  | | |
-| May-21 13:15 - 17:00 | indiv. announcement | **final** Acceptance testing | EA | | |
+| May-19 13:15 - 15:00 | Delta | *Guest Lecture:* Mats Eriksson and Jimmy Nilsson  (Ericsson AB) | MA | | |
+| May-20 13:15 - 17:00 | Individual announcement | **final** Acceptance testing | EA | | |
 | May-24 13:15 - 15:00 | Delta | Slot for guest lecture | |  |
 | May-26 13:15 - 17:00 | Alfa | Presentation of Results| Project teams | | |
 | May-27 13:15 - 15:00 | Alfa | Alternative slot for guest lecture |  | | [Cockburn 2009, Ch. 6] |
@@ -157,11 +156,11 @@ The examination consists of three parts:
 
 1. A **Software Development project** where you work in groups to develop an Android or iOS app using agile practices.
 
-2. A  **[Post-mortem Report][PMR]** that outlines your experience with agile practices during the software development project. (individual)
+2. A  **[Post-mortem Report][PMR]** that outlines your group's experience with agile practices during the software development project.
 
 3. A **Written exam**  based on the main course book, the papers listed in the table above and the material presented in lectures as well as on your project.
 
-To pass the course it is extremely important that you read all the course material, participate in lectures and are active in and finish your project. If you do not you will fail! Remember that this is a master level course and requires considerably more than most bachelor level courses.
+To pass the course it is extremely important that you read all the course material, participate in lectures and are active in and finish your project. If you do not, you will fail! Remember that this is a master level course and requires considerably more than most bachelor level courses.
 
 Your final grade will be set according to the [Grading Policy][GP]
 
