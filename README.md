@@ -71,7 +71,7 @@ Acceptance tests will generally be on Thursdays, 13:00-17:00. We aim for two wee
 |  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
 | Apr-19 13:15 - 15:00 | Delta | Lean Software Development | EK | | |
 | Apr-19 15:15 - 17:00 | J321, J317, J322 | Open Q/A and Coaching | TB, MA, EK | | |
-| Apr-21 13:15 - 15:00 | Alfa | *Optional workshop:* Android and Github | MA | | |
+| Apr-21 13:15 - 15:00 | J322 | *Optional workshop:* Android and Github | MA | | |
 | Apr-21 13:15 - 17:00 | J321, J317, J322 | In parallel to workshop: Open Q/A and Coaching | TB, (MA), EK | | |
 | Apr-22 13:15 - 15:00 | Alfa | Test-driven Development | EK | | |
 | Apr-26 13:15 - 15:00 | Alfa | Agile vs. Plan-driven | EK | | Optional reading: [Cockburn 2009, Ch. 0 & 1] |
