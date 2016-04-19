@@ -1,9 +1,8 @@
 # Agile Development Processes - lp4, vt2016
 
-- Lecture 3 with Miniature and Acceptance Test schedule online
+- Lecture 5 (Lean Software Development) online
 
-
-Last update: 2016-04-13
+Last update: 2016-04-19
 
 ## Course Description
 Agile software development aims at setting up an environment to develop software based on the following principles from the agile manifesto:
@@ -69,7 +68,7 @@ Acceptance tests will generally be on Thursdays, 13:00-17:00. We aim for two wee
 
 | Date & Time | Room(s) | Theme | Who | Slides | Readings |
 |  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
-| Apr-19 13:15 - 15:00 | Delta | Lean Software Development | EK | | |
+| Apr-19 13:15 - 15:00 | Delta | Lean Software Development | EK | [L5] | |
 | Apr-19 15:15 - 17:00 | J321, J317, J322 | Open Q/A and Coaching | TB, MA, EK | | |
 | Apr-21 13:15 - 15:00 | J322 | *Optional workshop:* Android and Github | MA | | |
 | Apr-21 13:15 - 17:00 | J321, J317, J322 | In parallel to workshop: Open Q/A and Coaching | TB, (MA), EK | | |
