@@ -57,7 +57,7 @@ Acceptance tests will generally be on Thursdays, 13:00-17:00. We aim for two wee
 | Date & Time | Room(s) | Theme |Who | Slides | Videos | Readings |
 |  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
 | Mar-22 *15:15-17:00* | Alfa | Course Introduction, overview of Agile, course Q&A, assigning groups | EK | [L1] | | [Cockburn2009, Ch. 4], [Cohen04] |  
-| Mar-24 *13:15-17:00* | Beta | Get started with groups; working environment; Project Startup, incl. 1st customer meeting | TB, MA, | [L2] | | [Android](https://github.com/oerich/EDA397/wiki/Getting-Started:-Android), [AndroidExamples] |  
+| Mar-24 *13:15-17:00* | Beta | Get started with groups; working environment; Project Startup, incl. 1st customer meeting | TB, MA, | [L2] | | [Android][get started Android], [AndroidExamples] |
 | Easter Break | |  | | | | | |
 | Apr-12 *13:15-15:00* | Styrbord (near Äran) | Miniature on Agile Software Development Principles | EK | [L3] | | [Cockburn 2009, Appendix A] |
 | Apr-14 *13:15-17:00* | indiv. announcement | Acceptance test, Sprint retrospective, Sprint planning | TB, MA |  | | |
@@ -70,7 +70,7 @@ Acceptance tests will generally be on Thursdays, 13:00-17:00. We aim for two wee
 |  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
 | Apr-19 13:15 - 15:00 | Delta | Lean Software Development | EK | [L5] | |
 | Apr-19 15:15 - 17:00 | J321, J317, J322 | Open Q/A and Coaching | TB, MA, EK | | |
-| Apr-21 13:15 - 15:00 | J322 | *Optional workshop:* Android and Github | MA | | |
+| Apr-21 13:15 - 15:00 | J322 | *Optional workshop:* Android and Github | MA | | [git][get started git], [Android][get started Android] |
 | Apr-21 13:15 - 17:00 | J321, J317, J322 | In parallel to workshop: Open Q/A and Coaching | TB, (MA), EK | | |
 | Apr-22 13:15 - 15:00 | Alfa | Test-driven Development | EK | | |
 | Apr-26 13:15 - 15:00 | Alfa | Agile vs. Plan-driven | EK | | Optional reading: [Cockburn 2009, Ch. 0 & 1] |
@@ -101,6 +101,8 @@ Current state of planning, changes might happen.
 
 [TimeEdit]: https://se.timeedit.net/web/chalmers/db1/public/ri15YXQ2708Z59Qv3X0036Q6y6Y000965Y61Y5gQ7075763Z7.html
 [AndroidExamples]: https://github.com/oerich/AndroidExamples
+[get started Android]: https://github.com/oerich/EDA397/wiki/Getting-Started:-Android
+[get started git]: https://github.com/oerich/EDA397/wiki/Getting-Started:-Git
 [Cohen04]: https://github.com/oerich/EDA397/blob/master/Papers/cohen_2004_intro_to_agile_methods.pdf?raw=true
 [Schwaber95]: https://github.com/oerich/EDA397/blob/master/Papers/schwaber_1995_scrum_dev_process.pdf?raw=true
 [Scrum guide]: http://scrumguides.org/scrum-guide.html
