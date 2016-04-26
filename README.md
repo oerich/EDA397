@@ -1,8 +1,8 @@
 # Agile Development Processes - lp4, vt2016
 
-- Lecture 6 (Agile Testing and Quality) online
+- Lecture 7 (Agile vs. Plan-driven) online
 
-Last update: 2016-04-22
+Last update: 2016-04-26
 
 ## Course Description
 Agile software development aims at setting up an environment to develop software based on the following principles from the agile manifesto:
@@ -73,7 +73,7 @@ Acceptance tests will generally be on Thursdays, 13:00-17:00. We aim for two wee
 | Apr-21 13:15 - 15:00 | J322 | *Optional workshop:* Android and Github | MA | | [git][get started git], [Android][get started Android] |
 | Apr-21 13:15 - 17:00 | J321, J317, J322 | In parallel to workshop: Open Q/A and Coaching | TB, (MA), EK | | |
 | Apr-22 13:15 - 15:00 | Alfa | Test-driven Development | EK | [L6] | |
-| Apr-26 13:15 - 15:00 | Alfa | Agile vs. Plan-driven | EK | | Optional reading: [Cockburn 2009, Ch. 0 & 1] |
+| Apr-26 13:15 - 15:00 | Alfa | Agile vs. Plan-driven | EK | [L7] | Optional reading: [Cockburn 2009, Ch. 0 & 1] |
 | Apr-26 15:15 - 17:00 | J321, J317, J322 | Open Q/A and Coaching | TB, MA, EK | | |
 | Apr-28 15:15 - 17:00 | J321, J322 | Acceptance test, Sprint planning | TB, MA | | |
 | Apr-29 13:15 - 15:00 | J321, J322 | Sprint retrospective | TB, MA | | |
