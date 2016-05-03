@@ -1,8 +1,9 @@
 # Agile Development Processes - lp4, vt2016
 
-- Lecture 7 (Agile vs. Plan-driven) online
+- Lecture 8 (Information flows) online
+- Combined lecture on Agile Architecture with guest lecture (Patrizio Pellicione) and moved it to May-24
 
-Last update: 2016-04-26
+Last update: 2016-05-03
 
 ## Course Description
 Agile software development aims at setting up an environment to develop software based on the following principles from the agile manifesto:
@@ -84,15 +85,15 @@ Current state of planning, changes might happen.
 
 | Date & Time | Room(s) | Theme |Who | Slides | Readings |
 |  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
-| May-3 13:15 - 15:00 | Beta | Information Flow in Agile Development | EK | | [Cockburn 2009, Ch. 3]|
+| May-3 13:15 - 15:00 | Beta | Information Flow in Agile Development | EK | [L8] | [Cockburn 2009, Ch. 3]|
 | May-3 15:15 - 17:00 | J321, J317, J322 | Open Q/A and Coaching | TB, MA, EK | | |
-| May-10 13:15 - 15:00 | Delta | RE and Architecture in Agile Software Development | EK  | | [Cockburn 2009, Ch. 5] |
+| May-10 13:15 - 15:00 | Delta | Continuous Integration and Deployment | EK  | | [Cockburn 2009, Ch. 5] |
 | May-10 15:15 - 17:00 | J321, J317, J322 | Open Q/A and Coaching | TB, MA, EK | | |
 | May-12 13:15 - 17:00 | indiv. announcement | Acceptance test, Sprint retrospective, Sprint planning | TB, MA | |  |
 | May-17 13:15 - 15:00 | Omega | Slot for guest lecture or Open Q/A and Coaching |   |  | [Cockburn 2009, Ch. 2] |
 | May-19 13:15 - 15:00 | Delta | *Guest Lecture:* Mats Eriksson and Jimmy Nilsson  (Ericsson AB) | MA | | |
-| May-20 13:15 - 17:00 | Individual announcement | **final** Acceptance testing | EA | | |
-| May-24 13:15 - 15:00 | Delta | Slot for guest lecture | |  |
+| May-20 13:15 - 17:00 | Individual announcement | **final** Acceptance testing | TB, MA | | |
+| May-24 13:15 - 15:00 | Delta | *Guest Lecture*: Patrizio Pellicione (GU & Chalmers): Agile architecture | |  |
 | May-26 13:15 - 17:00 | Alfa | Presentation of Results| Project teams | | |
 | May-27 13:15 - 15:00 | Alfa | Alternative slot for guest lecture |  | | [Cockburn 2009, Ch. 6] |
 
