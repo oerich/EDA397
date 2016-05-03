@@ -90,6 +90,7 @@ Current state of planning, changes might happen.
 | May-10 13:15 - 15:00 | Delta | Continuous Integration and Deployment | EK  | | [Cockburn 2009, Ch. 5] |
 | May-10 15:15 - 17:00 | J321, J317, J322 | Open Q/A and Coaching | TB, MA, EK | | |
 | May-12 13:15 - 17:00 | indiv. announcement | Acceptance test, Sprint retrospective, Sprint planning | TB, MA | |  |
+| May-13 13:15 - 15:00 | indiv. announcement | Acceptance test, Sprint retrospective, Sprint planning | TB, MA | |  |
 | May-17 13:15 - 15:00 | Omega | Slot for guest lecture or Open Q/A and Coaching |   |  | [Cockburn 2009, Ch. 2] |
 | May-19 13:15 - 15:00 | Delta | *Guest Lecture:* Mats Eriksson and Jimmy Nilsson  (Ericsson AB) | MA | | |
 | May-20 13:15 - 17:00 | Individual announcement | **final** Acceptance testing | TB, MA | | |
