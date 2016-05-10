@@ -1,9 +1,9 @@
 # Agile Development Processes - lp4, vt2016
 
-- Lecture 8 (Information flows) online
-- Combined lecture on Agile Architecture with guest lecture (Patrizio Pelliccione) and moved it to May-24
+- Lecture 9 (Continuous SE Challenges) online
 
-Last update: 2016-05-03
+
+Last update: 2016-05-10
 
 ## Course Description
 Agile software development aims at setting up an environment to develop software based on the following principles from the agile manifesto:
@@ -87,7 +87,7 @@ Current state of planning, changes might happen.
 |  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
 | May-3 13:15 - 15:00 | Beta | Information Flow in Agile Development | EK | [L8] | [Cockburn 2009, Ch. 3]|
 | May-3 15:15 - 17:00 | J321, J317, J322 | Open Q/A and Coaching | TB, MA, EK | | |
-| May-10 13:15 - 15:00 | Delta | Continuous Integration and Deployment | EK  | | [Cockburn 2009, Ch. 5] |
+| May-10 13:15 - 15:00 | Delta | Continuous Integration and Deployment | EK  | [L9] | [Cockburn 2009, Ch. 5] |
 | May-10 15:15 - 17:00 | J321, J317, J322 | Open Q/A and Coaching | TB, MA, EK | | |
 | May-12 13:15 - 17:00 | indiv. announcement | Acceptance test, Sprint retrospective, Sprint planning | TB, MA | |  |
 | May-13 13:15 - 15:00 | indiv. announcement | Slot for additional sprint retrospective, if booked | TB, MA | |  |
