@@ -1,6 +1,7 @@
 # Agile Development Processes - lp4, vt2016
 
 - Lecture 9 (Continuous SE Challenges) online
+- Added plan to discuss exam next week
 
 
 Last update: 2016-05-10
@@ -92,6 +93,7 @@ Current state of planning, changes might happen.
 | May-12 13:15 - 17:00 | indiv. announcement | Acceptance test, Sprint retrospective, Sprint planning | TB, MA | |  |
 | May-13 13:15 - 15:00 | indiv. announcement | Slot for additional sprint retrospective, if booked | TB, MA | |  |
 | May-17 13:15 - 17:00 | J321, J317, J322 | Open Q/A and Coaching | TB, MA |  | |
+| May-17 13:15 - 15:00 | Delta | Discussion of exam | EK |  | |
 | May-19 13:15 - 15:00 | Delta | *Guest Lecture:* Mats Eriksson and Jimmy Nilsson  (Ericsson AB) | MA | | |
 | May-20 13:15 - 17:00 | Individual announcement | **final** Acceptance testing | TB, MA | | |
 | May-24 13:15 - 15:00 | Delta | *Guest Lecture*: Patrizio Pelliccione (GU & Chalmers): Agile architecting | |  |
