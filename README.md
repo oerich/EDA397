@@ -95,7 +95,7 @@ Current state of planning, changes might happen.
 | May-17 13:15 - 17:00 | J321, J317, J322 | Open Q/A and Coaching | TB, MA |  | |
 | May-17 13:15 - 15:00 | Delta | Discussion of exam | EK |  | |
 | May-19 13:15 - 15:00 | Delta | *Guest Lecture:* Mats Eriksson and Jimmy Nilsson  (Ericsson AB) | MA | | |
-| May-20 13:15 - 17:00 | Individual announcement | **final** Acceptance testing | TB, MA | | |
+| May-20 13:15 - 15:00 | Individual announcement | **final** Acceptance testing | TB, MA | [final_ac_sched] | |
 | May-24 13:15 - 15:00 | Delta | *Guest Lecture*: Patrizio Pelliccione (GU & Chalmers): Agile architecting | |  |
 | May-26 13:15 - 17:00 | Alfa | Presentation of Results| Project teams | | |
 | May-27 13:15 - 15:00 | Alfa | Alternative slot for guest lecture |  | | [Cockburn 2009, Ch. 6] |
@@ -125,6 +125,7 @@ Current state of planning, changes might happen.
 [product-vision]: https://github.com/oerich/EDA397/blob/master/Slides/product-vision.pdf?raw=true
 [ScalingAgile]: https://github.com/oerich/EDA397/blob/master/Slides/Luvoe-ScalingAgile.pdf
 [exam-discussion]: https://github.com/oerich/EDA397/blob/master/Exams/exam-examples-2014.pdf?raw=true
+[final_ac_sched]: https://github.com/oerich/EDA397/blob/master/Slides/final_acceptance_test_schedule.pdf?raw=true
 
 [V11]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/eda397_1_1.mp4
 [V12]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/eda397_1_2.mp4
