@@ -95,7 +95,7 @@ Current state of planning, changes might happen.
 | May-17 13:15 - 17:00 | J321, J317, J322 | Open Q/A and Coaching | TB, MA |  | |
 | May-17 13:15 - 15:00 | Delta | Discussion of exam | EK |  | |
 | May-19 13:15 - 15:00 | Delta | *Guest Lecture:* Mats Eriksson and Jimmy Nilsson  (Ericsson AB) | MA | | |
-| May-20 13:15 - 15:00 | Individual announcement | **final** Acceptance testing | TB, MA | [final_ac_sched][Schedule] | |
+| May-20 13:15 - 15:00 | Individual announcement | **final** Acceptance testing | TB, MA | [Schedule][final_ac_sched] | |
 | May-24 13:15 - 15:00 | Delta | *Guest Lecture*: Patrizio Pelliccione (GU & Chalmers): Agile architecting | |  |
 | May-26 13:15 - 17:00 | Alfa | Presentation of Results| Project teams | | |
 | May-27 13:15 - 15:00 | Alfa | Alternative slot for guest lecture |  | | [Cockburn 2009, Ch. 6] |
