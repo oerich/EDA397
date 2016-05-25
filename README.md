@@ -92,7 +92,7 @@ Current state of planning, changes might happen.
 | May-12 13:15 - 17:00 | indiv. announcement | Acceptance test, Sprint retrospective, Sprint planning | TB, MA | |  |
 | May-13 13:15 - 15:00 | indiv. announcement | Slot for additional sprint retrospective, if booked | TB, MA | |  |
 | May-17 13:15 - 17:00 | J321, J317, J322 | Open Q/A and Coaching | TB, MA |  | |
-| May-17 13:15 - 15:00 | Delta | Discussion of exam | EK |  | |
+| May-17 13:15 - 15:00 | Delta | Discussion of exam | EK | [exam-examples] | |
 | May-19 13:15 - 15:00 | Delta | *Guest Lecture:* Mats Eriksson and Jimmy Nilsson  (Ericsson AB) | MA | | |
 | May-20 13:15 - 15:00 | Individual announcement | **final** Acceptance testing | TB, MA | [Schedule][final_ac_sched] | |
 | May-24 13:15 - 15:00 | Delta | *Guest Lecture*: Patrizio Pelliccione (GU & Chalmers): Agile architecting | |  |
@@ -123,7 +123,7 @@ Current state of planning, changes might happen.
 [L10]: https://github.com/oerich/EDA397/blob/master/Slides/l10.pdf?raw=true
 [product-vision]: https://github.com/oerich/EDA397/blob/master/Slides/product-vision.pdf?raw=true
 [ScalingAgile]: https://github.com/oerich/EDA397/blob/master/Slides/Luvoe-ScalingAgile.pdf
-[exam-discussion]: https://github.com/oerich/EDA397/blob/master/Exams/exam-examples-2014.pdf?raw=true
+[exam-examples]: https://github.com/oerich/EDA397/blob/master/Slides/exam-examples?raw=true
 [final_ac_sched]: https://github.com/oerich/EDA397/blob/master/Slides/final_acceptance_test_schedule.pdf?raw=true
 
 [V11]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/eda397_1_1.mp4
