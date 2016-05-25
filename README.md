@@ -1,10 +1,9 @@
 # Agile Development Processes - lp4, vt2016
 
-- Lecture 9 (Continuous SE Challenges) online
-- Added plan to discuss exam next week
+- Added example Exams
+- Clarified reading list
 
-
-Last update: 2016-05-10
+Last update: 2016-05-25
 
 ## Course Description
 Agile software development aims at setting up an environment to develop software based on the following principles from the agile manifesto:
@@ -33,8 +32,10 @@ https://github.com/oerich/EDA397/wiki/course-representatives
 
 ## Course Literature
 
+See [wiki](https://github.com/oerich/EDA397/wiki/Reading-Instructions) for reading instructions.
+
 - Cockburn, A., (2009) [Agile Software Development, 2ed](http://www.amazon.com/Agile-Software-Development-Cooperative-Game/dp/0321482751/ref=sr_1_3?ie=UTF8&qid=1300358686&sr=8-3) (ISBN: 0321482751)
-- Papers (available from lecture list)
+- Papers (available from lecture list/[wiki](https://github.com/oerich/EDA397/wiki/Reading-Instructions))
 
 ## Lectures and Workshops (In progress…)
 
@@ -47,8 +48,6 @@ This lecture is organized in three sprints.
 Below you can see the date, time, room and themes for the lectures and workshops. There is also a detailed schedule in [TimeEdit].
 
 **NOTE!** We have booked extra time in the project rooms where you should work on the project but when there will not always be assistants on site for support.
-
-See [wiki](https://github.com/oerich/EDA397/wiki/Reading-Instructions) for reading instructions.
 
 Acceptance tests will generally be on Thursdays, 13:00-17:00. We aim for two week sprints and will share a schedule, once project groups are established.
 
