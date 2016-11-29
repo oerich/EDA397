@@ -1,9 +1,8 @@
-# Agile Development Processes - lp4, vt2016
+# Agile Development Processes - lp4, vt2017
 
-- Added example Exams
-- Clarified reading list
+- First draft for 2017
 
-Last update: 2016-05-25
+Last update: 2016-11-29
 
 ## Course Description
 Agile software development aims at setting up an environment to develop software based on the following principles from the agile manifesto:
@@ -56,48 +55,46 @@ Acceptance tests will generally be on Thursdays, 13:00-17:00. We aim for two wee
 ### Sprint 1: Focus on getting started
 
 | Date & Time | Room(s) | Theme |Who | Slides | Videos | Readings |
-|  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
-| Mar-22 *15:15-17:00* | Alfa | Course Introduction, overview of Agile, course Q&A, assigning groups | EK | [L1] | | [Cockburn2009, Ch. 4], [Cohen04] |  
-| Mar-24 *13:15-17:00* | Beta | Get started with groups; working environment; Project Startup, incl. 1st customer meeting | TB, MA, | [L2] | | [Android][get started Android], [AndroidExamples] |
-| Easter Break | |  | | | | | |
-| Apr-12 *13:15-15:00* | Styrbord (near Äran) | Miniature on Agile Software Development Principles | EK | [L3] | | [Cockburn 2009, Appendix A] |
-| Apr-14 *13:15-17:00* | indiv. announcement | Acceptance test, Sprint retrospective, Sprint planning | TB, MA |  | | |
-| Apr-15 *13:15-15:00* | Gamma |  Agile Software Development: Principles and Practices | EK | [L4] | | [Schwaber95], [Scrum guide] |
+|  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |
+| Mar-21 *15:15-17:00* | Alfa | Course Introduction, overview of Agile, course Q&A, assigning groups | EK | [L1] | | [Cockburn2009, Ch. 4], [Cohen04] |
+| Mar-23 *13:15-17:00* | Alfa | Get started with groups; working environment; Project Startup, incl. 1st customer meeting | TB, MA, | [L2] | | [Android][get started Android], [AndroidExamples] |
+| Mar-28 *13:15-15:00* | Styrbord (near Äran) | Miniature on Agile Software Development Principles | EK | [L3] | | [Cockburn 2009, Appendix A] |
+| Mar-30 *13:15 - 17:00* | Omega | *Optional workshop:* Android and Github | MA | | [git][get started git], [Android][get started Android] |
+| Mar-31 *13:15-15:00* | Gamma |  Agile Software Development: Principles and Practices | EK | [L4] | | [Schwaber95], [Scrum guide] |
+| Apr-4 *13:15 - 15:00* | Babord | Lean Software Development | EK | [L5] | |
+| Apr-6 *13:15 - 15:00* | Beta | Groups 1-5: Acceptance test, Sprint retrospective, Sprint planning | TB, MA | | |
+| Apr-7 *13:15 - 15:00* | Beta | Groups 5-10: Acceptance test, Sprint retrospective, Sprint planning | TB, MA | | |
 
 
 ### Sprint 2: Focus on getting work done
 
 | Date & Time | Room(s) | Theme | Who | Slides | Readings |
-|  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
-| Apr-19 13:15 - 15:00 | Delta | Lean Software Development | EK | [L5] | |
-| Apr-19 15:15 - 17:00 | J321, J317, J322 | Open Q/A and Coaching | TB, MA, EK | | |
-| Apr-21 13:15 - 15:00 | J322 | *Optional workshop:* Android and Github | MA | | [git][get started git], [Android][get started Android] |
-| Apr-21 13:15 - 17:00 | J321, J317, J322 | In parallel to workshop: Open Q/A and Coaching | TB, (MA), EK | | |
-| Apr-22 13:15 - 15:00 | Alfa | Test-driven Development | EK | [L6] | |
-| Apr-26 13:15 - 15:00 | Alfa | Agile vs. Plan-driven | EK | [L7] | Optional reading: [Cockburn 2009, Ch. 0 & 1] |
-| Apr-26 15:15 - 17:00 | J321, J317, J322 | Open Q/A and Coaching | TB, MA, EK | | |
-| Apr-28 15:15 - 17:00 | J321, J322 | Acceptance test, Sprint planning | TB, MA | | |
-| Apr-29 13:15 - 15:00 | J321, J322 | Sprint retrospective | TB, MA | | |
+|  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |
+| Easter Break | |  | | | | | |
+| Apr-20 *13:15 - 17:00* | J321, J317, J322 | Open Q/A and Coaching | TB, MA | | |
+| Apr-21 *13:15 - 15:00* | Alfa | Test-driven Development | EK | [L6] | |
+| Apr-25 *13:15 - 15:00* | Beta | Agile vs. Plan-driven | EK | [L7] | Optional reading: [Cockburn 2009, Ch. 0 & 1] |
+| Apr-25 *15:15 - 17:00* | J321, J317, J322 | Open Q/A and Coaching | TB, MA, EK | | |
+| Apr-27 *13:15 - 15:00* | Beta | Groups 1-5: **final** Acceptance test, Sprint retrospective | TB, MA | | |
+| Apr-28 *13:15 - 15:00* | Alfa | Groups 5-10: **final** Acceptance test, Sprint retrospective | TB, MA | | |
 
 ### Sprint 3: Focus on theory and advanced concepts of agile
 
 Current state of planning, changes might happen.
 
 | Date & Time | Room(s) | Theme |Who | Slides | Readings |
-|  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
-| May-3 13:15 - 15:00 | Beta | Information Flow in Agile Development | EK | [L8] | [Cockburn 2009, Ch. 3]|
-| May-3 15:15 - 17:00 | J321, J317, J322 | Open Q/A and Coaching | TB, MA, EK | | |
-| May-10 13:15 - 15:00 | Delta | Continuous Integration and Deployment | EK  | [L9] | [Cockburn 2009, Ch. 5] |
-| May-10 15:15 - 17:00 | J321, J317, J322 | Open Q/A and Coaching | TB, MA, EK | | |
-| May-12 13:15 - 17:00 | indiv. announcement | Acceptance test, Sprint retrospective, Sprint planning | TB, MA | |  |
-| May-13 13:15 - 15:00 | indiv. announcement | Slot for additional sprint retrospective, if booked | TB, MA | |  |
-| May-17 13:15 - 17:00 | J321, J317, J322 | Open Q/A and Coaching | TB, MA |  | |
-| May-17 13:15 - 15:00 | Delta | Discussion of exam | EK | [exam-examples] | |
-| May-19 13:15 - 15:00 | Delta | *Guest Lecture:* Mats Eriksson and Jimmy Nilsson  (Ericsson AB) | MA | | |
-| May-20 13:15 - 15:00 | Individual announcement | **final** Acceptance testing | TB, MA | [Schedule][final_ac_sched] | |
-| May-24 13:15 - 15:00 | Delta | *Guest Lecture*: Patrizio Pelliccione (GU & Chalmers): Agile architecting | |  |
-| May-26 13:15 - 17:00 | Alfa | Presentation of Results| Project teams | | |
-| May-27 13:15 - 15:00 | Alfa | Alternative slot for guest lecture |  | | [Cockburn 2009, Ch. 6] |
+|  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |
+| May-2 *13:15 - 15:00* | Styrbord | Information Flow in Agile Development | EK | [L8] | [Cockburn 2009, Ch. 3]|
+| May-2 *15:15 - 17:00* | J321, J317, J322 | Open Q/A and Coaching | TB, MA, EK | | |
+| May-4 *13:15 - 17:00* | J321, J317, J322 | Open Q/A and Coaching | TB, MA, EK | | |
+| May-5 *13:15 - 15:00* | Alfa | Continuous Integration and Deployment | EK  | [L9] | [Cockburn 2009, Ch. 5] |
+| May-9 *13:15 - 17:00* | J321, J317, J322 | Open Q/A and Coaching | TB, MA, EK | | |
+| May-11 *13:15 - 15:00* | Alfa | Groups 1-5: Acceptance test, Sprint retrospective, Sprint planning | TB, MA | | |
+| May-12 *13:15 - 15:00* | Alfa | Groups 5-10: Acceptance test, Sprint retrospective, Sprint planning | TB, MA | | |
+| May-16 *13:15 - 15:00* | Delta | Discussion of exam | EK | [exam-examples] | |
+| May-18 *13:15 - 15:00* | Delta | *Guest Lecture:* Mats Eriksson and Jimmy Nilsson  (Ericsson AB) | EK | | |
+| May-18 *15:15 - 17:00* | Delta | Presentation of Results | Project teams | | |
+| May-19 *13:15 - 15:00* | Alfa | *Guest Lecture*: Patrizio Pelliccione (GU & Chalmers): Agile architecting | |  |
 
 
 *Note that JXXX refers to Jupiter XXX*
