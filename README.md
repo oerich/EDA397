@@ -1,8 +1,8 @@
 # Agile Development Processes - lp4, vt2017
 
-- First draft for 2017
+- This webpage is currently under construction for the 2017 version of this course.
 
-Last update: 2016-11-29
+Last update: 2017-03-06
 
 ## Course Description
 Agile software development aims at setting up an environment to develop software based on the following principles from the agile manifesto:
@@ -31,9 +31,12 @@ https://github.com/oerich/EDA397/wiki/course-representatives
 
 ## Course Literature
 
+**Attention:** Course literature changed.
+
 See [wiki](https://github.com/oerich/EDA397/wiki/Reading-Instructions) for reading instructions.
 
-- Cockburn, A., (2009) [Agile Software Development, 2ed](http://www.amazon.com/Agile-Software-Development-Cooperative-Game/dp/0321482751/ref=sr_1_3?ie=UTF8&qid=1300358686&sr=8-3) (ISBN: 0321482751)
+- Meyer, B. (2014) [Agile!: : The Good, the Hype and the Ugly](https://www.amazon.com/Agile-Good-Hype-Bertrand-Meyer/dp/3319051547) (ISBN: 978-3319051543)
+- ~~Cockburn, A., (2009) [Agile Software Development, 2ed](http://www.amazon.com/Agile-Software-Development-Cooperative-Game/dp/0321482751/ref=sr_1_3?ie=UTF8&qid=1300358686&sr=8-3) (ISBN: 0321482751)~~
 - Papers (available from lecture list/[wiki](https://github.com/oerich/EDA397/wiki/Reading-Instructions))
 
 ## Lectures and Workshops (In progress…)
