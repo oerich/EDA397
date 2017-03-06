@@ -83,8 +83,8 @@ Acceptance tests will generally be on Thursdays, 13:00-17:00. We aim for two wee
 | Apr-21 *13:15 - 15:00* | Alfa | Test-driven Development | EK | [L6] | |
 | Apr-25 *13:15 - 15:00* | Beta | Agile vs. Plan-driven | EK | [L7] | Optional reading: [Cockburn 2009, Ch. 0 & 1] |
 | Apr-25 *15:15 - 17:00* | J321, J317, J322 | Open Q/A and Coaching | TB, MA, EK | | |
-| Apr-27 *13:15 - 15:00* | Beta | Groups 1-5: **final** Acceptance test, Sprint retrospective | TB, MA | | |
-| Apr-28 *13:15 - 15:00* | Alfa | Groups 5-10: **final** Acceptance test, Sprint retrospective | TB, MA | | |
+| Apr-27 *13:15 - 15:00* | Beta | Groups 1-5: Acceptance test, Sprint retrospective | TB, MA | | |
+| Apr-28 *13:15 - 15:00* | Alfa | Groups 5-10: Acceptance test, Sprint retrospective | TB, MA | | |
 
 ### Sprint 3: Focus on theory and advanced concepts of agile
 
@@ -100,9 +100,9 @@ Current state of planning, changes might happen.
 | May-11 *13:15 - 15:00* | Alfa | Groups 1-5: Acceptance test, Sprint retrospective, Sprint planning | TB, MA | | |
 | May-12 *13:15 - 15:00* | Alfa | Groups 5-10: Acceptance test, Sprint retrospective, Sprint planning | TB, MA | | |
 | May-16 *13:15 - 15:00* | Delta | Discussion of exam | EK | [exam-examples] | |
-| May-18 *13:15 - 15:00* | Delta | *Guest Lecture:* Mats Eriksson and Jimmy Nilsson  (Ericsson AB) | EK | | |
+| May-18 *13:15 - 15:00* | Delta | *Guest Lecture:* TBD | EK | | |
 | May-18 *15:15 - 17:00* | Delta | Presentation of Results | Project teams | | |
-| May-19 *13:15 - 15:00* | Alfa | *Guest Lecture*: Patrizio Pelliccione (GU & Chalmers): Agile architecting | |  |
+| May-19 *13:15 - 15:00* | Alfa | *Guest Lecture*: TBD | |  |
 
 
 *Note that JXXX refers to Jupiter XXX*
