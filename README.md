@@ -1,6 +1,11 @@
 # Agile Development Processes - lp4, vt2017
 
 - This webpage is currently under construction for the 2017 version of this course.
+- TODO list
+  - Refine course plan
+  - Clean up reading list
+  - Refer to course literature in course plan
+  - Schedule guest lectures
 
 Last update: 2017-03-06
 
