@@ -1,5 +1,6 @@
 # Agile Development Processes - lp4, vt2017
 
+- Added guest lecture on SAFe
 - This webpage is currently under construction for the 2017 version of this course.
 - TODO list
   - Refine course plan
@@ -7,7 +8,7 @@
   - Refer to course literature in course plan
   - Schedule guest lectures
 
-Last update: 2017-03-06
+Last update: 2017-03-07
 
 ## Course Description
 Agile software development aims at setting up an environment to develop software based on the following principles from the agile manifesto:
@@ -100,7 +101,7 @@ Current state of planning, changes might happen.
 | May-11 *13:15 - 15:00* | Alfa | Groups 1-5: Acceptance test, Sprint retrospective, Sprint planning | TB, MA | | |
 | May-12 *13:15 - 15:00* | Alfa | Groups 5-10: Acceptance test, Sprint retrospective, Sprint planning | TB, MA | | |
 | May-16 *13:15 - 15:00* | Delta | Discussion of exam | EK | [exam-examples] | |
-| May-18 *13:15 - 15:00* | Delta | *Guest Lecture:* TBD | EK | | |
+| May-18 *13:15 - 15:00* | Delta | *Daniel Borgentun (Guest Lecture:)* The Scaled Agile Framework (SAFe) - Concepts and Practical Implications | EK | | |
 | May-18 *15:15 - 17:00* | Delta | Presentation of Results | Project teams | | |
 | May-19 *13:15 - 15:00* | Alfa | *Guest Lecture*: TBD | |  |
 
