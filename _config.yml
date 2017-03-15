@@ -1,0 +1,8 @@
+title: EDA397
+description: Agile Development Processes (EDA397/DIT191)
+google_analytics: UA-75050710-1
+show_downloads: true
+theme: jekyll-theme-time-machine
+
+gems:
+  - jekyll-mentions
