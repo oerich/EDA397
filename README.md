@@ -62,13 +62,14 @@ Acceptance tests will generally be on Thursdays, 13:00-17:00. We aim for two wee
 | Mar-21 *15:15-17:00* | Alfa | Course Introduction, overview of Agile, course Q&A, assigning groups | EK | [L1] | | [Mey2014, Ch. 1], [Cohen04] |
 | Mar-23 *13:15-14:00* | Alfa | Project Introduction, group assignment | TB, MA | [L2] | | |
 | Mar-23 *14:15-17:00* | J317, J321, J322 | Get started with groups, incl. 1st product owner meeting | TB, MA | | |
-| Mar-27 *23:55* | | *Deadline* Project proposal submission | | | |
+| Mar-27 *23:55* | | __*Deadline* Project proposal submission__ ||||
 | Mar-28 *13:15-15:00* | Styrbord (near Äran) | Miniature on Agile Software Development Principles | EK | [L3] | | [Mey2014, Chapter 6] |
 | Mar-28 *15:15-17:00* | J317, J322 | Tech. support session, check off of project proposal | MA | | |
 | Mar-30 *13:15-17:00* | J317, J321, J322 | Backlog planning, set commitment for 1st acceptance test | TB, MA | | |
 | Mar-31 *13:15-15:00* | Gamma |  Agile Software Development: Principles and Practices | EK | [L4] | | [Mey2014, Ch. 1, 2, 4, 6-9], [Schwaber95], [Scrum guide] |
 | Apr-4 *13:15-15:00* | Babord | Lean Software Development | EK | [L5] | | [Mey2014, Ch. 9] |
 | Apr-4 *15:15-17:00* | J317, J321, J322 | Open Q/A and Coaching | TB, MA | | |
+| Apr-5 *23:55* | | __*Deadline* Sprint report one__ ||||
 | Apr-6 *13:15 - 15:00* | Beta | Groups 1-5: Acceptance test, Sprint retrospective, Sprint planning | TB, MA | | |
 | Apr-7 *13:15 - 15:00* | Alfa | Groups 5-10: Acceptance test, Sprint retrospective, Sprint planning | TB, MA | | |
 
@@ -82,6 +83,7 @@ Acceptance tests will generally be on Thursdays, 13:00-17:00. We aim for two wee
 | Apr-21 *13:15 - 15:00* | Alfa | Test-driven Development | EK | [L6] | [NBB2014] |
 | Apr-25 *13:15 - 15:00* | Beta | Agile vs. Plan-driven | EK | [L7] | [Mey2014, Ch. 2, 3, 11]] |
 | Apr-25 *15:15 - 17:00* | J321, J317, J322 | Open Q/A and Coaching | TB, MA, EK | | |
+| Apr-26 *23:55* | | __*Deadline* Sprint report two__ ||||
 | Apr-27 *13:15 - 17:00* | Beta | Groups 1-10: Acceptance test, Sprint retrospective, Sprint planning | TB, MA | | |
 | Apr-28 *13:15 - 15:00* | Alfa | TBD | TB, MA | | |
 
