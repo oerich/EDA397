@@ -57,36 +57,40 @@ Acceptance tests will generally be on Thursdays, 13:00-17:00. We aim for two wee
 
 ### Sprint 1: Focus on getting started
 
-| Date & Time | Room(s) | Theme |Who | Slides | Videos | Readings |
-|  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |
+| Date & Time | Room(s) | Theme | Who | Slides | Readings |
+|  ------	| :----:	| ------	| :------: | :------: | :------ |
 | Mar-21 *15:15-17:00* | Alfa | Course Introduction, overview of Agile, course Q&A, assigning groups | EK | [L1] | | [Mey2014, Ch. 1], [Cohen04] |
-| Mar-23 *13:15-17:00* | Alfa | Get started with groups; working environment; Project Startup, incl. 1st customer meeting | TB, MA, | [L2] | | [Android][get started Android], [AndroidExamples] |
+| Mar-23 *13:15-14:00* | Alfa | Project Introduction, group assignment | TB, MA | [L2] | | |
+| Mar-23 *14:15-17:00* | J317, J321, J322 | Get started with groups, incl. 1st product owner meeting | TB, MA | | |
+| Mar-27 *23:55* | | *Deadline* Project proposal submission | | | |
 | Mar-28 *13:15-15:00* | Styrbord (near Äran) | Miniature on Agile Software Development Principles | EK | [L3] | | [Mey2014, Chapter 6] |
-| Mar-30 *13:15 - 17:00* | Omega | *Optional workshop:* Android and Github | MA | | [git][get started git], [Android][get started Android] |
+| Mar-28 *15:15-17:00* | J317, J322 | Tech. support session, check off of project proposal | MA | | |
+| Mar-30 *13:15-17:00* | J317, J321, J322 | Backlog planning, set commitment for 1st acceptance test | TB, MA | | |
 | Mar-31 *13:15-15:00* | Gamma |  Agile Software Development: Principles and Practices | EK | [L4] | | [Mey2014, Ch. 1, 2, 4, 6-9], [Schwaber95], [Scrum guide] |
-| Apr-4 *13:15 - 15:00* | Babord | Lean Software Development | EK | [L5] | | [Mey2014, Ch. 9] |
+| Apr-4 *13:15-15:00* | Babord | Lean Software Development | EK | [L5] | | [Mey2014, Ch. 9] |
+| Apr-4 *15:15-17:00* | J317, J321, J322 | Open Q/A and Coaching | TB, MA | | |
 | Apr-6 *13:15 - 15:00* | Beta | Groups 1-5: Acceptance test, Sprint retrospective, Sprint planning | TB, MA | | |
-| Apr-7 *13:15 - 15:00* | Beta | Groups 5-10: Acceptance test, Sprint retrospective, Sprint planning | TB, MA | | |
+| Apr-7 *13:15 - 15:00* | Alfa | Groups 5-10: Acceptance test, Sprint retrospective, Sprint planning | TB, MA | | |
 
 
 ### Sprint 2: Focus on getting work done
 
 | Date & Time | Room(s) | Theme | Who | Slides | Readings |
-|  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |
-| Easter Break | |  | | | |
+|  ------	| :----:	| ------	| :------: | :------: | :------ |
+| Easter Break | | | | | |
 | Apr-20 *13:15 - 17:00* | J321, J317, J322 | Open Q/A and Coaching | TB, MA | | |
 | Apr-21 *13:15 - 15:00* | Alfa | Test-driven Development | EK | [L6] | [NBB2014] |
 | Apr-25 *13:15 - 15:00* | Beta | Agile vs. Plan-driven | EK | [L7] | [Mey2014, Ch. 2, 3, 11]] |
 | Apr-25 *15:15 - 17:00* | J321, J317, J322 | Open Q/A and Coaching | TB, MA, EK | | |
-| Apr-27 *13:15 - 15:00* | Beta | Groups 1-5: Acceptance test, Sprint retrospective | TB, MA | | |
-| Apr-28 *13:15 - 15:00* | Alfa | Groups 5-10: Acceptance test, Sprint retrospective | TB, MA | | |
+| Apr-27 *13:15 - 17:00* | Beta | Groups 1-10: Acceptance test, Sprint retrospective, Sprint planning | TB, MA | | |
+| Apr-28 *13:15 - 15:00* | Alfa | TBD | TB, MA | | |
 
 ### Sprint 3: Focus on theory and advanced concepts of agile
 
 Current state of planning, changes might happen.
 
-| Date & Time | Room(s) | Theme |Who | Slides | Readings |
-|  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |
+| Date & Time | Room(s) | Theme | Who | Slides | Readings |
+|  ------	| :----:	| ------	| :------: | :------: | :------ |
 | May-2 *13:15 - 15:00* | Styrbord | Information Flow in Agile Development | EK | [L8] | [Mey2014, Ch. ]|
 | May-2 *15:15 - 17:00* | J321, J317, J322 | Open Q/A and Coaching | TB, MA, EK | | |
 | May-4 *13:15 - 17:00* | J321, J317, J322 | Open Q/A and Coaching | TB, MA, EK | | |
