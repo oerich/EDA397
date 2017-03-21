@@ -1,8 +1,8 @@
 # Agile Development Processes - lp4, vt2017
 
-- Started to align readings with timeline.
+- Upload and link of first lecture.
 
-Last update: 2017-03-15
+Last update: 2017-03-21
 
 ## Course Description
 Agile software development aims at setting up an environment to develop software based on the following principles from the agile manifesto:
@@ -59,19 +59,19 @@ Acceptance tests will generally be on Thursdays, 13:00-17:00. We aim for two wee
 
 | Date & Time | Room(s) | Theme | Who | Slides | Readings |
 |  ------	| :----:	| ------	| :------: | :------: | :------ |
-| Mar-21 *15:15-17:00* | Alfa | Course Introduction, overview of Agile, course Q&A, assigning groups | EK | [L1] | | [Mey2014, Ch. 1], [Cohen04] |
-| Mar-23 *13:15-14:00* | Alfa | Project Introduction, group assignment | TB, MA | [L2] | | |
+| Mar-21 *15:15-17:00* | Alfa | Course Introduction, overview of Agile, course Q&A, assigning groups | EK | [L1] | [Mey2014, Ch. 1, 4], [Cohen04] |
+| Mar-23 *13:15-14:00* | Alfa | Project Introduction, group assignment | TB, MA |  | |
 | Mar-23 *14:15-17:00* | J317, J321, J322 | Get started with groups, incl. 1st product owner meeting | TB, MA | | |
 | Mar-27 *23:55* | | __*Deadline* Project proposal submission__ ||||
-| Mar-28 *13:15-15:00* | Styrbord (near Äran) | Miniature on Agile Software Development Principles | EK | [L3] | | [Mey2014, Chapter 6] |
+| Mar-28 *13:15-15:00* | Styrbord (near Äran) | Miniature on Agile Software Development Principles | EK |  | [Mey2014, Chapter 2, 6] |
 | Mar-28 *15:15-17:00* | J317, J322 | Tech. support session, check off of project proposal | MA | | |
 | Mar-30 *13:15-17:00* | J317, J321, J322 | Backlog planning, set commitment for 1st acceptance test | TB, MA | | |
-| Mar-31 *13:15-15:00* | Gamma |  Agile Software Development: Principles and Practices | EK | [L4] | | [Mey2014, Ch. 1, 2, 4, 6-9], [Schwaber95], [Scrum guide] |
-| Apr-4 *13:15-15:00* | Babord | Lean Software Development | EK | [L5] | | [Mey2014, Ch. 9] |
+| Mar-31 *13:15-15:00* | Gamma |  Agile Software Development: Principles and Practices | EK |  | [Mey2014, Ch. 8, 9], [Schwaber95], [Scrum guide] |
+| Apr-4 *13:15-15:00* | Babord | Lean Software Development | EK | |  [Mey2014, Ch. 9] |
 | Apr-4 *15:15-17:00* | J317, J321, J322 | Open Q/A and Coaching | TB, MA | | |
 | Apr-5 *23:55* | | __*Deadline* Sprint report one__ ||||
 | Apr-6 *13:15 - 15:00* | Beta | Groups 1-5: Acceptance test, Sprint retrospective, Sprint planning | TB, MA | | |
-| Apr-7 *13:15 - 15:00* | Alfa | Groups 5-10: Acceptance test, Sprint retrospective, Sprint planning | TB, MA | | |
+| Apr-7 *13:15 - 15:00* | Alfa | Groups 5-10: Acceptance test, Sprint retrospective, Sprint planning | TB, MA | | | |
 
 
 ### Sprint 2: Focus on getting work done
@@ -80,12 +80,12 @@ Acceptance tests will generally be on Thursdays, 13:00-17:00. We aim for two wee
 |  ------	| :----:	| ------	| :------: | :------: | :------ |
 | Easter Break | | | | | |
 | Apr-20 *13:15 - 17:00* | J321, J317, J322 | Open Q/A and Coaching | TB, MA | | |
-| Apr-21 *13:15 - 15:00* | Alfa | Test-driven Development | EK | [L6] | [NBB2014] |
-| Apr-25 *13:15 - 15:00* | Beta | Agile vs. Plan-driven | EK | [L7] | [Mey2014, Ch. 2, 3, 11]] |
+| Apr-21 *13:15 - 15:00* | Alfa | Test-driven Development | EK |  | [NBB2014] |
+| Apr-25 *13:15 - 15:00* | Beta | Agile vs. Plan-driven | EK |  | [Mey2014, Ch. 2, 3, 11]] |
 | Apr-25 *15:15 - 17:00* | J321, J317, J322 | Open Q/A and Coaching | TB, MA, EK | | |
 | Apr-26 *23:55* | | __*Deadline* Sprint report two__ ||||
 | Apr-27 *13:15 - 17:00* | Beta | Groups 1-10: Acceptance test, Sprint retrospective, Sprint planning | TB, MA | | |
-| Apr-28 *13:15 - 15:00* | Alfa | TBD | TB, MA | | |
+| Apr-28 *13:15 - 15:00* | Alfa | TBD | TB, MA | | | |
 
 ### Sprint 3: Focus on theory and advanced concepts of agile
 
@@ -93,17 +93,17 @@ Current state of planning, changes might happen.
 
 | Date & Time | Room(s) | Theme | Who | Slides | Readings |
 |  ------	| :----:	| ------	| :------: | :------: | :------ |
-| May-2 *13:15 - 15:00* | Styrbord | Information Flow in Agile Development | EK | [L8] | [Mey2014, Ch. ]|
+| May-2 *13:15 - 15:00* | Styrbord | Information Flow in Agile Development | EK |  | [Mey2014, Ch. ]|
 | May-2 *15:15 - 17:00* | J321, J317, J322 | Open Q/A and Coaching | TB, MA, EK | | |
 | May-4 *13:15 - 17:00* | J321, J317, J322 | Open Q/A and Coaching | TB, MA, EK | | |
-| May-5 *13:15 - 15:00* | Alfa | Continuous Integration and Deployment | EK  | [L9] | [Mey2014, Ch. 7], [SB2017], [KPH2016], [RHW+2015] |
+| May-5 *13:15 - 15:00* | Alfa | Continuous Integration and Deployment | EK  |  | [Mey2014, Ch. 7], [SB2017], [KPH2016], [RHW+2015] |
 | May-9 *13:15 - 17:00* | J321, J317, J322 | Open Q/A and Coaching | TB, MA, EK | | |
 | May-11 *13:15 - 15:00* | Alfa | Groups 1-5: Acceptance test, Sprint retrospective, Sprint planning | TB, MA | | |
 | May-12 *13:15 - 15:00* | Alfa | Groups 5-10: Acceptance test, Sprint retrospective, Sprint planning | TB, MA | | |
 | May-16 *13:15 - 15:00* | Delta | Discussion of exam | EK | [exam-examples] | |
 | May-18 *13:15 - 15:00* | Delta | *Daniel Borgentun (Guest Lecture:)* The Scaled Agile Framework (SAFe) - Concepts and Practical Implications | EK | | |
 | May-18 *15:15 - 17:00* | Delta | Presentation of Results | Project teams | | |
-| May-19 *13:15 - 15:00* | Alfa | *Guest Lecture*: TBD | |  |
+| May-19 *13:15 - 15:00* | Alfa | *Guest Lecture*: TBD | | | | |
 
 
 *Note that JXXX refers to Jupiter XXX*
