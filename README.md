@@ -129,7 +129,7 @@ Current state of planning, changes might happen.
 [L10]: https://github.com/oerich/EDA397/blob/master/Slides/l10.pdf?raw=true
 [product-vision]: https://github.com/oerich/EDA397/blob/master/Slides/product-vision.pdf?raw=true
 [ScalingAgile]: https://github.com/oerich/EDA397/blob/master/Slides/Luvoe-ScalingAgile.pdf
-[exam-examples]: https://github.com/oerich/EDA397/blob/master/Slides/exam-examples?raw=true
+[exam-examples]: https://github.com/oerich/EDA397/blob/master/Slides/exam-examples.pdf?raw=true
 [final_ac_sched]: https://github.com/oerich/EDA397/blob/master/Slides/final_acceptance_test_schedule.pdf?raw=true
 
 [V11]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/eda397_1_1.mp4
