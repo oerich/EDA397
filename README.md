@@ -61,7 +61,7 @@ Acceptance tests will generally be on Thursdays, 13:00-17:00. We aim for two wee
 |  ------	| :----:	| ------	| :------: | :------: | :------ |
 | Mar-21 *15:15-17:00* | Alfa | Course Introduction, overview of Agile, course Q&A, assigning groups | EK | [L1] | [Mey2014, Ch. 1, 4], [Cohen04] |
 | Mar-23 *13:15-14:00* | Alfa | Project Introduction, group assignment | TB, MA |  | |
-| Mar-23 *14:15-17:00* | J317, J321, J322 | Get started with groups, incl. 1st product owner meeting | TB, MA | | |
+| Mar-23 *14:15-17:00* | J317, J321, J322 | Get started with groups, incl. 1st product owner meeting | TB, MA | [L2]  | |
 | Mar-27 *23:55* | | __*Deadline* Project proposal submission__ ||||
 | Mar-28 *13:15-15:00* | Styrbord (near Äran) | Miniature on Agile Software Development Principles | EK |  | [Mey2014, Chapter 2, 6] |
 | Mar-28 *15:15-17:00* | J317, J322 | Tech. support session, check off of project proposal | MA | | |
@@ -72,7 +72,6 @@ Acceptance tests will generally be on Thursdays, 13:00-17:00. We aim for two wee
 | Apr-5 *23:55* | | __*Deadline* Sprint report one__ ||||
 | Apr-6 *13:15 - 15:00* | Beta | Groups 1-5: Acceptance test, Sprint retrospective, Sprint planning | TB, MA | | |
 | Apr-7 *13:15 - 15:00* | Alfa | Groups 5-10: Acceptance test, Sprint retrospective, Sprint planning | TB, MA | | | |
-
 
 ### Sprint 2: Focus on getting work done
 
