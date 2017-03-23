@@ -60,8 +60,8 @@ Acceptance tests will generally be on Thursdays, 13:00-17:00. We aim for two wee
 | Date & Time | Room(s) | Theme | Who | Slides | Readings |
 |  ------	| :----:	| ------	| :------: | :------: | :------ |
 | Mar-21 *15:15-17:00* | Alfa | Course Introduction, overview of Agile, course Q&A, assigning groups | EK | [L1] | [Mey2014, Ch. 1, 4], [Cohen04] |
-| Mar-23 *13:15-14:00* | Alfa | Project Introduction, group assignment | TB, MA |  | |
-| Mar-23 *14:15-17:00* | J317, J321, J322 | Get started with groups, incl. 1st product owner meeting | TB, MA | [L2]  | |
+| Mar-23 *13:15-14:00* | Alfa | Project Introduction, group assignment | TB, MA | [L2] | [Getting started] |
+| Mar-23 *14:15-17:00* | J317, J321, J322 | Get started with groups, incl. 1st product owner meeting | TB, MA | | [Project teams] |
 | Mar-27 *23:55* | | __*Deadline* Project proposal submission__ ||||
 | Mar-28 *13:15-15:00* | Styrbord (near Äran) | Miniature on Agile Software Development Principles | EK |  | [Mey2014, Chapter 2, 6] |
 | Mar-28 *15:15-17:00* | J317, J322 | Tech. support session, check off of project proposal | MA | | |
@@ -109,8 +109,8 @@ Current state of planning, changes might happen.
 
 [TimeEdit]: https://se.timeedit.net/web/chalmers/db1/public/ri15YXQ2708Z59Qv3X0036Q6y6Y000965Y61Y5gQ7075763Z7.html
 [AndroidExamples]: https://github.com/oerich/AndroidExamples
-[get started Android]: https://github.com/oerich/EDA397/wiki/Getting-Started:-Android
-[get started git]: https://github.com/oerich/EDA397/wiki/Getting-Started:-Git
+[Getting started]: https://github.com/oerich/EDA397/wiki/Getting-Started
+[Project teams]: https://github.com/oerich/EDA397/wiki/Groupings-of-Teams
 [Cohen04]: https://github.com/oerich/EDA397/blob/master/Papers/cohen_2004_intro_to_agile_methods.pdf?raw=true
 [Schwaber95]: https://github.com/oerich/EDA397/blob/master/Papers/schwaber_1995_scrum_dev_process.pdf?raw=true
 [Scrum guide]: http://scrumguides.org/scrum-guide.html
