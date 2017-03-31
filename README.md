@@ -66,7 +66,7 @@ Acceptance tests will generally be on Thursdays, 13:00-17:00. We aim for two wee
 | Mar-28 *13:15-15:00* | Styrbord (near Äran) | Miniature on Agile Software Development Principles | EK | [L3] | [Mey2014, Chapter 2, 6] |
 | Mar-28 *15:15-17:00* | J317, J322 | Tech. support session, check off of project proposal | MA | | |
 | Mar-30 *13:15-17:00* | J317, J321, J322 | Backlog planning, set commitment for 1st acceptance test | TB, MA | | |
-| Mar-31 *13:15-15:00* | Alfa |  Agile Software Development: Principles and Practices | EK |  | [Mey2014, Ch. 8, 9], [Schwaber95], [Scrum guide] |
+| Mar-31 *13:15-15:00* | Alfa |  Agile Software Development: Principles and Practices | EK | [L4] | [Mey2014, Ch. 8, 9], [Schwaber95], [Scrum guide] |
 | Apr-4 *13:15-15:00* | Babord | Lean Software Development | EK | |  [Mey2014, Ch. 9] |
 | Apr-4 *15:15-17:00* | J317, J321, J322 | Open Q/A and Coaching | TB, MA | | |
 | Apr-5 *23:55* | | __*Deadline* Sprint report one__ ||||
