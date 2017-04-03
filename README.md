@@ -70,8 +70,8 @@ Acceptance tests will generally be on Thursdays, 13:00-17:00. We aim for two wee
 | Apr-4 *13:15-15:00* | Babord | Lean Software Development | EK | |  [Mey2014, Ch. 9] |
 | Apr-4 *15:15-17:00* | J317, J321, J322 | Open Q/A and Coaching | TB, MA | | |
 | Apr-5 *23:55* | | __*Deadline* Sprint report one__ ||||
-| Apr-6 *13:15 - 15:00* | Beta | Groups 1-5: Acceptance test, Sprint retrospective, Sprint planning | TB, MA | | |
-| Apr-7 *13:15 - 15:00* | Alfa | Groups 6-10: Acceptance test, Sprint retrospective, Sprint planning | TB, MA | | | |
+| Apr-6 *13:15 - 15:00* | J317, J322 | Groups 1-5: Acceptance test, Sprint retrospective, Sprint planning | TB, MA | | [Agenda and schedule][AT] |
+| Apr-7 *13:15 - 15:00* | Alfa | Groups 6-10: Acceptance test, Sprint retrospective, Sprint planning | TB, MA | | | [Agenda and schedule][AT] |
 
 ### Sprint 2: Focus on getting work done
 
