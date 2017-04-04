@@ -70,9 +70,9 @@ Acceptance tests will generally be on Thursdays, 13:00-17:00. We aim for two wee
 | Mar-31 *13:15-15:00* | Alfa |  Agile Software Development: Principles and Practices | EK | [L4] | [Mey2014, Ch. 8, 9], [Schwaber95], [Scrum guide] |
 | Apr-4 *13:15-15:00* | Babord | Test-driven Development  | EK | [L5] | [NBB2014] |
 | Apr-4 *15:15-17:00* | J317, J321, J322 | Open Q/A and Coaching | TB, MA | | |
-| Apr-5 *23:55* | | __*Deadline* Sprint report one__ ||||
-| Apr-6 *13:15 - 15:00* | Beta | Groups 1-5: Acceptance test, Sprint retrospective, Sprint planning | TB, MA | | |
-| Apr-7 *13:15 - 15:00* | Alfa | Groups 6-10: Acceptance test, Sprint retrospective, Sprint planning | TB, MA | | | |
+| Apr-5 *23:55* | | __*Deadline* Sprint report one__ ||| [Report template] |
+| Apr-6 *13:15 - 15:00* | J317, J322 | Groups 1-5: Acceptance test, Sprint retrospective, Sprint planning | TB, MA | | [Agenda and schedule][AT] |
+| Apr-7 *13:15 - 15:00* | Alfa | Groups 6-10: Acceptance test, Sprint retrospective, Sprint planning | TB, MA | | [Agenda and schedule][AT] |
 
 ### Sprint 2: Focus on getting work done
 
@@ -115,6 +115,7 @@ Current state of planning, changes might happen.
 [Cohen04]: https://github.com/oerich/EDA397/blob/master/Papers/cohen_2004_intro_to_agile_methods.pdf?raw=true
 [Schwaber95]: https://github.com/oerich/EDA397/blob/master/Papers/schwaber_1995_scrum_dev_process.pdf?raw=true
 [Scrum guide]: http://scrumguides.org/scrum-guide.html
+[Report template]: https://github.com/magagr/adp_project/blob/master/report_template.md
 
 [L1]: https://github.com/oerich/EDA397/blob/master/Slides/l1.pdf?raw=true
 [L2]: https://github.com/oerich/EDA397/blob/master/Slides/l2.pdf?raw=true
