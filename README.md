@@ -1,6 +1,7 @@
 # Agile Development Processes - lp4, vt2017
 
 - Updated schedule for Sprint 2 and 3 (Increased time for project part of course.)
+- Changed room on **May-9** from ~~Svea130~~ to **Gamma**.
 
 Last update: 2017-04-19
 
@@ -95,7 +96,7 @@ Current state of planning, changes might happen.
 | May-2 *15:15 - 17:00* | J321, J317, J322 | Open Q/A and Coaching | TB, MA, EK | | |
 | May-4 *13:15 - 17:00* | J321, J317, J322 | Open Q/A and Coaching | TB, MA, EK | | |
 | May-5 *13:15 - 15:00* | Alfa | Information Flow in Agile Development | EK |  | [Mey2014, Ch. ] |
-| May-9 *13:15 - 17:00* | Svea130 | Continuous Integration and Deployment | EK  |  | [Mey2014, Ch. 7], [SB2017], [KPH2016], [RHW+2015], [NBB2014] |
+| May-9 *13:15 - 17:00* | Gamma | Continuous Integration and Deployment | EK  |  | [Mey2014, Ch. 7], [SB2017], [KPH2016], [RHW+2015], [NBB2014] |
 | May-11 *13:15 - 15:00* | Alfa | Groups 1-5: Acceptance test, Sprint retrospective, Sprint planning | TB, MA | | |
 | May-12 *13:15 - 15:00* | Alfa | Groups 6-10: Acceptance test, Sprint retrospective, Sprint planning | TB, MA | | |
 | May-16 *13:15 - 15:00* | Delta | Discussion of exam | EK | [exam-examples] | |
