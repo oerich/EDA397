@@ -1,6 +1,6 @@
 # Agile Development Processes - lp4, vt2017
 
-- Updated schedule for Sprint 2 and 3 (Increased time for project part of course.)
+- Updated schedule for Sprint 2 and 3 (Increased time for project part of course in Sprint 2.)
 - Changed room on **May-9** from ~~Svea130~~ to **Gamma**.
 
 Last update: 2017-04-19
@@ -83,8 +83,7 @@ Acceptance tests will generally be on Thursdays, 13:00-17:00. We aim for two wee
 | Apr-21 *13:15 - 15:00* | Alfa | Lean Software Development | EK |  | [Mey2014, Ch. 9]  |
 | Apr-25 *13:15 - 17:00* | J321, J317, J322 | Open Q/A and Coaching | TB, MA, EK | | |
 | Apr-26 *23:55* | | __*Deadline* Sprint report two__ ||||
-| Apr-27 *13:15 - 17:00* | Beta | Groups 1-10: Acceptance test, Sprint retrospective, Sprint planning | TB, MA | | |
-| Apr-28 *13:15 - 15:00* | Alfa | TBD | TB, MA | | | |
+| Apr-27 *13:15 - 17:00* | J321, J317, J322 | Groups 1-10: Acceptance test, Sprint retrospective, Sprint planning | TB, MA | | |
 
 ### Sprint 3: Focus on theory and advanced concepts of agile
 
@@ -96,7 +95,8 @@ Current state of planning, changes might happen.
 | May-2 *15:15 - 17:00* | J321, J317, J322 | Open Q/A and Coaching | TB, MA, EK | | |
 | May-4 *13:15 - 17:00* | J321, J317, J322 | Open Q/A and Coaching | TB, MA, EK | | |
 | May-5 *13:15 - 15:00* | Alfa | Information Flow in Agile Development | EK |  | [Mey2014, Ch. ] |
-| May-9 *13:15 - 17:00* | Gamma | Continuous Integration and Deployment | EK  |  | [Mey2014, Ch. 7], [SB2017], [KPH2016], [RHW+2015], [NBB2014] |
+| May-9 *13:15 - 15:00* | Gamma | Continuous Integration and Deployment | EK  |  | [Mey2014, Ch. 7], [SB2017], [KPH2016], [RHW+2015], [NBB2014] |
+| May-9 *15:15 - 17:00* | J321, J317, J322 | Open Q/A and Coaching | TB, MA | | |
 | May-11 *13:15 - 15:00* | Alfa | Groups 1-5: Acceptance test, Sprint retrospective, Sprint planning | TB, MA | | |
 | May-12 *13:15 - 15:00* | Alfa | Groups 6-10: Acceptance test, Sprint retrospective, Sprint planning | TB, MA | | |
 | May-16 *13:15 - 15:00* | Delta | Discussion of exam | EK | [exam-examples] | |
