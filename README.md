@@ -1,9 +1,10 @@
 # Agile Development Processes - lp4, vt2017
 
+- Linked slides for l6
 - Updated schedule for Sprint 2 and 3 (Increased time for project part of course in Sprint 2.)
 - Changed room on **May-9** from ~~Svea130~~ to **Gamma**.
 
-Last update: 2017-04-19
+Last update: 2017-04-21
 
 ## Course Description
 Agile software development aims at setting up an environment to develop software based on the following principles from the agile manifesto:
@@ -80,7 +81,7 @@ Acceptance tests will generally be on Thursdays, 13:00-17:00. We aim for two wee
 |  ------	| :----:	| ------	| :------: | :------: | :------ |
 | Easter Break | | | | | |
 | Apr-20 *13:15 - 17:00* | J321, J317, J322 | Open Q/A and Coaching | TB, MA | | |
-| Apr-21 *13:15 - 15:00* | Alfa | Lean Software Development | EK |  | [Mey2014, Ch. 9]  |
+| Apr-21 *13:15 - 15:00* | Alfa | Lean Software Development | EK | [L6] | [Mey2014, Ch. 9]  |
 | Apr-25 *13:15 - 17:00* | J321, J317, J322 | Open Q/A and Coaching | TB, MA, EK | | |
 | Apr-26 *23:55* | | __*Deadline* Sprint report two__ ||||
 | Apr-27 *13:15 - 17:00* | J321, J317, J322 | Groups 1-10: Acceptance test, Sprint retrospective, Sprint planning | TB, MA | | |
