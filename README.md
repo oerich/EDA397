@@ -98,9 +98,10 @@ Current state of planning, changes might happen.
 | May-5 *13:15 - 15:00* | Alfa | Information Flow in Agile Development | EK |  | [Mey2014, Ch. ] |
 | May-9 *13:15 - 15:00* | Gamma | Continuous Integration and Deployment | EK  |  | [Mey2014, Ch. 7], [SB2017], [KPH2016], [RHW+2015], [NBB2014] |
 | May-9 *15:15 - 17:00* | J321, J317, J322 | Open Q/A and Coaching | TB, MA | | |
-| May-11 *13:15 - 15:00* | Alfa | Groups 1-5: Acceptance test, Sprint retrospective, Sprint planning | TB, MA | | |
-| May-12 *13:15 - 15:00* | Alfa | Groups 6-10: Acceptance test, Sprint retrospective, Sprint planning | TB, MA | | |
+| May-10 *23:55* | | __*Deadline* Sprint report three__ ||||
+| May-11 *13:15 - 17:00* | J321, J317, J322 | Groups 1-10: Acceptance test, Sprint retrospective | TB, MA | | |
 | May-16 *13:15 - 15:00* | Delta | Discussion of exam | EK | [exam-examples] | |
+| May-17 *23:55* | | __*Deadline* Postmortem report__ ||||
 | May-18 *13:15 - 15:00* | Delta | *Daniel Borgentun (Guest Lecture)* Scaling up Agile (Practical Implications and examples from The Scaled Agile Framework (SAFe)) | EK | | |
 | May-18 *15:15 - 17:00* | Delta | Presentation of Results | Project teams | | |
 | May-19 *13:15 - 15:00* | Alfa | *Patrizio Pelliccione (Guest Lecture)* Agile Methods and Architecture | EK | | | |
