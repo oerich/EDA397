@@ -1,10 +1,7 @@
 # Agile Development Processes - lp4, vt2017
 
-- Linked slides for l6
-- Updated schedule for Sprint 2 and 3 (Increased time for project part of course in Sprint 2.)
-- Changed room on **May-9** from ~~Svea130~~ to **Gamma**.
-
-Last update: 2017-04-21
+- Shared L7: Agile vs. Plan-driven
+Last update: 2017-05-02
 
 ## Course Description
 Agile software development aims at setting up an environment to develop software based on the following principles from the agile manifesto:
@@ -92,7 +89,7 @@ Current state of planning, changes might happen.
 
 | Date & Time | Room(s) | Theme | Who | Slides | Readings |
 |  ------	| :----:	| ------	| :------: | :------: | :------ |
-| May-2 *13:15 - 15:00* | Styrbord | Agile vs. Plan-driven | EK |  | [Mey2014, Ch. 2, 3, 11]] |
+| May-2 *13:15 - 15:00* | Styrbord | Agile vs. Plan-driven | EK | [L7] | [Mey2014, Ch. 2, 3, 11]] |
 | May-2 *15:15 - 17:00* | J321, J317, J322 | Open Q/A and Coaching | TB, MA, EK | | |
 | May-4 *13:15 - 17:00* | J321, J317, J322 | Open Q/A and Coaching | TB, MA, EK | | |
 | May-5 *13:15 - 15:00* | Alfa | Information Flow in Agile Development | EK |  | [Mey2014, Ch. ] |
