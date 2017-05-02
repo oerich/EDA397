@@ -1,6 +1,8 @@
 # Agile Development Processes - lp4, vt2017
 
 - Shared L7: Agile vs. Plan-driven
+- Updated title of Patrizio's guest lecture
+
 Last update: 2017-05-02
 
 ## Course Description
@@ -101,7 +103,7 @@ Current state of planning, changes might happen.
 | May-17 *23:55* | | __*Deadline* Postmortem report__ ||||
 | May-18 *13:15 - 15:00* | Delta | *Daniel Borgentun (Guest Lecture)* Scaling up Agile (Practical Implications and examples from The Scaled Agile Framework (SAFe)) | EK | | |
 | May-18 *15:15 - 17:00* | Delta | Presentation of Results | Project teams | | |
-| May-19 *13:15 - 15:00* | Alfa | *Patrizio Pelliccione (Guest Lecture)* Agile Methods and Architecture | EK | | | |
+| May-19 *13:15 - 15:00* | Alfa | *Patrizio Pelliccione (Guest Lecture)* Architecture and Agility for complex systems | EK | | | |
 
 
 *Note that JXXX refers to Jupiter XXX*
