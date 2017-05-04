@@ -93,7 +93,7 @@ Current state of planning, changes might happen.
 |  ------	| :----:	| ------	| :------: | :------: | :------ |
 | May-2 *13:15 - 15:00* | Styrbord | Agile vs. Plan-driven | EK | [L7] | [Mey2014, Ch. 2, 3, 11]] |
 | May-2 *15:15 - 17:00* | J321, J317, J322 | Open Q/A and Coaching | TB, MA | | |
-| May-4 *13:15 - 17:00* | J321, J317, J322 | Open Q/A and Coaching\\ *Both Terese and Magnus are sick, but available for questions via mail.* | TB, MA | | |
+| May-4 *13:15 - 17:00* | J321, J317, J322 | Open Q/A and Coaching</br> *Both Terese and Magnus are sick, but available for questions via mail.* | TB, MA | | |
 | May-5 *13:15 - 15:00* | Alfa | Information Flow in Agile Development | EK |  | [Mey2014, Ch. ] |
 | May-9 *13:15 - 15:00* | Gamma | Continuous Integration and Deployment | EK  |  | [Mey2014, Ch. 7], [SB2017], [KPH2016], [RHW+2015], [NBB2014] |
 | May-9 *15:15 - 17:00* | J321, J317, J322 | Open Q/A and Coaching | TB, MA | | |
