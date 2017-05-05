@@ -1,9 +1,8 @@
 # Agile Development Processes - lp4, vt2017
 
-- Shared L7: Agile vs. Plan-driven
-- Updated title of Patrizio's guest lecture
+- Shared L8: Informtion flows
 
-Last update: 2017-05-04
+Last update: 2017-05-05
 
 ## Course Description
 Agile software development aims at setting up an environment to develop software based on the following principles from the agile manifesto:
@@ -94,7 +93,7 @@ Current state of planning, changes might happen.
 | May-2 *13:15 - 15:00* | Styrbord | Agile vs. Plan-driven | EK | [L7] | [Mey2014, Ch. 2, 3, 11]] |
 | May-2 *15:15 - 17:00* | J321, J317, J322 | Open Q/A and Coaching | TB, MA | | |
 | May-4 *13:15 - 17:00* | J321, J317, J322 | Open Q/A and Coaching</br> *Both Terese and Magnus are sick, but available for questions via mail.* | TB, MA | | |
-| May-5 *13:15 - 15:00* | Alfa | Information Flow in Agile Development | EK |  | [Mey2014, Ch. ] |
+| May-5 *13:15 - 15:00* | Alfa | Information Flow in Agile Development | EK | [L8] | [Mey2014, Ch. ] |
 | May-9 *13:15 - 15:00* | Gamma | Continuous Integration and Deployment | EK  |  | [Mey2014, Ch. 7], [SB2017], [KPH2016], [RHW+2015], [NBB2014] |
 | May-9 *15:15 - 17:00* | J321, J317, J322 | Open Q/A and Coaching | TB, MA | | |
 | May-10 *23:55* | | __*Deadline* Sprint report three__ ||||
