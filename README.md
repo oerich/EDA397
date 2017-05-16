@@ -1,8 +1,8 @@
 # Agile Development Processes - lp4, vt2017
 
-- Shared L9: Continuous X
+- Discussion of exam canceled because of illness.
 
-Last update: 2017-05-09
+Last update: 2017-05-16
 
 ## Course Description
 Agile software development aims at setting up an environment to develop software based on the following principles from the agile manifesto:
@@ -98,7 +98,7 @@ Current state of planning, changes might happen.
 | May-9 *15:15 - 17:00* | J321, J317, J322 | Open Q/A and Coaching | TB, MA | | |
 | May-10 *23:55* | | __*Deadline* Sprint report three__ ||||
 | May-11 *13:15 - 17:00* | J321, J317, J322 | Groups 1-10: Acceptance test, Sprint retrospective | TB, MA | | [Agenda and schedule][AT] |
-| May-16 *13:15 - 15:00* | Delta | Discussion of exam | EK | [exam-examples] | |
+| May-16 *13:15 - 15:00* | ~~Delta~~ | ~~Discussion of exam~~ Canceled because of illness. The available examples show the type of questions you can expect, but please keep in mind that the course content has changed. | EK | [exam-examples] | |
 | May-17 *23:55* | | __*Deadline* Postmortem report__ ||||
 | May-18 *13:15 - 15:00* | Delta | *Daniel Borgentun (Guest Lecture)* Scaling up Agile (Practical Implications and examples from The Scaled Agile Framework (SAFe)) | EK | | |
 | May-18 *15:15 - 17:00* | Delta | Presentation of Results | Project teams | | |
