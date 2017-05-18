@@ -104,7 +104,7 @@ Current state of planning, changes might happen.
 | May-18 *13:15 - 15:00* | Delta | *Daniel Borgentun (Guest Lecture)* Scaling up Agile (Practical Implications and examples from The Scaled Agile Framework (SAFe)) | EK | | |
 | May-18 *15:15 - 17:00* | Delta | Presentation of Results | Project teams | | |
 | May-19 *13:15 - 15:00* | Alfa | *Patrizio Pelliccione (Guest Lecture)* Architecture and Agility for complex systems | EK | | | |
-| May-19 *16:15 - 17:00* | Alfa | Discussion of exam | EK | | | |
+| May-19 *16:15 - 17:00* | Alfa | Discussion of exam | EK | [exam-example2] | | |
 
 
 *Note that JXXX refers to Jupiter XXX*
@@ -132,6 +132,7 @@ Current state of planning, changes might happen.
 [product-vision]: https://github.com/oerich/EDA397/blob/master/Slides/product-vision.pdf?raw=true
 [ScalingAgile]: https://github.com/oerich/EDA397/blob/master/Slides/Luvoe-ScalingAgile.pdf
 [exam-examples]: https://github.com/oerich/EDA397/blob/master/Slides/exam-examples.pdf?raw=true
+[exam-example2]: https://github.com/oerich/EDA397/blob/master/Exams/exam-answers_2016-06-02-v03.pdf?raw=true
 [final_ac_sched]: https://github.com/oerich/EDA397/blob/master/Slides/final_acceptance_test_schedule.pdf?raw=true
 
 [V11]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/eda397_1_1.mp4
