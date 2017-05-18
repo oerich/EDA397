@@ -1,8 +1,9 @@
 # Agile Development Processes - lp4, vt2017
 
-- Discussion of exam canceled because of illness.
+- Added recent exam with answers.
+- Added 1h for discussing exam on May-19 after the guest lecture
 
-Last update: 2017-05-16
+Last update: 2017-05-18
 
 ## Course Description
 Agile software development aims at setting up an environment to develop software based on the following principles from the agile manifesto:
@@ -103,6 +104,7 @@ Current state of planning, changes might happen.
 | May-18 *13:15 - 15:00* | Delta | *Daniel Borgentun (Guest Lecture)* Scaling up Agile (Practical Implications and examples from The Scaled Agile Framework (SAFe)) | EK | | |
 | May-18 *15:15 - 17:00* | Delta | Presentation of Results | Project teams | | |
 | May-19 *13:15 - 15:00* | Alfa | *Patrizio Pelliccione (Guest Lecture)* Architecture and Agility for complex systems | EK | | | |
+| May-19 *16:15 - 17:00* | Alfa | Discussion of exam | EK | | | |
 
 
 *Note that JXXX refers to Jupiter XXX*
