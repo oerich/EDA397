@@ -1,9 +1,10 @@
 # Agile Development Processes - lp4, vt2017
 
+- Linked slides from Daniel's guest lecture
 - Added recent exam with answers.
 - Added 1h for discussing exam on May-19 after the guest lecture
 
-Last update: 2017-05-18
+Last update: 2017-05-19
 
 ## Course Description
 Agile software development aims at setting up an environment to develop software based on the following principles from the agile manifesto:
@@ -101,7 +102,7 @@ Current state of planning, changes might happen.
 | May-11 *13:15 - 17:00* | J321, J317, J322 | Groups 1-10: Acceptance test, Sprint retrospective | TB, MA | | [Agenda and schedule][AT] |
 | May-16 *13:15 - 15:00* | ~~Delta~~ | ~~Discussion of exam~~ Canceled because of illness. The available examples show the type of questions you can expect, but please keep in mind that the course content has changed. | EK | [exam-examples] | |
 | May-17 *23:55* | | __*Deadline* Postmortem report__ ||||
-| May-18 *13:15 - 15:00* | Delta | *Daniel Borgentun (Guest Lecture)* Scaling up Agile (Practical Implications and examples from The Scaled Agile Framework (SAFe)) | EK | | |
+| May-18 *13:15 - 15:00* | Delta | *Daniel Borgentun (Guest Lecture)* Scaling up Agile (Practical Implications and examples from The Scaled Agile Framework (SAFe)) | EK | [L10] | |
 | May-18 *15:15 - 17:00* | Delta | Presentation of Results | Project teams | | |
 | May-19 *13:15 - 15:00* | Alfa | *Patrizio Pelliccione (Guest Lecture)* Architecture and Agility for complex systems | EK | | | |
 | May-19 *16:15 - 17:00* | Alfa | Discussion of exam | EK | [exam-example2] | | |
@@ -128,7 +129,7 @@ Current state of planning, changes might happen.
 [L7]: https://github.com/oerich/EDA397/blob/master/Slides/l7.pdf?raw=true
 [L8]: https://github.com/oerich/EDA397/blob/master/Slides/l8.pdf?raw=true
 [L9]: https://github.com/oerich/EDA397/blob/master/Slides/l9.pdf?raw=true
-[L10]: https://github.com/oerich/EDA397/blob/master/Slides/l10.pdf?raw=true
+[L10]: https://github.com/oerich/EDA397/blob/master/Slides/l10-guest-lecture-scaled-agile.pdf?raw=true
 [product-vision]: https://github.com/oerich/EDA397/blob/master/Slides/product-vision.pdf?raw=true
 [ScalingAgile]: https://github.com/oerich/EDA397/blob/master/Slides/Luvoe-ScalingAgile.pdf
 [exam-examples]: https://github.com/oerich/EDA397/blob/master/Slides/exam-examples.pdf?raw=true
