@@ -1,11 +1,8 @@
 # Agile Development Processes - lp4, vt2017
 
-- There was a mistake on the time for the discussion about the exam. We will meet directly after Patrizio's lecture, at 15:15.
-- Linked slides from Daniel's guest lecture
-- Added recent exam with answers.
-- Added 1h for discussing exam on May-19 after the guest lecture
+- Linked slides from Patrizio's guest lecture
 
-Last update: 2017-05-19
+Last update: 2017-05-23
 
 ## Course Description
 Agile software development aims at setting up an environment to develop software based on the following principles from the agile manifesto:
@@ -105,7 +102,7 @@ Current state of planning, changes might happen.
 | May-17 *23:55* | | __*Deadline* Postmortem report__ ||||
 | May-18 *13:15 - 15:00* | Delta | *Daniel Borgentun (Guest Lecture)* Scaling up Agile (Practical Implications and examples from The Scaled Agile Framework (SAFe)) | EK | [L10] | |
 | May-18 *15:15 - 17:00* | Delta | Presentation of Results | Project teams | | |
-| May-19 *13:15 - 15:00* | Alfa | *Patrizio Pelliccione (Guest Lecture)* Architecture and Agility for complex systems | EK | | | |
+| May-19 *13:15 - 15:00* | Alfa | *Patrizio Pelliccione (Guest Lecture)* Architecture and Agility for complex systems | EK | [L11] | | |
 | May-19 *15:15 - 16:00* | Alfa | Discussion of exam | EK | [exam-example2] | | |
 
 
@@ -131,6 +128,7 @@ Current state of planning, changes might happen.
 [L8]: https://github.com/oerich/EDA397/blob/master/Slides/l8.pdf?raw=true
 [L9]: https://github.com/oerich/EDA397/blob/master/Slides/l9.pdf?raw=true
 [L10]: https://github.com/oerich/EDA397/blob/master/Slides/l10-guest-lecture-scaled-agile.pdf?raw=true
+[L11]: https://github.com/oerich/EDA397/blob/master/Slides/l11-Architecture-and-Agility-for-complex-systems.pdf?raw=true
 [product-vision]: https://github.com/oerich/EDA397/blob/master/Slides/product-vision.pdf?raw=true
 [ScalingAgile]: https://github.com/oerich/EDA397/blob/master/Slides/Luvoe-ScalingAgile.pdf
 [exam-examples]: https://github.com/oerich/EDA397/blob/master/Slides/exam-examples.pdf?raw=true
