@@ -1,6 +1,9 @@
 # Agile Development Processes - lp4, vt2017
 
-- Linked slides from Patrizio's guest lecture
+- Thank you for a wonderful course in Spring 2017!
+- We are currently marking exam and project reports
+- Exam reviews will be after summer break on Aug-18, 13:00 - 15:00, Room J218
+- Do not forget to participate in the course evaluation!
 
 Last update: 2017-05-23
 
